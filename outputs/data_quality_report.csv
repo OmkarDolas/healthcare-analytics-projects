@@ -1,0 +1,12 @@
+source,dimension,check_name,failed_rows
+claims_ops,completeness,null_turnaround_days,4
+claims_ops,uniqueness,duplicate_date_claim_type,6
+claims_ops,validity,negative_counts,3
+claims_ops,validity,turnaround_out_of_range,0
+claims_ops,consistency,processed_gt_received_plus_backlog,5
+claims_ops,consistency,denied_or_auto_gt_processed,0
+claims_ops,completeness,missing_dates,1
+call_center,completeness,null_handle_time,4
+call_center,uniqueness,duplicate_date_queue,0
+call_center,consistency,answered_plus_abandoned_ne_offered,4
+call_center,validity,negative_or_zero_offered_weekday,0

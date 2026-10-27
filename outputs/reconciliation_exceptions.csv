@@ -1,0 +1,14 @@
+date,source_received,report_received,source_processed,report_processed,source_denied,report_denied,received_var_pct,processed_var_pct,denied_var_pct,status,likely_cause
+2025-11-27,,25073,,24526,,1409,,,,MISSING IN SOURCE,Source extract missing for this date
+2025-02-19,22908.0,22908,22668.0,22668,52.0,1250,0.0,0.0,2303.85,EXCEPTION,Source row failed data quality checks (see quarantined_records.csv)
+2025-03-14,24879.0,23095,24565.0,22812,1405.0,1405,-7.17,-7.14,0.0,EXCEPTION,Late-arriving source file not loaded to reporting system
+2025-04-22,24217.0,24217,29773.0,23970,1330.0,1330,0.0,-19.49,0.0,EXCEPTION,Source row failed data quality checks (see quarantined_records.csv)
+2025-07-10,24319.0,24319,24050.0,24050,124.0,1330,0.0,0.0,972.58,EXCEPTION,Source row failed data quality checks (see quarantined_records.csv)
+2025-08-22,25256.0,23456,24647.0,22888,1458.0,1458,-7.13,-7.14,0.0,EXCEPTION,Late-arriving source file not loaded to reporting system
+2025-10-11,8576.0,8576,11444.0,8519,505.0,505,0.0,-25.56,0.0,EXCEPTION,Source row failed data quality checks (see quarantined_records.csv)
+2025-11-18,24187.0,24187,24853.0,23794,1325.0,1325,0.0,-4.26,0.0,EXCEPTION,Source row failed data quality checks (see quarantined_records.csv)
+2025-12-13,8494.0,8494,8359.0,8359,60.0,478,0.0,0.0,696.67,EXCEPTION,Source row failed data quality checks (see quarantined_records.csv)
+2026-02-06,25583.0,23703,25204.0,23331,1569.0,1569,-7.35,-7.43,0.0,EXCEPTION,Late-arriving source file not loaded to reporting system
+2026-03-20,24431.0,24431,32882.0,23980,1292.0,1292,0.0,-27.07,0.0,EXCEPTION,Source row failed data quality checks (see quarantined_records.csv)
+2026-04-23,23873.0,23873,28224.0,23337,1238.0,1238,0.0,-17.32,0.0,EXCEPTION,Source row failed data quality checks (see quarantined_records.csv)
+2026-05-19,23771.0,23771,23518.0,23518,1366.0,2266,0.0,0.0,65.89,EXCEPTION,Manual adjustment in reporting system not posted to source

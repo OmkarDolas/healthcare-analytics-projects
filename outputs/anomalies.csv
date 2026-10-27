@@ -1,0 +1,16 @@
+date,kpi,value,baseline_28d_mean,z_score
+2025-06-01,processing_rate_pct,100.42,98.58,4.11
+2025-06-09,auto_adjudication_pct,53.57,88.59,-56.56
+2025-06-09,avg_turnaround_days,9.09,3.46,50.73
+2025-06-09,processing_rate_pct,24.99,98.59,-113.18
+2025-06-10,auto_adjudication_pct,53.27,87.3,-5.13
+2025-06-10,avg_turnaround_days,8.13,3.66,4.18
+2025-06-10,processing_rate_pct,35.99,95.97,-4.31
+2025-10-15,abandonment_pct,9.53,4.35,12.73
+2025-10-15,asa_sec,99.3,36.32,15.76
+2025-10-16,abandonment_pct,10.7,4.51,5.85
+2025-10-16,asa_sec,100.7,38.7,4.96
+2025-10-17,abandonment_pct,11.97,4.74,4.59
+2025-12-08,abandonment_pct,4.72,10.47,-4.6
+2025-12-08,asa_sec,36.3,95.65,-5.15
+2026-01-15,asa_sec,51.0,37.06,4.07

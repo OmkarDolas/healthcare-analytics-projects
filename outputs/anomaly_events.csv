@@ -1,0 +1,6 @@
+event_start,event_end,days_flagged,kpis,max_abs_z
+2025-06-01,2025-06-01,1,processing_rate_pct,4.1
+2025-06-09,2025-06-10,2,"auto_adjudication_pct, avg_turnaround_days, processing_rate_pct",113.2
+2025-10-15,2025-10-17,3,"abandonment_pct, asa_sec",15.8
+2025-12-08,2025-12-08,1,"abandonment_pct, asa_sec",5.2
+2026-01-15,2026-01-15,1,asa_sec,4.1
