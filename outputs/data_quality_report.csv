@@ -1,0 +1,6 @@
+check_name,failed_rows,status
+missing_county,10,FAIL - excluded
+invalid_raf_score,15,FAIL - excluded
+duplicate_member_year,0,PASS
+age_out_of_segment_range,0,PASS
+hcc_count_mismatch,0,PASS

@@ -1,0 +1,61 @@
+segment,payment_year,hcc,description,coefficient,prevalence_pct
+ACA,2023,HCC19,Diabetes without Complication,0.105,3.74
+ACA,2023,HCC18,Diabetes with Chronic Complications,0.302,3.03
+ACA,2023,HCC138,"Chronic Kidney Disease, Moderate (Stage 3)",0.069,2.74
+ACA,2023,HCC111,Chronic Obstructive Pulmonary Disease,0.335,2.46
+ACA,2023,HCC96,Specified Heart Arrhythmias,0.268,2.05
+ACA,2023,HCC85,Congestive Heart Failure,0.331,2.0
+ACA,2023,HCC108,Vascular Disease,0.288,1.63
+ACA,2023,HCC59,Major Depressive / Bipolar Disorders,0.309,1.38
+ACA,2023,HCC22,Morbid Obesity,0.25,1.23
+ACA,2023,HCC12,"Breast, Prostate and Other Cancers",0.15,0.93
+ACA,2024,HCC19,Diabetes without Complication,0.105,4.36
+ACA,2024,HCC18,Diabetes with Chronic Complications,0.302,3.24
+ACA,2024,HCC138,"Chronic Kidney Disease, Moderate (Stage 3)",0.069,2.94
+ACA,2024,HCC111,Chronic Obstructive Pulmonary Disease,0.335,2.75
+ACA,2024,HCC96,Specified Heart Arrhythmias,0.268,2.59
+ACA,2024,HCC85,Congestive Heart Failure,0.331,2.15
+ACA,2024,HCC108,Vascular Disease,0.288,1.9
+ACA,2024,HCC59,Major Depressive / Bipolar Disorders,0.309,1.69
+ACA,2024,HCC22,Morbid Obesity,0.25,1.49
+ACA,2024,HCC12,"Breast, Prostate and Other Cancers",0.15,1.21
+ACA,2025,HCC19,Diabetes without Complication,0.105,5.13
+ACA,2025,HCC18,Diabetes with Chronic Complications,0.302,3.9
+ACA,2025,HCC138,"Chronic Kidney Disease, Moderate (Stage 3)",0.069,3.6
+ACA,2025,HCC111,Chronic Obstructive Pulmonary Disease,0.335,3.25
+ACA,2025,HCC96,Specified Heart Arrhythmias,0.268,2.94
+ACA,2025,HCC85,Congestive Heart Failure,0.331,2.61
+ACA,2025,HCC108,Vascular Disease,0.288,2.25
+ACA,2025,HCC59,Major Depressive / Bipolar Disorders,0.309,1.96
+ACA,2025,HCC22,Morbid Obesity,0.25,1.68
+ACA,2025,HCC12,"Breast, Prostate and Other Cancers",0.15,1.38
+MA,2023,HCC19,Diabetes without Complication,0.105,17.54
+MA,2023,HCC18,Diabetes with Chronic Complications,0.302,14.01
+MA,2023,HCC138,"Chronic Kidney Disease, Moderate (Stage 3)",0.069,11.51
+MA,2023,HCC111,Chronic Obstructive Pulmonary Disease,0.335,10.99
+MA,2023,HCC96,Specified Heart Arrhythmias,0.268,10.0
+MA,2023,HCC85,Congestive Heart Failure,0.331,9.05
+MA,2023,HCC108,Vascular Disease,0.288,7.56
+MA,2023,HCC59,Major Depressive / Bipolar Disorders,0.309,6.86
+MA,2023,HCC22,Morbid Obesity,0.25,5.77
+MA,2023,HCC12,"Breast, Prostate and Other Cancers",0.15,5.08
+MA,2024,HCC19,Diabetes without Complication,0.105,19.41
+MA,2024,HCC18,Diabetes with Chronic Complications,0.302,15.51
+MA,2024,HCC138,"Chronic Kidney Disease, Moderate (Stage 3)",0.069,13.6
+MA,2024,HCC111,Chronic Obstructive Pulmonary Disease,0.335,12.53
+MA,2024,HCC96,Specified Heart Arrhythmias,0.268,11.47
+MA,2024,HCC85,Congestive Heart Failure,0.331,10.48
+MA,2024,HCC108,Vascular Disease,0.288,8.62
+MA,2024,HCC59,Major Depressive / Bipolar Disorders,0.309,7.78
+MA,2024,HCC22,Morbid Obesity,0.25,6.68
+MA,2024,HCC12,"Breast, Prostate and Other Cancers",0.15,5.72
+MA,2025,HCC19,Diabetes without Complication,0.105,22.39
+MA,2025,HCC18,Diabetes with Chronic Complications,0.302,17.85
+MA,2025,HCC138,"Chronic Kidney Disease, Moderate (Stage 3)",0.069,15.43
+MA,2025,HCC111,Chronic Obstructive Pulmonary Disease,0.335,14.09
+MA,2025,HCC96,Specified Heart Arrhythmias,0.268,12.98
+MA,2025,HCC85,Congestive Heart Failure,0.331,11.94
+MA,2025,HCC108,Vascular Disease,0.288,10.07
+MA,2025,HCC59,Major Depressive / Bipolar Disorders,0.309,9.1
+MA,2025,HCC22,Morbid Obesity,0.25,7.73
+MA,2025,HCC12,"Breast, Prostate and Other Cancers",0.15,6.74

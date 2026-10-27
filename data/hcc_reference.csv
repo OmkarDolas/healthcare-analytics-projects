@@ -1,0 +1,11 @@
+hcc,description,coefficient,base_prevalence
+HCC18,Diabetes with Chronic Complications,0.302,0.14
+HCC19,Diabetes without Complication,0.105,0.18
+HCC85,Congestive Heart Failure,0.331,0.09
+HCC96,Specified Heart Arrhythmias,0.268,0.1
+HCC111,Chronic Obstructive Pulmonary Disease,0.335,0.11
+HCC108,Vascular Disease,0.288,0.08
+HCC59,Major Depressive / Bipolar Disorders,0.309,0.07
+HCC138,"Chronic Kidney Disease, Moderate (Stage 3)",0.069,0.12
+HCC22,Morbid Obesity,0.25,0.06
+HCC12,"Breast, Prostate and Other Cancers",0.15,0.05

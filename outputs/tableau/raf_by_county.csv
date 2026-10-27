@@ -1,0 +1,11 @@
+segment,county,payment_year,members,avg_raf,dual_pct
+ACA,Chester,2025,1176,0.403,0.0
+ACA,Delaware,2025,1260,0.3959,0.0
+ACA,Philadelphia,2025,2657,0.3943,0.0
+ACA,Bucks,2025,1182,0.393,0.0
+ACA,Montgomery,2025,1720,0.3904,0.0
+MA,Delaware,2025,1897,0.8422,18.24
+MA,Montgomery,2025,2544,0.8339,18.0
+MA,Chester,2025,1742,0.8309,18.31
+MA,Bucks,2025,1785,0.8307,18.21
+MA,Philadelphia,2025,4026,0.8231,17.11
