@@ -1,0 +1,2071 @@
+month,product,region,billed_members
+2021-01-01,ACA Individual,Bucks,6041
+2021-02-01,ACA Individual,Bucks,5963
+2021-03-01,ACA Individual,Bucks,5864
+2021-04-01,ACA Individual,Bucks,5922
+2021-05-01,ACA Individual,Bucks,5925
+2021-06-01,ACA Individual,Bucks,5946
+2021-07-01,ACA Individual,Bucks,5973
+2021-08-01,ACA Individual,Bucks,5959
+2021-09-01,ACA Individual,Bucks,5993
+2021-10-01,ACA Individual,Bucks,5954
+2021-11-01,ACA Individual,Bucks,5952
+2021-12-01,ACA Individual,Bucks,5994
+2022-01-01,ACA Individual,Bucks,6479
+2022-02-01,ACA Individual,Bucks,6407
+2022-03-01,ACA Individual,Bucks,6274
+2022-04-01,ACA Individual,Bucks,6224
+2022-05-01,ACA Individual,Bucks,6292
+2022-06-01,ACA Individual,Bucks,6317
+2022-07-01,ACA Individual,Bucks,6327
+2022-08-01,ACA Individual,Bucks,6285
+2022-09-01,ACA Individual,Bucks,6276
+2022-10-01,ACA Individual,Bucks,6342
+2022-11-01,ACA Individual,Bucks,6372
+2022-12-01,ACA Individual,Bucks,6368
+2023-01-01,ACA Individual,Bucks,6787
+2023-02-01,ACA Individual,Bucks,6679
+2023-03-01,ACA Individual,Bucks,6593
+2023-04-01,ACA Individual,Bucks,6603
+2023-05-01,ACA Individual,Bucks,6627
+2023-06-01,ACA Individual,Bucks,6745
+2023-07-01,ACA Individual,Bucks,6733
+2023-08-01,ACA Individual,Bucks,6716
+2023-09-01,ACA Individual,Bucks,6744
+2023-10-01,ACA Individual,Bucks,6730
+2023-11-01,ACA Individual,Bucks,6788
+2023-12-01,ACA Individual,Bucks,6754
+2024-01-01,ACA Individual,Bucks,7403
+2024-02-01,ACA Individual,Bucks,7246
+2024-03-01,ACA Individual,Bucks,7055
+2024-04-01,ACA Individual,Bucks,7090
+2024-05-01,ACA Individual,Bucks,7097
+2024-06-01,ACA Individual,Bucks,7146
+2024-07-01,ACA Individual,Bucks,7222
+2024-08-01,ACA Individual,Bucks,7172
+2024-09-01,ACA Individual,Bucks,7147
+2024-10-01,ACA Individual,Bucks,7172
+2024-11-01,ACA Individual,Bucks,7196
+2024-12-01,ACA Individual,Bucks,7203
+2025-01-01,ACA Individual,Bucks,7795
+2025-02-01,ACA Individual,Bucks,7632
+2025-03-01,ACA Individual,Bucks,7502
+2025-04-01,ACA Individual,Bucks,7523
+2025-05-01,ACA Individual,Bucks,7510
+2025-06-01,ACA Individual,Bucks,7532
+2025-07-01,ACA Individual,Bucks,7581
+2025-08-01,ACA Individual,Bucks,7646
+2025-09-01,ACA Individual,Bucks,7571
+2025-10-01,ACA Individual,Bucks,7661
+2025-11-01,ACA Individual,Bucks,7629
+2025-12-01,ACA Individual,Bucks,7671
+2026-01-01,ACA Individual,Bucks,7554
+2026-02-01,ACA Individual,Bucks,7323
+2026-03-01,ACA Individual,Bucks,7145
+2026-04-01,ACA Individual,Bucks,7082
+2026-05-01,ACA Individual,Bucks,7053
+2026-06-01,ACA Individual,Bucks,6847
+2026-07-01,ACA Individual,Bucks,7023
+2026-08-01,ACA Individual,Bucks,6948
+2026-09-01,ACA Individual,Bucks,6932
+2021-01-01,ACA Individual,Chester,5293
+2021-02-01,ACA Individual,Chester,5234
+2021-03-01,ACA Individual,Chester,5162
+2021-04-01,ACA Individual,Chester,5149
+2021-05-01,ACA Individual,Chester,5198
+2021-06-01,ACA Individual,Chester,5208
+2021-07-01,ACA Individual,Chester,5206
+2021-08-01,ACA Individual,Chester,5249
+2021-09-01,ACA Individual,Chester,5224
+2021-10-01,ACA Individual,Chester,5156
+2021-11-01,ACA Individual,Chester,5207
+2021-12-01,ACA Individual,Chester,5242
+2022-01-01,ACA Individual,Chester,5703
+2022-02-01,ACA Individual,Chester,5590
+2022-03-01,ACA Individual,Chester,5482
+2022-04-01,ACA Individual,Chester,5492
+2022-05-01,ACA Individual,Chester,5551
+2022-06-01,ACA Individual,Chester,5527
+2022-07-01,ACA Individual,Chester,5554
+2022-08-01,ACA Individual,Chester,5511
+2022-09-01,ACA Individual,Chester,5512
+2022-10-01,ACA Individual,Chester,5547
+2022-11-01,ACA Individual,Chester,5499
+2022-12-01,ACA Individual,Chester,5602
+2023-01-01,ACA Individual,Chester,5970
+2023-02-01,ACA Individual,Chester,5882
+2023-03-01,ACA Individual,Chester,5791
+2023-04-01,ACA Individual,Chester,5798
+2023-05-01,ACA Individual,Chester,5818
+2023-06-01,ACA Individual,Chester,5826
+2023-07-01,ACA Individual,Chester,5873
+2023-08-01,ACA Individual,Chester,5823
+2023-09-01,ACA Individual,Chester,5886
+2023-10-01,ACA Individual,Chester,5916
+2023-11-01,ACA Individual,Chester,5906
+2023-12-01,ACA Individual,Chester,5955
+2024-01-01,ACA Individual,Chester,6452
+2024-02-01,ACA Individual,Chester,6326
+2024-03-01,ACA Individual,Chester,6215
+2024-04-01,ACA Individual,Chester,6200
+2024-05-01,ACA Individual,Chester,6188
+2024-06-01,ACA Individual,Chester,6270
+2024-07-01,ACA Individual,Chester,6280
+2024-08-01,ACA Individual,Chester,6214
+2024-09-01,ACA Individual,Chester,6318
+2024-10-01,ACA Individual,Chester,6292
+2024-11-01,ACA Individual,Chester,6277
+2024-12-01,ACA Individual,Chester,6354
+2025-01-01,ACA Individual,Chester,6795
+2025-02-01,ACA Individual,Chester,6706
+2025-03-01,ACA Individual,Chester,6608
+2025-04-01,ACA Individual,Chester,6582
+2025-05-01,ACA Individual,Chester,6553
+2025-06-01,ACA Individual,Chester,6578
+2025-07-01,ACA Individual,Chester,6609
+2025-08-01,ACA Individual,Chester,6646
+2025-09-01,ACA Individual,Chester,6650
+2025-10-01,ACA Individual,Chester,6676
+2025-11-01,ACA Individual,Chester,6627
+2025-12-01,ACA Individual,Chester,6698
+2026-01-01,ACA Individual,Chester,6543
+2026-02-01,ACA Individual,Chester,6392
+2026-03-01,ACA Individual,Chester,6284
+2026-04-01,ACA Individual,Chester,6159
+2026-05-01,ACA Individual,Chester,6179
+2026-06-01,ACA Individual,Chester,5990
+2026-07-01,ACA Individual,Chester,6082
+2026-08-01,ACA Individual,Chester,6060
+2026-09-01,ACA Individual,Chester,6076
+2021-01-01,ACA Individual,Delaware,6069
+2021-02-01,ACA Individual,Delaware,5994
+2021-03-01,ACA Individual,Delaware,5888
+2021-04-01,ACA Individual,Delaware,5893
+2021-05-01,ACA Individual,Delaware,5931
+2021-06-01,ACA Individual,Delaware,5942
+2021-07-01,ACA Individual,Delaware,5984
+2021-08-01,ACA Individual,Delaware,6010
+2021-09-01,ACA Individual,Delaware,5947
+2021-10-01,ACA Individual,Delaware,6043
+2021-11-01,ACA Individual,Delaware,5994
+2021-12-01,ACA Individual,Delaware,5985
+2022-01-01,ACA Individual,Delaware,6488
+2022-02-01,ACA Individual,Delaware,6359
+2022-03-01,ACA Individual,Delaware,6264
+2022-04-01,ACA Individual,Delaware,6302
+2022-05-01,ACA Individual,Delaware,6305
+2022-06-01,ACA Individual,Delaware,6312
+2022-07-01,ACA Individual,Delaware,6258
+2022-08-01,ACA Individual,Delaware,6279
+2022-09-01,ACA Individual,Delaware,6306
+2022-10-01,ACA Individual,Delaware,6313
+2022-11-01,ACA Individual,Delaware,6364
+2022-12-01,ACA Individual,Delaware,6370
+2023-01-01,ACA Individual,Delaware,6856
+2023-02-01,ACA Individual,Delaware,6739
+2023-03-01,ACA Individual,Delaware,6612
+2023-04-01,ACA Individual,Delaware,6589
+2023-05-01,ACA Individual,Delaware,6638
+2023-06-01,ACA Individual,Delaware,6703
+2023-07-01,ACA Individual,Delaware,6711
+2023-08-01,ACA Individual,Delaware,6695
+2023-09-01,ACA Individual,Delaware,6709
+2023-10-01,ACA Individual,Delaware,6765
+2023-11-01,ACA Individual,Delaware,6781
+2023-12-01,ACA Individual,Delaware,6817
+2024-01-01,ACA Individual,Delaware,7327
+2024-02-01,ACA Individual,Delaware,7245
+2024-03-01,ACA Individual,Delaware,7043
+2024-04-01,ACA Individual,Delaware,7087
+2024-05-01,ACA Individual,Delaware,7133
+2024-06-01,ACA Individual,Delaware,7123
+2024-07-01,ACA Individual,Delaware,7209
+2024-08-01,ACA Individual,Delaware,7129
+2024-09-01,ACA Individual,Delaware,7190
+2024-10-01,ACA Individual,Delaware,7141
+2024-11-01,ACA Individual,Delaware,7175
+2024-12-01,ACA Individual,Delaware,7221
+2025-01-01,ACA Individual,Delaware,7815
+2025-02-01,ACA Individual,Delaware,7680
+2025-03-01,ACA Individual,Delaware,7545
+2025-04-01,ACA Individual,Delaware,7475
+2025-05-01,ACA Individual,Delaware,7567
+2025-06-01,ACA Individual,Delaware,7511
+2025-07-01,ACA Individual,Delaware,7601
+2025-08-01,ACA Individual,Delaware,7595
+2025-09-01,ACA Individual,Delaware,7559
+2025-10-01,ACA Individual,Delaware,7664
+2025-11-01,ACA Individual,Delaware,7677
+2025-12-01,ACA Individual,Delaware,7716
+2026-01-01,ACA Individual,Delaware,7533
+2026-02-01,ACA Individual,Delaware,7302
+2026-03-01,ACA Individual,Delaware,7139
+2026-04-01,ACA Individual,Delaware,7131
+2026-05-01,ACA Individual,Delaware,7047
+2026-06-01,ACA Individual,Delaware,6812
+2026-07-01,ACA Individual,Delaware,7012
+2026-08-01,ACA Individual,Delaware,6974
+2026-09-01,ACA Individual,Delaware,6891
+2021-01-01,ACA Individual,Montgomery,7956
+2021-02-01,ACA Individual,Montgomery,7834
+2021-03-01,ACA Individual,Montgomery,7718
+2021-04-01,ACA Individual,Montgomery,7744
+2021-05-01,ACA Individual,Montgomery,7756
+2021-06-01,ACA Individual,Montgomery,7792
+2021-07-01,ACA Individual,Montgomery,7790
+2021-08-01,ACA Individual,Montgomery,7809
+2021-09-01,ACA Individual,Montgomery,7859
+2021-10-01,ACA Individual,Montgomery,7866
+2021-11-01,ACA Individual,Montgomery,7869
+2021-12-01,ACA Individual,Montgomery,7825
+2022-01-01,ACA Individual,Montgomery,8505
+2022-02-01,ACA Individual,Montgomery,8340
+2022-03-01,ACA Individual,Montgomery,8246
+2022-04-01,ACA Individual,Montgomery,8334
+2022-05-01,ACA Individual,Montgomery,8277
+2022-06-01,ACA Individual,Montgomery,8343
+2022-07-01,ACA Individual,Montgomery,8281
+2022-08-01,ACA Individual,Montgomery,8290
+2022-09-01,ACA Individual,Montgomery,8272
+2022-10-01,ACA Individual,Montgomery,8297
+2022-11-01,ACA Individual,Montgomery,8351
+2022-12-01,ACA Individual,Montgomery,8300
+2023-01-01,ACA Individual,Montgomery,8975
+2023-02-01,ACA Individual,Montgomery,8853
+2023-03-01,ACA Individual,Montgomery,8653
+2023-04-01,ACA Individual,Montgomery,8714
+2023-05-01,ACA Individual,Montgomery,8776
+2023-06-01,ACA Individual,Montgomery,8767
+2023-07-01,ACA Individual,Montgomery,8824
+2023-08-01,ACA Individual,Montgomery,8740
+2023-09-01,ACA Individual,Montgomery,8870
+2023-10-01,ACA Individual,Montgomery,8852
+2023-11-01,ACA Individual,Montgomery,8915
+2023-12-01,ACA Individual,Montgomery,8937
+2024-01-01,ACA Individual,Montgomery,9716
+2024-02-01,ACA Individual,Montgomery,9489
+2024-03-01,ACA Individual,Montgomery,9336
+2024-04-01,ACA Individual,Montgomery,9359
+2024-05-01,ACA Individual,Montgomery,9345
+2024-06-01,ACA Individual,Montgomery,9386
+2024-07-01,ACA Individual,Montgomery,9410
+2024-08-01,ACA Individual,Montgomery,9338
+2024-09-01,ACA Individual,Montgomery,9360
+2024-10-01,ACA Individual,Montgomery,9438
+2024-11-01,ACA Individual,Montgomery,9364
+2024-12-01,ACA Individual,Montgomery,9461
+2025-01-01,ACA Individual,Montgomery,10220
+2025-02-01,ACA Individual,Montgomery,10021
+2025-03-01,ACA Individual,Montgomery,9832
+2025-04-01,ACA Individual,Montgomery,9832
+2025-05-01,ACA Individual,Montgomery,9863
+2025-06-01,ACA Individual,Montgomery,9877
+2025-07-01,ACA Individual,Montgomery,9871
+2025-08-01,ACA Individual,Montgomery,9943
+2025-09-01,ACA Individual,Montgomery,9970
+2025-10-01,ACA Individual,Montgomery,10087
+2025-11-01,ACA Individual,Montgomery,10025
+2025-12-01,ACA Individual,Montgomery,9979
+2026-01-01,ACA Individual,Montgomery,9829
+2026-02-01,ACA Individual,Montgomery,9588
+2026-03-01,ACA Individual,Montgomery,9449
+2026-04-01,ACA Individual,Montgomery,9315
+2026-05-01,ACA Individual,Montgomery,9289
+2026-06-01,ACA Individual,Montgomery,8970
+2026-07-01,ACA Individual,Montgomery,9156
+2026-08-01,ACA Individual,Montgomery,9123
+2026-09-01,ACA Individual,Montgomery,9078
+2021-01-01,ACA Individual,Philadelphia,12479
+2021-02-01,ACA Individual,Philadelphia,12383
+2021-03-01,ACA Individual,Philadelphia,12124
+2021-04-01,ACA Individual,Philadelphia,12100
+2021-05-01,ACA Individual,Philadelphia,12210
+2021-06-01,ACA Individual,Philadelphia,12228
+2021-07-01,ACA Individual,Philadelphia,12275
+2021-08-01,ACA Individual,Philadelphia,12362
+2021-09-01,ACA Individual,Philadelphia,12456
+2021-10-01,ACA Individual,Philadelphia,12311
+2021-11-01,ACA Individual,Philadelphia,12379
+2021-12-01,ACA Individual,Philadelphia,12433
+2022-01-01,ACA Individual,Philadelphia,13377
+2022-02-01,ACA Individual,Philadelphia,13194
+2022-03-01,ACA Individual,Philadelphia,12886
+2022-04-01,ACA Individual,Philadelphia,12931
+2022-05-01,ACA Individual,Philadelphia,12950
+2022-06-01,ACA Individual,Philadelphia,13083
+2022-07-01,ACA Individual,Philadelphia,12972
+2022-08-01,ACA Individual,Philadelphia,13043
+2022-09-01,ACA Individual,Philadelphia,13035
+2022-10-01,ACA Individual,Philadelphia,13037
+2022-11-01,ACA Individual,Philadelphia,13103
+2022-12-01,ACA Individual,Philadelphia,13035
+2023-01-01,ACA Individual,Philadelphia,14127
+2023-02-01,ACA Individual,Philadelphia,13867
+2023-03-01,ACA Individual,Philadelphia,13544
+2023-04-01,ACA Individual,Philadelphia,13603
+2023-05-01,ACA Individual,Philadelphia,13764
+2023-06-01,ACA Individual,Philadelphia,13782
+2023-07-01,ACA Individual,Philadelphia,13798
+2023-08-01,ACA Individual,Philadelphia,13875
+2023-09-01,ACA Individual,Philadelphia,13803
+2023-10-01,ACA Individual,Philadelphia,14030
+2023-11-01,ACA Individual,Philadelphia,13994
+2023-12-01,ACA Individual,Philadelphia,14057
+2024-01-01,ACA Individual,Philadelphia,15285
+2024-02-01,ACA Individual,Philadelphia,14997
+2024-03-01,ACA Individual,Philadelphia,14616
+2024-04-01,ACA Individual,Philadelphia,14840
+2024-05-01,ACA Individual,Philadelphia,14566
+2024-06-01,ACA Individual,Philadelphia,14707
+2024-07-01,ACA Individual,Philadelphia,14748
+2024-08-01,ACA Individual,Philadelphia,14768
+2024-09-01,ACA Individual,Philadelphia,14776
+2024-10-01,ACA Individual,Philadelphia,14882
+2024-11-01,ACA Individual,Philadelphia,14856
+2024-12-01,ACA Individual,Philadelphia,14857
+2025-01-01,ACA Individual,Philadelphia,16210
+2025-02-01,ACA Individual,Philadelphia,15851
+2025-03-01,ACA Individual,Philadelphia,15577
+2025-04-01,ACA Individual,Philadelphia,15562
+2025-05-01,ACA Individual,Philadelphia,15477
+2025-06-01,ACA Individual,Philadelphia,15599
+2025-07-01,ACA Individual,Philadelphia,15588
+2025-08-01,ACA Individual,Philadelphia,15680
+2025-09-01,ACA Individual,Philadelphia,15724
+2025-10-01,ACA Individual,Philadelphia,15777
+2025-11-01,ACA Individual,Philadelphia,15802
+2025-12-01,ACA Individual,Philadelphia,15723
+2026-01-01,ACA Individual,Philadelphia,15486
+2026-02-01,ACA Individual,Philadelphia,15065
+2026-03-01,ACA Individual,Philadelphia,14739
+2026-04-01,ACA Individual,Philadelphia,14600
+2026-05-01,ACA Individual,Philadelphia,14512
+2026-06-01,ACA Individual,Philadelphia,14177
+2026-07-01,ACA Individual,Philadelphia,14477
+2026-08-01,ACA Individual,Philadelphia,14350
+2026-09-01,ACA Individual,Philadelphia,14263
+2021-01-01,Large Group,Bucks,34322
+2021-02-01,Large Group,Bucks,34203
+2021-03-01,Large Group,Bucks,34367
+2021-04-01,Large Group,Bucks,34593
+2021-05-01,Large Group,Bucks,34631
+2021-06-01,Large Group,Bucks,34395
+2021-07-01,Large Group,Bucks,34264
+2021-08-01,Large Group,Bucks,34451
+2021-09-01,Large Group,Bucks,34408
+2021-10-01,Large Group,Bucks,34187
+2021-11-01,Large Group,Bucks,34417
+2021-12-01,Large Group,Bucks,34257
+2022-01-01,Large Group,Bucks,35115
+2022-02-01,Large Group,Bucks,35044
+2022-03-01,Large Group,Bucks,35073
+2022-04-01,Large Group,Bucks,35256
+2022-05-01,Large Group,Bucks,35502
+2022-06-01,Large Group,Bucks,35268
+2022-07-01,Large Group,Bucks,35393
+2022-08-01,Large Group,Bucks,35435
+2022-09-01,Large Group,Bucks,35349
+2022-10-01,Large Group,Bucks,35118
+2022-11-01,Large Group,Bucks,35050
+2022-12-01,Large Group,Bucks,35084
+2023-01-01,Large Group,Bucks,36048
+2023-02-01,Large Group,Bucks,36100
+2023-03-01,Large Group,Bucks,35892
+2023-04-01,Large Group,Bucks,35909
+2023-05-01,Large Group,Bucks,35924
+2023-06-01,Large Group,Bucks,35898
+2023-07-01,Large Group,Bucks,36028
+2023-08-01,Large Group,Bucks,35961
+2023-09-01,Large Group,Bucks,36088
+2023-10-01,Large Group,Bucks,36149
+2023-11-01,Large Group,Bucks,36115
+2023-12-01,Large Group,Bucks,36132
+2024-01-01,Large Group,Bucks,37031
+2024-02-01,Large Group,Bucks,36600
+2024-03-01,Large Group,Bucks,36611
+2024-04-01,Large Group,Bucks,36893
+2024-05-01,Large Group,Bucks,37093
+2024-06-01,Large Group,Bucks,36792
+2024-07-01,Large Group,Bucks,36971
+2024-08-01,Large Group,Bucks,36764
+2024-09-01,Large Group,Bucks,36653
+2024-10-01,Large Group,Bucks,36985
+2024-11-01,Large Group,Bucks,36884
+2024-12-01,Large Group,Bucks,36890
+2025-01-01,Large Group,Bucks,37479
+2025-02-01,Large Group,Bucks,37861
+2025-03-01,Large Group,Bucks,37760
+2025-04-01,Large Group,Bucks,37830
+2025-05-01,Large Group,Bucks,37818
+2025-06-01,Large Group,Bucks,38163
+2025-07-01,Large Group,Bucks,37861
+2025-08-01,Large Group,Bucks,37955
+2025-09-01,Large Group,Bucks,37986
+2025-10-01,Large Group,Bucks,37867
+2025-11-01,Large Group,Bucks,37954
+2025-12-01,Large Group,Bucks,37943
+2026-01-01,Large Group,Bucks,39006
+2026-02-01,Large Group,Bucks,39126
+2026-03-01,Large Group,Bucks,38959
+2026-04-01,Large Group,Bucks,38897
+2026-05-01,Large Group,Bucks,38883
+2026-06-01,Large Group,Bucks,38961
+2026-07-01,Large Group,Bucks,38815
+2026-08-01,Large Group,Bucks,38983
+2026-09-01,Large Group,Bucks,38560
+2021-01-01,Large Group,Chester,30030
+2021-02-01,Large Group,Chester,29664
+2021-03-01,Large Group,Chester,30158
+2021-04-01,Large Group,Chester,29912
+2021-05-01,Large Group,Chester,30062
+2021-06-01,Large Group,Chester,30138
+2021-07-01,Large Group,Chester,29936
+2021-08-01,Large Group,Chester,29726
+2021-09-01,Large Group,Chester,30175
+2021-10-01,Large Group,Chester,30221
+2021-11-01,Large Group,Chester,29902
+2021-12-01,Large Group,Chester,30107
+2022-01-01,Large Group,Chester,30800
+2022-02-01,Large Group,Chester,30587
+2022-03-01,Large Group,Chester,30615
+2022-04-01,Large Group,Chester,31011
+2022-05-01,Large Group,Chester,30951
+2022-06-01,Large Group,Chester,30702
+2022-07-01,Large Group,Chester,30879
+2022-08-01,Large Group,Chester,30834
+2022-09-01,Large Group,Chester,31091
+2022-10-01,Large Group,Chester,30748
+2022-11-01,Large Group,Chester,30857
+2022-12-01,Large Group,Chester,30860
+2023-01-01,Large Group,Chester,31427
+2023-02-01,Large Group,Chester,31303
+2023-03-01,Large Group,Chester,31529
+2023-04-01,Large Group,Chester,31335
+2023-05-01,Large Group,Chester,31508
+2023-06-01,Large Group,Chester,31487
+2023-07-01,Large Group,Chester,31232
+2023-08-01,Large Group,Chester,31359
+2023-09-01,Large Group,Chester,31558
+2023-10-01,Large Group,Chester,31783
+2023-11-01,Large Group,Chester,31716
+2023-12-01,Large Group,Chester,31653
+2024-01-01,Large Group,Chester,32166
+2024-02-01,Large Group,Chester,32332
+2024-03-01,Large Group,Chester,31786
+2024-04-01,Large Group,Chester,32138
+2024-05-01,Large Group,Chester,32172
+2024-06-01,Large Group,Chester,32173
+2024-07-01,Large Group,Chester,32352
+2024-08-01,Large Group,Chester,32445
+2024-09-01,Large Group,Chester,32093
+2024-10-01,Large Group,Chester,32335
+2024-11-01,Large Group,Chester,32364
+2024-12-01,Large Group,Chester,32262
+2025-01-01,Large Group,Chester,33064
+2025-02-01,Large Group,Chester,32872
+2025-03-01,Large Group,Chester,32910
+2025-04-01,Large Group,Chester,32807
+2025-05-01,Large Group,Chester,33127
+2025-06-01,Large Group,Chester,32976
+2025-07-01,Large Group,Chester,33232
+2025-08-01,Large Group,Chester,33262
+2025-09-01,Large Group,Chester,33261
+2025-10-01,Large Group,Chester,33219
+2025-11-01,Large Group,Chester,33457
+2025-12-01,Large Group,Chester,33447
+2026-01-01,Large Group,Chester,33835
+2026-02-01,Large Group,Chester,33938
+2026-03-01,Large Group,Chester,34072
+2026-04-01,Large Group,Chester,33830
+2026-05-01,Large Group,Chester,34262
+2026-06-01,Large Group,Chester,34189
+2026-07-01,Large Group,Chester,33870
+2026-08-01,Large Group,Chester,34144
+2026-09-01,Large Group,Chester,34085
+2021-01-01,Large Group,Delaware,34397
+2021-02-01,Large Group,Delaware,34200
+2021-03-01,Large Group,Delaware,34276
+2021-04-01,Large Group,Delaware,34360
+2021-05-01,Large Group,Delaware,34317
+2021-06-01,Large Group,Delaware,34422
+2021-07-01,Large Group,Delaware,34268
+2021-08-01,Large Group,Delaware,34842
+2021-09-01,Large Group,Delaware,34499
+2021-10-01,Large Group,Delaware,34503
+2021-11-01,Large Group,Delaware,34292
+2021-12-01,Large Group,Delaware,34366
+2022-01-01,Large Group,Delaware,34868
+2022-02-01,Large Group,Delaware,35070
+2022-03-01,Large Group,Delaware,35250
+2022-04-01,Large Group,Delaware,35151
+2022-05-01,Large Group,Delaware,35414
+2022-06-01,Large Group,Delaware,35633
+2022-07-01,Large Group,Delaware,35491
+2022-08-01,Large Group,Delaware,35460
+2022-09-01,Large Group,Delaware,35089
+2022-10-01,Large Group,Delaware,35444
+2022-11-01,Large Group,Delaware,35028
+2022-12-01,Large Group,Delaware,35362
+2023-01-01,Large Group,Delaware,36175
+2023-02-01,Large Group,Delaware,36183
+2023-03-01,Large Group,Delaware,35823
+2023-04-01,Large Group,Delaware,35994
+2023-05-01,Large Group,Delaware,35689
+2023-06-01,Large Group,Delaware,35961
+2023-07-01,Large Group,Delaware,35893
+2023-08-01,Large Group,Delaware,36287
+2023-09-01,Large Group,Delaware,36055
+2023-10-01,Large Group,Delaware,36194
+2023-11-01,Large Group,Delaware,36101
+2023-12-01,Large Group,Delaware,36047
+2024-01-01,Large Group,Delaware,36652
+2024-02-01,Large Group,Delaware,36619
+2024-03-01,Large Group,Delaware,36572
+2024-04-01,Large Group,Delaware,36658
+2024-05-01,Large Group,Delaware,36831
+2024-06-01,Large Group,Delaware,36830
+2024-07-01,Large Group,Delaware,36888
+2024-08-01,Large Group,Delaware,36974
+2024-09-01,Large Group,Delaware,36831
+2024-10-01,Large Group,Delaware,36925
+2024-11-01,Large Group,Delaware,36635
+2024-12-01,Large Group,Delaware,36876
+2025-01-01,Large Group,Delaware,37849
+2025-02-01,Large Group,Delaware,37597
+2025-03-01,Large Group,Delaware,37812
+2025-04-01,Large Group,Delaware,37871
+2025-05-01,Large Group,Delaware,37632
+2025-06-01,Large Group,Delaware,37494
+2025-07-01,Large Group,Delaware,38406
+2025-08-01,Large Group,Delaware,37974
+2025-09-01,Large Group,Delaware,38166
+2025-10-01,Large Group,Delaware,38202
+2025-11-01,Large Group,Delaware,37945
+2025-12-01,Large Group,Delaware,38137
+2026-01-01,Large Group,Delaware,38848
+2026-02-01,Large Group,Delaware,38981
+2026-03-01,Large Group,Delaware,38882
+2026-04-01,Large Group,Delaware,38789
+2026-05-01,Large Group,Delaware,38743
+2026-06-01,Large Group,Delaware,39154
+2026-07-01,Large Group,Delaware,38718
+2026-08-01,Large Group,Delaware,38550
+2026-09-01,Large Group,Delaware,39027
+2021-01-01,Large Group,Montgomery,44922
+2021-02-01,Large Group,Montgomery,44706
+2021-03-01,Large Group,Montgomery,45344
+2021-04-01,Large Group,Montgomery,45051
+2021-05-01,Large Group,Montgomery,45143
+2021-06-01,Large Group,Montgomery,45010
+2021-07-01,Large Group,Montgomery,45190
+2021-08-01,Large Group,Montgomery,45551
+2021-09-01,Large Group,Montgomery,45541
+2021-10-01,Large Group,Montgomery,45216
+2021-11-01,Large Group,Montgomery,45168
+2021-12-01,Large Group,Montgomery,45220
+2022-01-01,Large Group,Montgomery,45891
+2022-02-01,Large Group,Montgomery,46095
+2022-03-01,Large Group,Montgomery,46284
+2022-04-01,Large Group,Montgomery,46129
+2022-05-01,Large Group,Montgomery,46285
+2022-06-01,Large Group,Montgomery,46216
+2022-07-01,Large Group,Montgomery,46804
+2022-08-01,Large Group,Montgomery,46643
+2022-09-01,Large Group,Montgomery,46030
+2022-10-01,Large Group,Montgomery,46283
+2022-11-01,Large Group,Montgomery,46118
+2022-12-01,Large Group,Montgomery,46328
+2023-01-01,Large Group,Montgomery,47135
+2023-02-01,Large Group,Montgomery,47400
+2023-03-01,Large Group,Montgomery,47455
+2023-04-01,Large Group,Montgomery,47006
+2023-05-01,Large Group,Montgomery,47327
+2023-06-01,Large Group,Montgomery,47151
+2023-07-01,Large Group,Montgomery,47023
+2023-08-01,Large Group,Montgomery,47275
+2023-09-01,Large Group,Montgomery,47305
+2023-10-01,Large Group,Montgomery,47166
+2023-11-01,Large Group,Montgomery,47613
+2023-12-01,Large Group,Montgomery,47457
+2024-01-01,Large Group,Montgomery,48519
+2024-02-01,Large Group,Montgomery,48052
+2024-03-01,Large Group,Montgomery,48417
+2024-04-01,Large Group,Montgomery,48328
+2024-05-01,Large Group,Montgomery,48428
+2024-06-01,Large Group,Montgomery,48407
+2024-07-01,Large Group,Montgomery,48262
+2024-08-01,Large Group,Montgomery,48758
+2024-09-01,Large Group,Montgomery,48502
+2024-10-01,Large Group,Montgomery,48374
+2024-11-01,Large Group,Montgomery,48399
+2024-12-01,Large Group,Montgomery,48551
+2025-01-01,Large Group,Montgomery,49486
+2025-02-01,Large Group,Montgomery,49574
+2025-03-01,Large Group,Montgomery,49457
+2025-04-01,Large Group,Montgomery,49645
+2025-05-01,Large Group,Montgomery,49801
+2025-06-01,Large Group,Montgomery,49497
+2025-07-01,Large Group,Montgomery,49817
+2025-08-01,Large Group,Montgomery,49982
+2025-09-01,Large Group,Montgomery,49784
+2025-10-01,Large Group,Montgomery,50267
+2025-11-01,Large Group,Montgomery,49945
+2025-12-01,Large Group,Montgomery,50217
+2026-01-01,Large Group,Montgomery,50866
+2026-02-01,Large Group,Montgomery,50663
+2026-03-01,Large Group,Montgomery,50518
+2026-04-01,Large Group,Montgomery,51048
+2026-05-01,Large Group,Montgomery,50802
+2026-06-01,Large Group,Montgomery,51278
+2026-07-01,Large Group,Montgomery,50847
+2026-08-01,Large Group,Montgomery,51151
+2026-09-01,Large Group,Montgomery,51486
+2021-01-01,Large Group,Philadelphia,70627
+2021-02-01,Large Group,Philadelphia,70112
+2021-03-01,Large Group,Philadelphia,71060
+2021-04-01,Large Group,Philadelphia,70946
+2021-05-01,Large Group,Philadelphia,70984
+2021-06-01,Large Group,Philadelphia,70415
+2021-07-01,Large Group,Philadelphia,70951
+2021-08-01,Large Group,Philadelphia,71275
+2021-09-01,Large Group,Philadelphia,71595
+2021-10-01,Large Group,Philadelphia,71093
+2021-11-01,Large Group,Philadelphia,70783
+2021-12-01,Large Group,Philadelphia,70645
+2022-01-01,Large Group,Philadelphia,72194
+2022-02-01,Large Group,Philadelphia,72330
+2022-03-01,Large Group,Philadelphia,72941
+2022-04-01,Large Group,Philadelphia,72522
+2022-05-01,Large Group,Philadelphia,72602
+2022-06-01,Large Group,Philadelphia,72927
+2022-07-01,Large Group,Philadelphia,72944
+2022-08-01,Large Group,Philadelphia,73032
+2022-09-01,Large Group,Philadelphia,72858
+2022-10-01,Large Group,Philadelphia,72434
+2022-11-01,Large Group,Philadelphia,72570
+2022-12-01,Large Group,Philadelphia,72574
+2023-01-01,Large Group,Philadelphia,73994
+2023-02-01,Large Group,Philadelphia,74613
+2023-03-01,Large Group,Philadelphia,73888
+2023-04-01,Large Group,Philadelphia,73616
+2023-05-01,Large Group,Philadelphia,73971
+2023-06-01,Large Group,Philadelphia,74124
+2023-07-01,Large Group,Philadelphia,73821
+2023-08-01,Large Group,Philadelphia,74230
+2023-09-01,Large Group,Philadelphia,74989
+2023-10-01,Large Group,Philadelphia,74674
+2023-11-01,Large Group,Philadelphia,74545
+2023-12-01,Large Group,Philadelphia,74651
+2024-01-01,Large Group,Philadelphia,75886
+2024-02-01,Large Group,Philadelphia,75487
+2024-03-01,Large Group,Philadelphia,75444
+2024-04-01,Large Group,Philadelphia,75542
+2024-05-01,Large Group,Philadelphia,76078
+2024-06-01,Large Group,Philadelphia,75665
+2024-07-01,Large Group,Philadelphia,76413
+2024-08-01,Large Group,Philadelphia,76241
+2024-09-01,Large Group,Philadelphia,76441
+2024-10-01,Large Group,Philadelphia,76468
+2024-11-01,Large Group,Philadelphia,76538
+2024-12-01,Large Group,Philadelphia,75944
+2025-01-01,Large Group,Philadelphia,77779
+2025-02-01,Large Group,Philadelphia,77534
+2025-03-01,Large Group,Philadelphia,77823
+2025-04-01,Large Group,Philadelphia,77356
+2025-05-01,Large Group,Philadelphia,78052
+2025-06-01,Large Group,Philadelphia,77764
+2025-07-01,Large Group,Philadelphia,78182
+2025-08-01,Large Group,Philadelphia,78540
+2025-09-01,Large Group,Philadelphia,78483
+2025-10-01,Large Group,Philadelphia,78400
+2025-11-01,Large Group,Philadelphia,78097
+2025-12-01,Large Group,Philadelphia,78883
+2026-01-01,Large Group,Philadelphia,79789
+2026-02-01,Large Group,Philadelphia,80682
+2026-03-01,Large Group,Philadelphia,79910
+2026-04-01,Large Group,Philadelphia,79422
+2026-05-01,Large Group,Philadelphia,80413
+2026-06-01,Large Group,Philadelphia,80028
+2026-07-01,Large Group,Philadelphia,79941
+2026-08-01,Large Group,Philadelphia,80659
+2026-09-01,Large Group,Philadelphia,80248
+2021-01-01,MA-HMO,Bucks,10551
+2021-02-01,MA-HMO,Bucks,10304
+2021-03-01,MA-HMO,Bucks,10254
+2021-04-01,MA-HMO,Bucks,10289
+2021-05-01,MA-HMO,Bucks,10289
+2021-06-01,MA-HMO,Bucks,10391
+2021-07-01,MA-HMO,Bucks,10444
+2021-08-01,MA-HMO,Bucks,10475
+2021-09-01,MA-HMO,Bucks,10561
+2021-10-01,MA-HMO,Bucks,10528
+2021-11-01,MA-HMO,Bucks,10540
+2021-12-01,MA-HMO,Bucks,10538
+2022-01-01,MA-HMO,Bucks,11177
+2022-02-01,MA-HMO,Bucks,11061
+2022-03-01,MA-HMO,Bucks,10973
+2022-04-01,MA-HMO,Bucks,10992
+2022-05-01,MA-HMO,Bucks,11019
+2022-06-01,MA-HMO,Bucks,11119
+2022-07-01,MA-HMO,Bucks,11173
+2022-08-01,MA-HMO,Bucks,11149
+2022-09-01,MA-HMO,Bucks,11161
+2022-10-01,MA-HMO,Bucks,11205
+2022-11-01,MA-HMO,Bucks,11102
+2022-12-01,MA-HMO,Bucks,11220
+2023-01-01,MA-HMO,Bucks,11834
+2023-02-01,MA-HMO,Bucks,11804
+2023-03-01,MA-HMO,Bucks,11600
+2023-04-01,MA-HMO,Bucks,11772
+2023-05-01,MA-HMO,Bucks,11805
+2023-06-01,MA-HMO,Bucks,11811
+2023-07-01,MA-HMO,Bucks,11784
+2023-08-01,MA-HMO,Bucks,11843
+2023-09-01,MA-HMO,Bucks,11925
+2023-10-01,MA-HMO,Bucks,11925
+2023-11-01,MA-HMO,Bucks,11940
+2023-12-01,MA-HMO,Bucks,12019
+2024-01-01,MA-HMO,Bucks,12703
+2024-02-01,MA-HMO,Bucks,12611
+2024-03-01,MA-HMO,Bucks,12406
+2024-04-01,MA-HMO,Bucks,12469
+2024-05-01,MA-HMO,Bucks,12603
+2024-06-01,MA-HMO,Bucks,12563
+2024-07-01,MA-HMO,Bucks,12478
+2024-08-01,MA-HMO,Bucks,12534
+2024-09-01,MA-HMO,Bucks,12576
+2024-10-01,MA-HMO,Bucks,12517
+2024-11-01,MA-HMO,Bucks,12629
+2024-12-01,MA-HMO,Bucks,12709
+2025-01-01,MA-HMO,Bucks,13416
+2025-02-01,MA-HMO,Bucks,13209
+2025-03-01,MA-HMO,Bucks,13172
+2025-04-01,MA-HMO,Bucks,13171
+2025-05-01,MA-HMO,Bucks,13300
+2025-06-01,MA-HMO,Bucks,13348
+2025-07-01,MA-HMO,Bucks,13323
+2025-08-01,MA-HMO,Bucks,13251
+2025-09-01,MA-HMO,Bucks,13183
+2025-10-01,MA-HMO,Bucks,13469
+2025-11-01,MA-HMO,Bucks,13505
+2025-12-01,MA-HMO,Bucks,13577
+2026-01-01,MA-HMO,Bucks,14252
+2026-02-01,MA-HMO,Bucks,14194
+2026-03-01,MA-HMO,Bucks,14011
+2026-04-01,MA-HMO,Bucks,13991
+2026-05-01,MA-HMO,Bucks,14031
+2026-06-01,MA-HMO,Bucks,14065
+2026-07-01,MA-HMO,Bucks,14161
+2026-08-01,MA-HMO,Bucks,14149
+2026-09-01,MA-HMO,Bucks,14305
+2021-01-01,MA-HMO,Chester,9155
+2021-02-01,MA-HMO,Chester,9027
+2021-03-01,MA-HMO,Chester,8961
+2021-04-01,MA-HMO,Chester,8951
+2021-05-01,MA-HMO,Chester,9069
+2021-06-01,MA-HMO,Chester,9070
+2021-07-01,MA-HMO,Chester,9164
+2021-08-01,MA-HMO,Chester,9160
+2021-09-01,MA-HMO,Chester,9225
+2021-10-01,MA-HMO,Chester,9198
+2021-11-01,MA-HMO,Chester,9262
+2021-12-01,MA-HMO,Chester,9252
+2022-01-01,MA-HMO,Chester,9802
+2022-02-01,MA-HMO,Chester,9687
+2022-03-01,MA-HMO,Chester,9612
+2022-04-01,MA-HMO,Chester,9626
+2022-05-01,MA-HMO,Chester,9649
+2022-06-01,MA-HMO,Chester,9710
+2022-07-01,MA-HMO,Chester,9806
+2022-08-01,MA-HMO,Chester,9730
+2022-09-01,MA-HMO,Chester,9734
+2022-10-01,MA-HMO,Chester,9784
+2022-11-01,MA-HMO,Chester,9728
+2022-12-01,MA-HMO,Chester,9810
+2023-01-01,MA-HMO,Chester,10410
+2023-02-01,MA-HMO,Chester,10305
+2023-03-01,MA-HMO,Chester,10269
+2023-04-01,MA-HMO,Chester,10253
+2023-05-01,MA-HMO,Chester,10347
+2023-06-01,MA-HMO,Chester,10363
+2023-07-01,MA-HMO,Chester,10428
+2023-08-01,MA-HMO,Chester,10488
+2023-09-01,MA-HMO,Chester,10446
+2023-10-01,MA-HMO,Chester,10526
+2023-11-01,MA-HMO,Chester,10492
+2023-12-01,MA-HMO,Chester,10524
+2024-01-01,MA-HMO,Chester,11097
+2024-02-01,MA-HMO,Chester,10999
+2024-03-01,MA-HMO,Chester,10815
+2024-04-01,MA-HMO,Chester,10852
+2024-05-01,MA-HMO,Chester,10983
+2024-06-01,MA-HMO,Chester,10950
+2024-07-01,MA-HMO,Chester,10973
+2024-08-01,MA-HMO,Chester,10963
+2024-09-01,MA-HMO,Chester,11023
+2024-10-01,MA-HMO,Chester,11035
+2024-11-01,MA-HMO,Chester,11088
+2024-12-01,MA-HMO,Chester,11140
+2025-01-01,MA-HMO,Chester,11748
+2025-02-01,MA-HMO,Chester,11652
+2025-03-01,MA-HMO,Chester,11554
+2025-04-01,MA-HMO,Chester,11577
+2025-05-01,MA-HMO,Chester,11492
+2025-06-01,MA-HMO,Chester,11599
+2025-07-01,MA-HMO,Chester,11669
+2025-08-01,MA-HMO,Chester,11626
+2025-09-01,MA-HMO,Chester,11678
+2025-10-01,MA-HMO,Chester,11721
+2025-11-01,MA-HMO,Chester,11710
+2025-12-01,MA-HMO,Chester,11872
+2026-01-01,MA-HMO,Chester,12515
+2026-02-01,MA-HMO,Chester,12315
+2026-03-01,MA-HMO,Chester,12232
+2026-04-01,MA-HMO,Chester,12180
+2026-05-01,MA-HMO,Chester,12317
+2026-06-01,MA-HMO,Chester,12349
+2026-07-01,MA-HMO,Chester,12390
+2026-08-01,MA-HMO,Chester,12378
+2026-09-01,MA-HMO,Chester,12429
+2021-01-01,MA-HMO,Delaware,10442
+2021-02-01,MA-HMO,Delaware,10342
+2021-03-01,MA-HMO,Delaware,10242
+2021-04-01,MA-HMO,Delaware,10260
+2021-05-01,MA-HMO,Delaware,10426
+2021-06-01,MA-HMO,Delaware,10393
+2021-07-01,MA-HMO,Delaware,10369
+2021-08-01,MA-HMO,Delaware,10490
+2021-09-01,MA-HMO,Delaware,10589
+2021-10-01,MA-HMO,Delaware,10490
+2021-11-01,MA-HMO,Delaware,10545
+2021-12-01,MA-HMO,Delaware,10508
+2022-01-01,MA-HMO,Delaware,11213
+2022-02-01,MA-HMO,Delaware,11145
+2022-03-01,MA-HMO,Delaware,11082
+2022-04-01,MA-HMO,Delaware,11023
+2022-05-01,MA-HMO,Delaware,11032
+2022-06-01,MA-HMO,Delaware,11012
+2022-07-01,MA-HMO,Delaware,11175
+2022-08-01,MA-HMO,Delaware,11061
+2022-09-01,MA-HMO,Delaware,11168
+2022-10-01,MA-HMO,Delaware,11254
+2022-11-01,MA-HMO,Delaware,11244
+2022-12-01,MA-HMO,Delaware,11180
+2023-01-01,MA-HMO,Delaware,11857
+2023-02-01,MA-HMO,Delaware,11703
+2023-03-01,MA-HMO,Delaware,11655
+2023-04-01,MA-HMO,Delaware,11762
+2023-05-01,MA-HMO,Delaware,11815
+2023-06-01,MA-HMO,Delaware,11852
+2023-07-01,MA-HMO,Delaware,11803
+2023-08-01,MA-HMO,Delaware,11900
+2023-09-01,MA-HMO,Delaware,11935
+2023-10-01,MA-HMO,Delaware,12016
+2023-11-01,MA-HMO,Delaware,11997
+2023-12-01,MA-HMO,Delaware,12025
+2024-01-01,MA-HMO,Delaware,12612
+2024-02-01,MA-HMO,Delaware,12495
+2024-03-01,MA-HMO,Delaware,12426
+2024-04-01,MA-HMO,Delaware,12459
+2024-05-01,MA-HMO,Delaware,12585
+2024-06-01,MA-HMO,Delaware,12501
+2024-07-01,MA-HMO,Delaware,12575
+2024-08-01,MA-HMO,Delaware,12629
+2024-09-01,MA-HMO,Delaware,12753
+2024-10-01,MA-HMO,Delaware,12656
+2024-11-01,MA-HMO,Delaware,12713
+2024-12-01,MA-HMO,Delaware,12800
+2025-01-01,MA-HMO,Delaware,13462
+2025-02-01,MA-HMO,Delaware,13275
+2025-03-01,MA-HMO,Delaware,13164
+2025-04-01,MA-HMO,Delaware,13219
+2025-05-01,MA-HMO,Delaware,13277
+2025-06-01,MA-HMO,Delaware,13279
+2025-07-01,MA-HMO,Delaware,13256
+2025-08-01,MA-HMO,Delaware,13333
+2025-09-01,MA-HMO,Delaware,13322
+2025-10-01,MA-HMO,Delaware,13389
+2025-11-01,MA-HMO,Delaware,13464
+2025-12-01,MA-HMO,Delaware,13538
+2026-01-01,MA-HMO,Delaware,14247
+2026-02-01,MA-HMO,Delaware,14122
+2026-03-01,MA-HMO,Delaware,13950
+2026-04-01,MA-HMO,Delaware,13967
+2026-05-01,MA-HMO,Delaware,14165
+2026-06-01,MA-HMO,Delaware,13973
+2026-07-01,MA-HMO,Delaware,14061
+2026-08-01,MA-HMO,Delaware,14140
+2026-09-01,MA-HMO,Delaware,14165
+2021-01-01,MA-HMO,Montgomery,13716
+2021-02-01,MA-HMO,Montgomery,13624
+2021-03-01,MA-HMO,Montgomery,13442
+2021-04-01,MA-HMO,Montgomery,13480
+2021-05-01,MA-HMO,Montgomery,13582
+2021-06-01,MA-HMO,Montgomery,13716
+2021-07-01,MA-HMO,Montgomery,13677
+2021-08-01,MA-HMO,Montgomery,13717
+2021-09-01,MA-HMO,Montgomery,13860
+2021-10-01,MA-HMO,Montgomery,13819
+2021-11-01,MA-HMO,Montgomery,13895
+2021-12-01,MA-HMO,Montgomery,13866
+2022-01-01,MA-HMO,Montgomery,14818
+2022-02-01,MA-HMO,Montgomery,14630
+2022-03-01,MA-HMO,Montgomery,14389
+2022-04-01,MA-HMO,Montgomery,14376
+2022-05-01,MA-HMO,Montgomery,14459
+2022-06-01,MA-HMO,Montgomery,14561
+2022-07-01,MA-HMO,Montgomery,14711
+2022-08-01,MA-HMO,Montgomery,14622
+2022-09-01,MA-HMO,Montgomery,14589
+2022-10-01,MA-HMO,Montgomery,14698
+2022-11-01,MA-HMO,Montgomery,14716
+2022-12-01,MA-HMO,Montgomery,14748
+2023-01-01,MA-HMO,Montgomery,15556
+2023-02-01,MA-HMO,Montgomery,15551
+2023-03-01,MA-HMO,Montgomery,15342
+2023-04-01,MA-HMO,Montgomery,15402
+2023-05-01,MA-HMO,Montgomery,15503
+2023-06-01,MA-HMO,Montgomery,15594
+2023-07-01,MA-HMO,Montgomery,15550
+2023-08-01,MA-HMO,Montgomery,15685
+2023-09-01,MA-HMO,Montgomery,15670
+2023-10-01,MA-HMO,Montgomery,15730
+2023-11-01,MA-HMO,Montgomery,15776
+2023-12-01,MA-HMO,Montgomery,15861
+2024-01-01,MA-HMO,Montgomery,16681
+2024-02-01,MA-HMO,Montgomery,16554
+2024-03-01,MA-HMO,Montgomery,16417
+2024-04-01,MA-HMO,Montgomery,16333
+2024-05-01,MA-HMO,Montgomery,16412
+2024-06-01,MA-HMO,Montgomery,16539
+2024-07-01,MA-HMO,Montgomery,16381
+2024-08-01,MA-HMO,Montgomery,16612
+2024-09-01,MA-HMO,Montgomery,16620
+2024-10-01,MA-HMO,Montgomery,16545
+2024-11-01,MA-HMO,Montgomery,16572
+2024-12-01,MA-HMO,Montgomery,16708
+2025-01-01,MA-HMO,Montgomery,17711
+2025-02-01,MA-HMO,Montgomery,17494
+2025-03-01,MA-HMO,Montgomery,17280
+2025-04-01,MA-HMO,Montgomery,17377
+2025-05-01,MA-HMO,Montgomery,17473
+2025-06-01,MA-HMO,Montgomery,17505
+2025-07-01,MA-HMO,Montgomery,17451
+2025-08-01,MA-HMO,Montgomery,17388
+2025-09-01,MA-HMO,Montgomery,17488
+2025-10-01,MA-HMO,Montgomery,17617
+2025-11-01,MA-HMO,Montgomery,17785
+2025-12-01,MA-HMO,Montgomery,17805
+2026-01-01,MA-HMO,Montgomery,18808
+2026-02-01,MA-HMO,Montgomery,18701
+2026-03-01,MA-HMO,Montgomery,18263
+2026-04-01,MA-HMO,Montgomery,18476
+2026-05-01,MA-HMO,Montgomery,18442
+2026-06-01,MA-HMO,Montgomery,18537
+2026-07-01,MA-HMO,Montgomery,18478
+2026-08-01,MA-HMO,Montgomery,18450
+2026-09-01,MA-HMO,Montgomery,18574
+2021-01-01,MA-HMO,Philadelphia,21670
+2021-02-01,MA-HMO,Philadelphia,21441
+2021-03-01,MA-HMO,Philadelphia,21194
+2021-04-01,MA-HMO,Philadelphia,21296
+2021-05-01,MA-HMO,Philadelphia,21198
+2021-06-01,MA-HMO,Philadelphia,21421
+2021-07-01,MA-HMO,Philadelphia,21641
+2021-08-01,MA-HMO,Philadelphia,21587
+2021-09-01,MA-HMO,Philadelphia,21778
+2021-10-01,MA-HMO,Philadelphia,21680
+2021-11-01,MA-HMO,Philadelphia,21878
+2021-12-01,MA-HMO,Philadelphia,21875
+2022-01-01,MA-HMO,Philadelphia,23011
+2022-02-01,MA-HMO,Philadelphia,22831
+2022-03-01,MA-HMO,Philadelphia,22668
+2022-04-01,MA-HMO,Philadelphia,22734
+2022-05-01,MA-HMO,Philadelphia,22647
+2022-06-01,MA-HMO,Philadelphia,22955
+2022-07-01,MA-HMO,Philadelphia,23056
+2022-08-01,MA-HMO,Philadelphia,23019
+2022-09-01,MA-HMO,Philadelphia,22876
+2022-10-01,MA-HMO,Philadelphia,23047
+2022-11-01,MA-HMO,Philadelphia,23153
+2022-12-01,MA-HMO,Philadelphia,23079
+2023-01-01,MA-HMO,Philadelphia,24615
+2023-02-01,MA-HMO,Philadelphia,24534
+2023-03-01,MA-HMO,Philadelphia,24251
+2023-04-01,MA-HMO,Philadelphia,24252
+2023-05-01,MA-HMO,Philadelphia,24425
+2023-06-01,MA-HMO,Philadelphia,24373
+2023-07-01,MA-HMO,Philadelphia,24502
+2023-08-01,MA-HMO,Philadelphia,24748
+2023-09-01,MA-HMO,Philadelphia,24521
+2023-10-01,MA-HMO,Philadelphia,24908
+2023-11-01,MA-HMO,Philadelphia,24719
+2023-12-01,MA-HMO,Philadelphia,24705
+2024-01-01,MA-HMO,Philadelphia,26303
+2024-02-01,MA-HMO,Philadelphia,25831
+2024-03-01,MA-HMO,Philadelphia,25903
+2024-04-01,MA-HMO,Philadelphia,25596
+2024-05-01,MA-HMO,Philadelphia,25708
+2024-06-01,MA-HMO,Philadelphia,25971
+2024-07-01,MA-HMO,Philadelphia,26000
+2024-08-01,MA-HMO,Philadelphia,25951
+2024-09-01,MA-HMO,Philadelphia,26120
+2024-10-01,MA-HMO,Philadelphia,26189
+2024-11-01,MA-HMO,Philadelphia,26108
+2024-12-01,MA-HMO,Philadelphia,26249
+2025-01-01,MA-HMO,Philadelphia,27751
+2025-02-01,MA-HMO,Philadelphia,27476
+2025-03-01,MA-HMO,Philadelphia,27136
+2025-04-01,MA-HMO,Philadelphia,27280
+2025-05-01,MA-HMO,Philadelphia,27186
+2025-06-01,MA-HMO,Philadelphia,27224
+2025-07-01,MA-HMO,Philadelphia,27462
+2025-08-01,MA-HMO,Philadelphia,27531
+2025-09-01,MA-HMO,Philadelphia,27439
+2025-10-01,MA-HMO,Philadelphia,27810
+2025-11-01,MA-HMO,Philadelphia,27901
+2025-12-01,MA-HMO,Philadelphia,27829
+2026-01-01,MA-HMO,Philadelphia,29467
+2026-02-01,MA-HMO,Philadelphia,29088
+2026-03-01,MA-HMO,Philadelphia,28770
+2026-04-01,MA-HMO,Philadelphia,28858
+2026-05-01,MA-HMO,Philadelphia,29251
+2026-06-01,MA-HMO,Philadelphia,29284
+2026-07-01,MA-HMO,Philadelphia,29100
+2026-08-01,MA-HMO,Philadelphia,28954
+2026-09-01,MA-HMO,Philadelphia,29257
+2021-01-01,MA-PPO,Bucks,6967
+2021-02-01,MA-PPO,Bucks,6915
+2021-03-01,MA-PPO,Bucks,6870
+2021-04-01,MA-PPO,Bucks,6873
+2021-05-01,MA-PPO,Bucks,6862
+2021-06-01,MA-PPO,Bucks,6923
+2021-07-01,MA-PPO,Bucks,6934
+2021-08-01,MA-PPO,Bucks,6962
+2021-09-01,MA-PPO,Bucks,7014
+2021-10-01,MA-PPO,Bucks,7030
+2021-11-01,MA-PPO,Bucks,7075
+2021-12-01,MA-PPO,Bucks,7047
+2022-01-01,MA-PPO,Bucks,7534
+2022-02-01,MA-PPO,Bucks,7439
+2022-03-01,MA-PPO,Bucks,7386
+2022-04-01,MA-PPO,Bucks,7388
+2022-05-01,MA-PPO,Bucks,7531
+2022-06-01,MA-PPO,Bucks,7501
+2022-07-01,MA-PPO,Bucks,7538
+2022-08-01,MA-PPO,Bucks,7643
+2022-09-01,MA-PPO,Bucks,7576
+2022-10-01,MA-PPO,Bucks,7697
+2022-11-01,MA-PPO,Bucks,7711
+2022-12-01,MA-PPO,Bucks,7809
+2023-01-01,MA-PPO,Bucks,8271
+2023-02-01,MA-PPO,Bucks,8135
+2023-03-01,MA-PPO,Bucks,8102
+2023-04-01,MA-PPO,Bucks,8105
+2023-05-01,MA-PPO,Bucks,8189
+2023-06-01,MA-PPO,Bucks,8157
+2023-07-01,MA-PPO,Bucks,8209
+2023-08-01,MA-PPO,Bucks,8244
+2023-09-01,MA-PPO,Bucks,8328
+2023-10-01,MA-PPO,Bucks,8424
+2023-11-01,MA-PPO,Bucks,8408
+2023-12-01,MA-PPO,Bucks,8494
+2024-01-01,MA-PPO,Bucks,9046
+2024-02-01,MA-PPO,Bucks,8871
+2024-03-01,MA-PPO,Bucks,8829
+2024-04-01,MA-PPO,Bucks,8869
+2024-05-01,MA-PPO,Bucks,8922
+2024-06-01,MA-PPO,Bucks,8925
+2024-07-01,MA-PPO,Bucks,8955
+2024-08-01,MA-PPO,Bucks,9060
+2024-09-01,MA-PPO,Bucks,9135
+2024-10-01,MA-PPO,Bucks,9152
+2024-11-01,MA-PPO,Bucks,9160
+2024-12-01,MA-PPO,Bucks,9206
+2025-01-01,MA-PPO,Bucks,9818
+2025-02-01,MA-PPO,Bucks,9690
+2025-03-01,MA-PPO,Bucks,9587
+2025-04-01,MA-PPO,Bucks,9635
+2025-05-01,MA-PPO,Bucks,9683
+2025-06-01,MA-PPO,Bucks,9807
+2025-07-01,MA-PPO,Bucks,9727
+2025-08-01,MA-PPO,Bucks,9876
+2025-09-01,MA-PPO,Bucks,9849
+2025-10-01,MA-PPO,Bucks,9875
+2025-11-01,MA-PPO,Bucks,9967
+2025-12-01,MA-PPO,Bucks,10016
+2026-01-01,MA-PPO,Bucks,10865
+2026-02-01,MA-PPO,Bucks,10671
+2026-03-01,MA-PPO,Bucks,10631
+2026-04-01,MA-PPO,Bucks,10646
+2026-05-01,MA-PPO,Bucks,10752
+2026-06-01,MA-PPO,Bucks,10818
+2026-07-01,MA-PPO,Bucks,10936
+2026-08-01,MA-PPO,Bucks,10973
+2026-09-01,MA-PPO,Bucks,11082
+2021-01-01,MA-PPO,Chester,6176
+2021-02-01,MA-PPO,Chester,6042
+2021-03-01,MA-PPO,Chester,6005
+2021-04-01,MA-PPO,Chester,6036
+2021-05-01,MA-PPO,Chester,6031
+2021-06-01,MA-PPO,Chester,6036
+2021-07-01,MA-PPO,Chester,6078
+2021-08-01,MA-PPO,Chester,6075
+2021-09-01,MA-PPO,Chester,6083
+2021-10-01,MA-PPO,Chester,6174
+2021-11-01,MA-PPO,Chester,6228
+2021-12-01,MA-PPO,Chester,6248
+2022-01-01,MA-PPO,Chester,6595
+2022-02-01,MA-PPO,Chester,6498
+2022-03-01,MA-PPO,Chester,6495
+2022-04-01,MA-PPO,Chester,6544
+2022-05-01,MA-PPO,Chester,6580
+2022-06-01,MA-PPO,Chester,6583
+2022-07-01,MA-PPO,Chester,6603
+2022-08-01,MA-PPO,Chester,6623
+2022-09-01,MA-PPO,Chester,6659
+2022-10-01,MA-PPO,Chester,6706
+2022-11-01,MA-PPO,Chester,6772
+2022-12-01,MA-PPO,Chester,6771
+2023-01-01,MA-PPO,Chester,7211
+2023-02-01,MA-PPO,Chester,7123
+2023-03-01,MA-PPO,Chester,7104
+2023-04-01,MA-PPO,Chester,7208
+2023-05-01,MA-PPO,Chester,7118
+2023-06-01,MA-PPO,Chester,7201
+2023-07-01,MA-PPO,Chester,7192
+2023-08-01,MA-PPO,Chester,7249
+2023-09-01,MA-PPO,Chester,7299
+2023-10-01,MA-PPO,Chester,7352
+2023-11-01,MA-PPO,Chester,7350
+2023-12-01,MA-PPO,Chester,7353
+2024-01-01,MA-PPO,Chester,7931
+2024-02-01,MA-PPO,Chester,7799
+2024-03-01,MA-PPO,Chester,7715
+2024-04-01,MA-PPO,Chester,7759
+2024-05-01,MA-PPO,Chester,7838
+2024-06-01,MA-PPO,Chester,7832
+2024-07-01,MA-PPO,Chester,7855
+2024-08-01,MA-PPO,Chester,7953
+2024-09-01,MA-PPO,Chester,7979
+2024-10-01,MA-PPO,Chester,8015
+2024-11-01,MA-PPO,Chester,8101
+2024-12-01,MA-PPO,Chester,8023
+2025-01-01,MA-PPO,Chester,8580
+2025-02-01,MA-PPO,Chester,8427
+2025-03-01,MA-PPO,Chester,8413
+2025-04-01,MA-PPO,Chester,8393
+2025-05-01,MA-PPO,Chester,8414
+2025-06-01,MA-PPO,Chester,8506
+2025-07-01,MA-PPO,Chester,8526
+2025-08-01,MA-PPO,Chester,8542
+2025-09-01,MA-PPO,Chester,8576
+2025-10-01,MA-PPO,Chester,8654
+2025-11-01,MA-PPO,Chester,8743
+2025-12-01,MA-PPO,Chester,8679
+2026-01-01,MA-PPO,Chester,9496
+2026-02-01,MA-PPO,Chester,9344
+2026-03-01,MA-PPO,Chester,9275
+2026-04-01,MA-PPO,Chester,9274
+2026-05-01,MA-PPO,Chester,9261
+2026-06-01,MA-PPO,Chester,9502
+2026-07-01,MA-PPO,Chester,9511
+2026-08-01,MA-PPO,Chester,9709
+2026-09-01,MA-PPO,Chester,9660
+2021-01-01,MA-PPO,Delaware,6988
+2021-02-01,MA-PPO,Delaware,6946
+2021-03-01,MA-PPO,Delaware,6851
+2021-04-01,MA-PPO,Delaware,6817
+2021-05-01,MA-PPO,Delaware,6849
+2021-06-01,MA-PPO,Delaware,6917
+2021-07-01,MA-PPO,Delaware,6896
+2021-08-01,MA-PPO,Delaware,6944
+2021-09-01,MA-PPO,Delaware,6972
+2021-10-01,MA-PPO,Delaware,7041
+2021-11-01,MA-PPO,Delaware,7097
+2021-12-01,MA-PPO,Delaware,7099
+2022-01-01,MA-PPO,Delaware,7554
+2022-02-01,MA-PPO,Delaware,7453
+2022-03-01,MA-PPO,Delaware,7424
+2022-04-01,MA-PPO,Delaware,7470
+2022-05-01,MA-PPO,Delaware,7500
+2022-06-01,MA-PPO,Delaware,7542
+2022-07-01,MA-PPO,Delaware,7554
+2022-08-01,MA-PPO,Delaware,7592
+2022-09-01,MA-PPO,Delaware,7650
+2022-10-01,MA-PPO,Delaware,7632
+2022-11-01,MA-PPO,Delaware,7705
+2022-12-01,MA-PPO,Delaware,7813
+2023-01-01,MA-PPO,Delaware,8251
+2023-02-01,MA-PPO,Delaware,8151
+2023-03-01,MA-PPO,Delaware,8086
+2023-04-01,MA-PPO,Delaware,8120
+2023-05-01,MA-PPO,Delaware,8144
+2023-06-01,MA-PPO,Delaware,8253
+2023-07-01,MA-PPO,Delaware,8183
+2023-08-01,MA-PPO,Delaware,8273
+2023-09-01,MA-PPO,Delaware,8367
+2023-10-01,MA-PPO,Delaware,8368
+2023-11-01,MA-PPO,Delaware,8473
+2023-12-01,MA-PPO,Delaware,8386
+2024-01-01,MA-PPO,Delaware,9120
+2024-02-01,MA-PPO,Delaware,9003
+2024-03-01,MA-PPO,Delaware,8795
+2024-04-01,MA-PPO,Delaware,8935
+2024-05-01,MA-PPO,Delaware,8889
+2024-06-01,MA-PPO,Delaware,8978
+2024-07-01,MA-PPO,Delaware,8988
+2024-08-01,MA-PPO,Delaware,9005
+2024-09-01,MA-PPO,Delaware,9137
+2024-10-01,MA-PPO,Delaware,9094
+2024-11-01,MA-PPO,Delaware,9192
+2024-12-01,MA-PPO,Delaware,9178
+2025-01-01,MA-PPO,Delaware,9781
+2025-02-01,MA-PPO,Delaware,9711
+2025-03-01,MA-PPO,Delaware,9633
+2025-04-01,MA-PPO,Delaware,9654
+2025-05-01,MA-PPO,Delaware,9691
+2025-06-01,MA-PPO,Delaware,9869
+2025-07-01,MA-PPO,Delaware,9795
+2025-08-01,MA-PPO,Delaware,9804
+2025-09-01,MA-PPO,Delaware,9775
+2025-10-01,MA-PPO,Delaware,9879
+2025-11-01,MA-PPO,Delaware,10012
+2025-12-01,MA-PPO,Delaware,10015
+2026-01-01,MA-PPO,Delaware,10816
+2026-02-01,MA-PPO,Delaware,10721
+2026-03-01,MA-PPO,Delaware,10622
+2026-04-01,MA-PPO,Delaware,10653
+2026-05-01,MA-PPO,Delaware,10769
+2026-06-01,MA-PPO,Delaware,10732
+2026-07-01,MA-PPO,Delaware,10977
+2026-08-01,MA-PPO,Delaware,10951
+2026-09-01,MA-PPO,Delaware,11044
+2021-01-01,MA-PPO,Montgomery,9164
+2021-02-01,MA-PPO,Montgomery,9039
+2021-03-01,MA-PPO,Montgomery,8954
+2021-04-01,MA-PPO,Montgomery,8925
+2021-05-01,MA-PPO,Montgomery,8969
+2021-06-01,MA-PPO,Montgomery,9056
+2021-07-01,MA-PPO,Montgomery,9119
+2021-08-01,MA-PPO,Montgomery,9190
+2021-09-01,MA-PPO,Montgomery,9183
+2021-10-01,MA-PPO,Montgomery,9227
+2021-11-01,MA-PPO,Montgomery,9283
+2021-12-01,MA-PPO,Montgomery,9311
+2022-01-01,MA-PPO,Montgomery,9873
+2022-02-01,MA-PPO,Montgomery,9838
+2022-03-01,MA-PPO,Montgomery,9763
+2022-04-01,MA-PPO,Montgomery,9810
+2022-05-01,MA-PPO,Montgomery,9808
+2022-06-01,MA-PPO,Montgomery,9806
+2022-07-01,MA-PPO,Montgomery,9880
+2022-08-01,MA-PPO,Montgomery,9942
+2022-09-01,MA-PPO,Montgomery,10055
+2022-10-01,MA-PPO,Montgomery,10029
+2022-11-01,MA-PPO,Montgomery,10162
+2022-12-01,MA-PPO,Montgomery,10190
+2023-01-01,MA-PPO,Montgomery,10826
+2023-02-01,MA-PPO,Montgomery,10696
+2023-03-01,MA-PPO,Montgomery,10689
+2023-04-01,MA-PPO,Montgomery,10729
+2023-05-01,MA-PPO,Montgomery,10762
+2023-06-01,MA-PPO,Montgomery,10720
+2023-07-01,MA-PPO,Montgomery,10850
+2023-08-01,MA-PPO,Montgomery,10826
+2023-09-01,MA-PPO,Montgomery,10969
+2023-10-01,MA-PPO,Montgomery,10969
+2023-11-01,MA-PPO,Montgomery,11109
+2023-12-01,MA-PPO,Montgomery,11006
+2024-01-01,MA-PPO,Montgomery,11839
+2024-02-01,MA-PPO,Montgomery,11704
+2024-03-01,MA-PPO,Montgomery,11556
+2024-04-01,MA-PPO,Montgomery,11566
+2024-05-01,MA-PPO,Montgomery,11614
+2024-06-01,MA-PPO,Montgomery,11846
+2024-07-01,MA-PPO,Montgomery,11832
+2024-08-01,MA-PPO,Montgomery,11848
+2024-09-01,MA-PPO,Montgomery,11952
+2024-10-01,MA-PPO,Montgomery,12028
+2024-11-01,MA-PPO,Montgomery,12021
+2024-12-01,MA-PPO,Montgomery,12026
+2025-01-01,MA-PPO,Montgomery,12910
+2025-02-01,MA-PPO,Montgomery,12780
+2025-03-01,MA-PPO,Montgomery,12632
+2025-04-01,MA-PPO,Montgomery,12685
+2025-05-01,MA-PPO,Montgomery,12568
+2025-06-01,MA-PPO,Montgomery,12714
+2025-07-01,MA-PPO,Montgomery,12872
+2025-08-01,MA-PPO,Montgomery,12798
+2025-09-01,MA-PPO,Montgomery,12894
+2025-10-01,MA-PPO,Montgomery,13020
+2025-11-01,MA-PPO,Montgomery,13019
+2025-12-01,MA-PPO,Montgomery,13164
+2026-01-01,MA-PPO,Montgomery,14124
+2026-02-01,MA-PPO,Montgomery,14046
+2026-03-01,MA-PPO,Montgomery,13927
+2026-04-01,MA-PPO,Montgomery,13961
+2026-05-01,MA-PPO,Montgomery,14078
+2026-06-01,MA-PPO,Montgomery,14153
+2026-07-01,MA-PPO,Montgomery,14240
+2026-08-01,MA-PPO,Montgomery,14451
+2026-09-01,MA-PPO,Montgomery,14448
+2021-01-01,MA-PPO,Philadelphia,14431
+2021-02-01,MA-PPO,Philadelphia,14312
+2021-03-01,MA-PPO,Philadelphia,14202
+2021-04-01,MA-PPO,Philadelphia,14173
+2021-05-01,MA-PPO,Philadelphia,14140
+2021-06-01,MA-PPO,Philadelphia,14252
+2021-07-01,MA-PPO,Philadelphia,14226
+2021-08-01,MA-PPO,Philadelphia,14363
+2021-09-01,MA-PPO,Philadelphia,14395
+2021-10-01,MA-PPO,Philadelphia,14579
+2021-11-01,MA-PPO,Philadelphia,14655
+2021-12-01,MA-PPO,Philadelphia,14595
+2022-01-01,MA-PPO,Philadelphia,15575
+2022-02-01,MA-PPO,Philadelphia,15313
+2022-03-01,MA-PPO,Philadelphia,15421
+2022-04-01,MA-PPO,Philadelphia,15340
+2022-05-01,MA-PPO,Philadelphia,15525
+2022-06-01,MA-PPO,Philadelphia,15562
+2022-07-01,MA-PPO,Philadelphia,15548
+2022-08-01,MA-PPO,Philadelphia,15697
+2022-09-01,MA-PPO,Philadelphia,15828
+2022-10-01,MA-PPO,Philadelphia,15780
+2022-11-01,MA-PPO,Philadelphia,15899
+2022-12-01,MA-PPO,Philadelphia,15940
+2023-01-01,MA-PPO,Philadelphia,17052
+2023-02-01,MA-PPO,Philadelphia,16780
+2023-03-01,MA-PPO,Philadelphia,16672
+2023-04-01,MA-PPO,Philadelphia,16670
+2023-05-01,MA-PPO,Philadelphia,16783
+2023-06-01,MA-PPO,Philadelphia,16744
+2023-07-01,MA-PPO,Philadelphia,16932
+2023-08-01,MA-PPO,Philadelphia,16931
+2023-09-01,MA-PPO,Philadelphia,17375
+2023-10-01,MA-PPO,Philadelphia,17287
+2023-11-01,MA-PPO,Philadelphia,17389
+2023-12-01,MA-PPO,Philadelphia,17526
+2024-01-01,MA-PPO,Philadelphia,18657
+2024-02-01,MA-PPO,Philadelphia,18404
+2024-03-01,MA-PPO,Philadelphia,18312
+2024-04-01,MA-PPO,Philadelphia,18261
+2024-05-01,MA-PPO,Philadelphia,18381
+2024-06-01,MA-PPO,Philadelphia,18598
+2024-07-01,MA-PPO,Philadelphia,18476
+2024-08-01,MA-PPO,Philadelphia,18682
+2024-09-01,MA-PPO,Philadelphia,18687
+2024-10-01,MA-PPO,Philadelphia,18852
+2024-11-01,MA-PPO,Philadelphia,18737
+2024-12-01,MA-PPO,Philadelphia,18978
+2025-01-01,MA-PPO,Philadelphia,20397
+2025-02-01,MA-PPO,Philadelphia,19989
+2025-03-01,MA-PPO,Philadelphia,19757
+2025-04-01,MA-PPO,Philadelphia,20025
+2025-05-01,MA-PPO,Philadelphia,19995
+2025-06-01,MA-PPO,Philadelphia,20142
+2025-07-01,MA-PPO,Philadelphia,20166
+2025-08-01,MA-PPO,Philadelphia,20183
+2025-09-01,MA-PPO,Philadelphia,20278
+2025-10-01,MA-PPO,Philadelphia,20362
+2025-11-01,MA-PPO,Philadelphia,20367
+2025-12-01,MA-PPO,Philadelphia,20775
+2026-01-01,MA-PPO,Philadelphia,22133
+2026-02-01,MA-PPO,Philadelphia,22168
+2026-03-01,MA-PPO,Philadelphia,20457
+2026-04-01,MA-PPO,Philadelphia,21916
+2026-05-01,MA-PPO,Philadelphia,22146
+2026-06-01,MA-PPO,Philadelphia,22193
+2026-07-01,MA-PPO,Philadelphia,22468
+2026-08-01,MA-PPO,Philadelphia,22599
+2026-09-01,MA-PPO,Philadelphia,22770
+2021-01-01,PDP,Bucks,4669
+2021-02-01,PDP,Bucks,4571
+2021-03-01,PDP,Bucks,4541
+2021-04-01,PDP,Bucks,4537
+2021-05-01,PDP,Bucks,4450
+2021-06-01,PDP,Bucks,4495
+2021-07-01,PDP,Bucks,4495
+2021-08-01,PDP,Bucks,4518
+2021-09-01,PDP,Bucks,4461
+2021-10-01,PDP,Bucks,4473
+2021-11-01,PDP,Bucks,4468
+2021-12-01,PDP,Bucks,4490
+2022-01-01,PDP,Bucks,4598
+2022-02-01,PDP,Bucks,4575
+2022-03-01,PDP,Bucks,4510
+2022-04-01,PDP,Bucks,4501
+2022-05-01,PDP,Bucks,4503
+2022-06-01,PDP,Bucks,4507
+2022-07-01,PDP,Bucks,4504
+2022-08-01,PDP,Bucks,4473
+2022-09-01,PDP,Bucks,4495
+2022-10-01,PDP,Bucks,4539
+2022-11-01,PDP,Bucks,4499
+2022-12-01,PDP,Bucks,4475
+2023-01-01,PDP,Bucks,4592
+2023-02-01,PDP,Bucks,4555
+2023-03-01,PDP,Bucks,4506
+2023-04-01,PDP,Bucks,4503
+2023-05-01,PDP,Bucks,4501
+2023-06-01,PDP,Bucks,4484
+2023-07-01,PDP,Bucks,4514
+2023-08-01,PDP,Bucks,4476
+2023-09-01,PDP,Bucks,4494
+2023-10-01,PDP,Bucks,4475
+2023-11-01,PDP,Bucks,4505
+2023-12-01,PDP,Bucks,4497
+2024-01-01,PDP,Bucks,4622
+2024-02-01,PDP,Bucks,4596
+2024-03-01,PDP,Bucks,4559
+2024-04-01,PDP,Bucks,4539
+2024-05-01,PDP,Bucks,4515
+2024-06-01,PDP,Bucks,4523
+2024-07-01,PDP,Bucks,4483
+2024-08-01,PDP,Bucks,4506
+2024-09-01,PDP,Bucks,4491
+2024-10-01,PDP,Bucks,4515
+2024-11-01,PDP,Bucks,4516
+2024-12-01,PDP,Bucks,4511
+2025-01-01,PDP,Bucks,4648
+2025-02-01,PDP,Bucks,4586
+2025-03-01,PDP,Bucks,4610
+2025-04-01,PDP,Bucks,4545
+2025-05-01,PDP,Bucks,4571
+2025-06-01,PDP,Bucks,4581
+2025-07-01,PDP,Bucks,4579
+2025-08-01,PDP,Bucks,4564
+2025-09-01,PDP,Bucks,4550
+2025-10-01,PDP,Bucks,4578
+2025-11-01,PDP,Bucks,4552
+2025-12-01,PDP,Bucks,4531
+2026-01-01,PDP,Bucks,4623
+2026-02-01,PDP,Bucks,4598
+2026-03-01,PDP,Bucks,4537
+2026-04-01,PDP,Bucks,4577
+2026-05-01,PDP,Bucks,4539
+2026-06-01,PDP,Bucks,4527
+2026-07-01,PDP,Bucks,4563
+2026-08-01,PDP,Bucks,4509
+2026-09-01,PDP,Bucks,4569
+2021-01-01,PDP,Chester,4062
+2021-02-01,PDP,Chester,4011
+2021-03-01,PDP,Chester,3979
+2021-04-01,PDP,Chester,3940
+2021-05-01,PDP,Chester,3918
+2021-06-01,PDP,Chester,3963
+2021-07-01,PDP,Chester,3950
+2021-08-01,PDP,Chester,3932
+2021-09-01,PDP,Chester,3928
+2021-10-01,PDP,Chester,3904
+2021-11-01,PDP,Chester,3908
+2021-12-01,PDP,Chester,3922
+2022-01-01,PDP,Chester,4033
+2022-02-01,PDP,Chester,4002
+2022-03-01,PDP,Chester,3949
+2022-04-01,PDP,Chester,3921
+2022-05-01,PDP,Chester,3943
+2022-06-01,PDP,Chester,3951
+2022-07-01,PDP,Chester,3936
+2022-08-01,PDP,Chester,3942
+2022-09-01,PDP,Chester,3940
+2022-10-01,PDP,Chester,3925
+2022-11-01,PDP,Chester,3908
+2022-12-01,PDP,Chester,3914
+2023-01-01,PDP,Chester,4027
+2023-02-01,PDP,Chester,4015
+2023-03-01,PDP,Chester,3914
+2023-04-01,PDP,Chester,3955
+2023-05-01,PDP,Chester,3937
+2023-06-01,PDP,Chester,3935
+2023-07-01,PDP,Chester,3930
+2023-08-01,PDP,Chester,3938
+2023-09-01,PDP,Chester,3945
+2023-10-01,PDP,Chester,3931
+2023-11-01,PDP,Chester,3922
+2023-12-01,PDP,Chester,3955
+2024-01-01,PDP,Chester,4055
+2024-02-01,PDP,Chester,4045
+2024-03-01,PDP,Chester,4007
+2024-04-01,PDP,Chester,3962
+2024-05-01,PDP,Chester,3946
+2024-06-01,PDP,Chester,3981
+2024-07-01,PDP,Chester,3930
+2024-08-01,PDP,Chester,3963
+2024-09-01,PDP,Chester,3953
+2024-10-01,PDP,Chester,3935
+2024-11-01,PDP,Chester,3938
+2024-12-01,PDP,Chester,3937
+2025-01-01,PDP,Chester,4016
+2025-02-01,PDP,Chester,4013
+2025-03-01,PDP,Chester,4000
+2025-04-01,PDP,Chester,3967
+2025-05-01,PDP,Chester,3978
+2025-06-01,PDP,Chester,4036
+2025-07-01,PDP,Chester,4000
+2025-08-01,PDP,Chester,3965
+2025-09-01,PDP,Chester,3985
+2025-10-01,PDP,Chester,3973
+2025-11-01,PDP,Chester,3949
+2025-12-01,PDP,Chester,3970
+2026-01-01,PDP,Chester,4066
+2026-02-01,PDP,Chester,4031
+2026-03-01,PDP,Chester,4007
+2026-04-01,PDP,Chester,3971
+2026-05-01,PDP,Chester,3964
+2026-06-01,PDP,Chester,3928
+2026-07-01,PDP,Chester,3989
+2026-08-01,PDP,Chester,3954
+2026-09-01,PDP,Chester,3988
+2021-01-01,PDP,Delaware,4620
+2021-02-01,PDP,Delaware,4564
+2021-03-01,PDP,Delaware,4527
+2021-04-01,PDP,Delaware,4484
+2021-05-01,PDP,Delaware,4516
+2021-06-01,PDP,Delaware,4542
+2021-07-01,PDP,Delaware,4503
+2021-08-01,PDP,Delaware,4487
+2021-09-01,PDP,Delaware,4502
+2021-10-01,PDP,Delaware,4494
+2021-11-01,PDP,Delaware,4445
+2021-12-01,PDP,Delaware,4483
+2022-01-01,PDP,Delaware,4602
+2022-02-01,PDP,Delaware,4576
+2022-03-01,PDP,Delaware,4532
+2022-04-01,PDP,Delaware,4492
+2022-05-01,PDP,Delaware,4482
+2022-06-01,PDP,Delaware,4482
+2022-07-01,PDP,Delaware,4486
+2022-08-01,PDP,Delaware,4496
+2022-09-01,PDP,Delaware,4502
+2022-10-01,PDP,Delaware,4480
+2022-11-01,PDP,Delaware,4506
+2022-12-01,PDP,Delaware,4467
+2023-01-01,PDP,Delaware,4596
+2023-02-01,PDP,Delaware,4577
+2023-03-01,PDP,Delaware,4491
+2023-04-01,PDP,Delaware,4530
+2023-05-01,PDP,Delaware,4535
+2023-06-01,PDP,Delaware,4525
+2023-07-01,PDP,Delaware,4501
+2023-08-01,PDP,Delaware,4500
+2023-09-01,PDP,Delaware,4503
+2023-10-01,PDP,Delaware,4538
+2023-11-01,PDP,Delaware,4533
+2023-12-01,PDP,Delaware,4470
+2024-01-01,PDP,Delaware,4652
+2024-02-01,PDP,Delaware,4627
+2024-03-01,PDP,Delaware,4582
+2024-04-01,PDP,Delaware,4517
+2024-05-01,PDP,Delaware,4520
+2024-06-01,PDP,Delaware,4534
+2024-07-01,PDP,Delaware,4502
+2024-08-01,PDP,Delaware,4513
+2024-09-01,PDP,Delaware,4507
+2024-10-01,PDP,Delaware,4493
+2024-11-01,PDP,Delaware,4470
+2024-12-01,PDP,Delaware,4523
+2025-01-01,PDP,Delaware,4621
+2025-02-01,PDP,Delaware,4607
+2025-03-01,PDP,Delaware,4600
+2025-04-01,PDP,Delaware,4561
+2025-05-01,PDP,Delaware,4544
+2025-06-01,PDP,Delaware,4610
+2025-07-01,PDP,Delaware,4554
+2025-08-01,PDP,Delaware,4517
+2025-09-01,PDP,Delaware,4528
+2025-10-01,PDP,Delaware,4507
+2025-11-01,PDP,Delaware,4520
+2025-12-01,PDP,Delaware,4533
+2026-01-01,PDP,Delaware,4652
+2026-02-01,PDP,Delaware,4589
+2026-03-01,PDP,Delaware,4558
+2026-04-01,PDP,Delaware,4558
+2026-05-01,PDP,Delaware,4545
+2026-06-01,PDP,Delaware,4538
+2026-07-01,PDP,Delaware,4522
+2026-08-01,PDP,Delaware,4519
+2026-09-01,PDP,Delaware,4534
+2021-01-01,PDP,Montgomery,6079
+2021-02-01,PDP,Montgomery,5999
+2021-03-01,PDP,Montgomery,5969
+2021-04-01,PDP,Montgomery,5919
+2021-05-01,PDP,Montgomery,5934
+2021-06-01,PDP,Montgomery,5957
+2021-07-01,PDP,Montgomery,5895
+2021-08-01,PDP,Montgomery,5871
+2021-09-01,PDP,Montgomery,5914
+2021-10-01,PDP,Montgomery,5877
+2021-11-01,PDP,Montgomery,5895
+2021-12-01,PDP,Montgomery,5897
+2022-01-01,PDP,Montgomery,6048
+2022-02-01,PDP,Montgomery,6000
+2022-03-01,PDP,Montgomery,5925
+2022-04-01,PDP,Montgomery,5910
+2022-05-01,PDP,Montgomery,5879
+2022-06-01,PDP,Montgomery,5910
+2022-07-01,PDP,Montgomery,5855
+2022-08-01,PDP,Montgomery,5893
+2022-09-01,PDP,Montgomery,5840
+2022-10-01,PDP,Montgomery,5893
+2022-11-01,PDP,Montgomery,5864
+2022-12-01,PDP,Montgomery,5844
+2023-01-01,PDP,Montgomery,6019
+2023-02-01,PDP,Montgomery,6007
+2023-03-01,PDP,Montgomery,5920
+2023-04-01,PDP,Montgomery,5900
+2023-05-01,PDP,Montgomery,5885
+2023-06-01,PDP,Montgomery,5881
+2023-07-01,PDP,Montgomery,5895
+2023-08-01,PDP,Montgomery,5886
+2023-09-01,PDP,Montgomery,5918
+2023-10-01,PDP,Montgomery,5902
+2023-11-01,PDP,Montgomery,5916
+2023-12-01,PDP,Montgomery,5903
+2024-01-01,PDP,Montgomery,6076
+2024-02-01,PDP,Montgomery,6015
+2024-03-01,PDP,Montgomery,5995
+2024-04-01,PDP,Montgomery,5929
+2024-05-01,PDP,Montgomery,5899
+2024-06-01,PDP,Montgomery,5938
+2024-07-01,PDP,Montgomery,5906
+2024-08-01,PDP,Montgomery,5944
+2024-09-01,PDP,Montgomery,5972
+2024-10-01,PDP,Montgomery,5923
+2024-11-01,PDP,Montgomery,5883
+2024-12-01,PDP,Montgomery,5875
+2025-01-01,PDP,Montgomery,6115
+2025-02-01,PDP,Montgomery,6040
+2025-03-01,PDP,Montgomery,6021
+2025-04-01,PDP,Montgomery,5976
+2025-05-01,PDP,Montgomery,5958
+2025-06-01,PDP,Montgomery,6037
+2025-07-01,PDP,Montgomery,6023
+2025-08-01,PDP,Montgomery,5946
+2025-09-01,PDP,Montgomery,5982
+2025-10-01,PDP,Montgomery,5887
+2025-11-01,PDP,Montgomery,5929
+2025-12-01,PDP,Montgomery,5903
+2026-01-01,PDP,Montgomery,6153
+2026-02-01,PDP,Montgomery,6040
+2026-03-01,PDP,Montgomery,6033
+2026-04-01,PDP,Montgomery,6017
+2026-05-01,PDP,Montgomery,5946
+2026-06-01,PDP,Montgomery,5923
+2026-07-01,PDP,Montgomery,5927
+2026-08-01,PDP,Montgomery,5951
+2026-09-01,PDP,Montgomery,5962
+2021-01-01,PDP,Philadelphia,9554
+2021-02-01,PDP,Philadelphia,9489
+2021-03-01,PDP,Philadelphia,9431
+2021-04-01,PDP,Philadelphia,9337
+2021-05-01,PDP,Philadelphia,9348
+2021-06-01,PDP,Philadelphia,9265
+2021-07-01,PDP,Philadelphia,9302
+2021-08-01,PDP,Philadelphia,9277
+2021-09-01,PDP,Philadelphia,9267
+2021-10-01,PDP,Philadelphia,9225
+2021-11-01,PDP,Philadelphia,9229
+2021-12-01,PDP,Philadelphia,9217
+2022-01-01,PDP,Philadelphia,9548
+2022-02-01,PDP,Philadelphia,9411
+2022-03-01,PDP,Philadelphia,9324
+2022-04-01,PDP,Philadelphia,9261
+2022-05-01,PDP,Philadelphia,9270
+2022-06-01,PDP,Philadelphia,9250
+2022-07-01,PDP,Philadelphia,9241
+2022-08-01,PDP,Philadelphia,9303
+2022-09-01,PDP,Philadelphia,9288
+2022-10-01,PDP,Philadelphia,9210
+2022-11-01,PDP,Philadelphia,9294
+2022-12-01,PDP,Philadelphia,9152
+2023-01-01,PDP,Philadelphia,9544
+2023-02-01,PDP,Philadelphia,9444
+2023-03-01,PDP,Philadelphia,9350
+2023-04-01,PDP,Philadelphia,9233
+2023-05-01,PDP,Philadelphia,9251
+2023-06-01,PDP,Philadelphia,9249
+2023-07-01,PDP,Philadelphia,9206
+2023-08-01,PDP,Philadelphia,9265
+2023-09-01,PDP,Philadelphia,9266
+2023-10-01,PDP,Philadelphia,9272
+2023-11-01,PDP,Philadelphia,9315
+2023-12-01,PDP,Philadelphia,9176
+2024-01-01,PDP,Philadelphia,9538
+2024-02-01,PDP,Philadelphia,9448
+2024-03-01,PDP,Philadelphia,9392
+2024-04-01,PDP,Philadelphia,9407
+2024-05-01,PDP,Philadelphia,9354
+2024-06-01,PDP,Philadelphia,9328
+2024-07-01,PDP,Philadelphia,9366
+2024-08-01,PDP,Philadelphia,9290
+2024-09-01,PDP,Philadelphia,9330
+2024-10-01,PDP,Philadelphia,9218
+2024-11-01,PDP,Philadelphia,9260
+2024-12-01,PDP,Philadelphia,9348
+2025-01-01,PDP,Philadelphia,9577
+2025-02-01,PDP,Philadelphia,9479
+2025-03-01,PDP,Philadelphia,9466
+2025-04-01,PDP,Philadelphia,9453
+2025-05-01,PDP,Philadelphia,9384
+2025-06-01,PDP,Philadelphia,9400
+2025-07-01,PDP,Philadelphia,9392
+2025-08-01,PDP,Philadelphia,9370
+2025-09-01,PDP,Philadelphia,9398
+2025-10-01,PDP,Philadelphia,9405
+2025-11-01,PDP,Philadelphia,9369
+2025-12-01,PDP,Philadelphia,9330
+2026-01-01,PDP,Philadelphia,9684
+2026-02-01,PDP,Philadelphia,9551
+2026-03-01,PDP,Philadelphia,9391
+2026-04-01,PDP,Philadelphia,9394
+2026-05-01,PDP,Philadelphia,9385
+2026-06-01,PDP,Philadelphia,9350
+2026-07-01,PDP,Philadelphia,9394
+2026-08-01,PDP,Philadelphia,9285
+2026-09-01,PDP,Philadelphia,9388
+2021-01-01,Small Group,Bucks,8767
+2021-02-01,Small Group,Bucks,8773
+2021-03-01,Small Group,Bucks,8758
+2021-04-01,Small Group,Bucks,8723
+2021-05-01,Small Group,Bucks,8739
+2021-06-01,Small Group,Bucks,8721
+2021-07-01,Small Group,Bucks,8709
+2021-08-01,Small Group,Bucks,8663
+2021-09-01,Small Group,Bucks,8709
+2021-10-01,Small Group,Bucks,8694
+2021-11-01,Small Group,Bucks,8635
+2021-12-01,Small Group,Bucks,8702
+2022-01-01,Small Group,Bucks,8851
+2022-02-01,Small Group,Bucks,8864
+2022-03-01,Small Group,Bucks,8801
+2022-04-01,Small Group,Bucks,8762
+2022-05-01,Small Group,Bucks,8789
+2022-06-01,Small Group,Bucks,8684
+2022-07-01,Small Group,Bucks,8619
+2022-08-01,Small Group,Bucks,8667
+2022-09-01,Small Group,Bucks,8628
+2022-10-01,Small Group,Bucks,8688
+2022-11-01,Small Group,Bucks,8617
+2022-12-01,Small Group,Bucks,8638
+2023-01-01,Small Group,Bucks,8778
+2023-02-01,Small Group,Bucks,8719
+2023-03-01,Small Group,Bucks,8740
+2023-04-01,Small Group,Bucks,8733
+2023-05-01,Small Group,Bucks,8747
+2023-06-01,Small Group,Bucks,8745
+2023-07-01,Small Group,Bucks,8780
+2023-08-01,Small Group,Bucks,8756
+2023-09-01,Small Group,Bucks,8711
+2023-10-01,Small Group,Bucks,8688
+2023-11-01,Small Group,Bucks,8718
+2023-12-01,Small Group,Bucks,8773
+2024-01-01,Small Group,Bucks,8884
+2024-02-01,Small Group,Bucks,8768
+2024-03-01,Small Group,Bucks,8801
+2024-04-01,Small Group,Bucks,8833
+2024-05-01,Small Group,Bucks,8812
+2024-06-01,Small Group,Bucks,8820
+2024-07-01,Small Group,Bucks,8683
+2024-08-01,Small Group,Bucks,8743
+2024-09-01,Small Group,Bucks,8651
+2024-10-01,Small Group,Bucks,8632
+2024-11-01,Small Group,Bucks,8629
+2024-12-01,Small Group,Bucks,8684
+2025-01-01,Small Group,Bucks,8779
+2025-02-01,Small Group,Bucks,8760
+2025-03-01,Small Group,Bucks,8742
+2025-04-01,Small Group,Bucks,8667
+2025-05-01,Small Group,Bucks,8758
+2025-06-01,Small Group,Bucks,8686
+2025-07-01,Small Group,Bucks,8603
+2025-08-01,Small Group,Bucks,8644
+2025-09-01,Small Group,Bucks,8658
+2025-10-01,Small Group,Bucks,8634
+2025-11-01,Small Group,Bucks,8636
+2025-12-01,Small Group,Bucks,8608
+2026-01-01,Small Group,Bucks,8750
+2026-02-01,Small Group,Bucks,8664
+2026-03-01,Small Group,Bucks,8712
+2026-04-01,Small Group,Bucks,8706
+2026-05-01,Small Group,Bucks,8685
+2026-06-01,Small Group,Bucks,8677
+2026-07-01,Small Group,Bucks,8616
+2026-08-01,Small Group,Bucks,8596
+2026-09-01,Small Group,Bucks,8567
+2021-01-01,Small Group,Chester,7620
+2021-02-01,Small Group,Chester,7680
+2021-03-01,Small Group,Chester,7698
+2021-04-01,Small Group,Chester,7660
+2021-05-01,Small Group,Chester,7702
+2021-06-01,Small Group,Chester,7670
+2021-07-01,Small Group,Chester,7631
+2021-08-01,Small Group,Chester,7551
+2021-09-01,Small Group,Chester,7628
+2021-10-01,Small Group,Chester,7548
+2021-11-01,Small Group,Chester,7590
+2021-12-01,Small Group,Chester,7526
+2022-01-01,Small Group,Chester,7743
+2022-02-01,Small Group,Chester,7691
+2022-03-01,Small Group,Chester,7609
+2022-04-01,Small Group,Chester,7626
+2022-05-01,Small Group,Chester,7625
+2022-06-01,Small Group,Chester,7654
+2022-07-01,Small Group,Chester,7641
+2022-08-01,Small Group,Chester,7569
+2022-09-01,Small Group,Chester,7587
+2022-10-01,Small Group,Chester,7546
+2022-11-01,Small Group,Chester,7561
+2022-12-01,Small Group,Chester,7582
+2023-01-01,Small Group,Chester,7637
+2023-02-01,Small Group,Chester,7655
+2023-03-01,Small Group,Chester,7669
+2023-04-01,Small Group,Chester,7669
+2023-05-01,Small Group,Chester,7583
+2023-06-01,Small Group,Chester,7700
+2023-07-01,Small Group,Chester,7684
+2023-08-01,Small Group,Chester,7609
+2023-09-01,Small Group,Chester,7655
+2023-10-01,Small Group,Chester,7593
+2023-11-01,Small Group,Chester,7673
+2023-12-01,Small Group,Chester,7627
+2024-01-01,Small Group,Chester,7729
+2024-02-01,Small Group,Chester,7717
+2024-03-01,Small Group,Chester,7722
+2024-04-01,Small Group,Chester,7648
+2024-05-01,Small Group,Chester,7752
+2024-06-01,Small Group,Chester,7712
+2024-07-01,Small Group,Chester,7709
+2024-08-01,Small Group,Chester,7643
+2024-09-01,Small Group,Chester,7654
+2024-10-01,Small Group,Chester,7617
+2024-11-01,Small Group,Chester,7541
+2024-12-01,Small Group,Chester,7579
+2025-01-01,Small Group,Chester,7644
+2025-02-01,Small Group,Chester,7641
+2025-03-01,Small Group,Chester,7671
+2025-04-01,Small Group,Chester,7617
+2025-05-01,Small Group,Chester,7626
+2025-06-01,Small Group,Chester,7600
+2025-07-01,Small Group,Chester,7515
+2025-08-01,Small Group,Chester,7574
+2025-09-01,Small Group,Chester,7638
+2025-10-01,Small Group,Chester,7570
+2025-11-01,Small Group,Chester,7565
+2025-12-01,Small Group,Chester,7533
+2026-01-01,Small Group,Chester,7638
+2026-02-01,Small Group,Chester,7630
+2026-03-01,Small Group,Chester,7681
+2026-04-01,Small Group,Chester,7626
+2026-05-01,Small Group,Chester,7631
+2026-06-01,Small Group,Chester,7606
+2026-07-01,Small Group,Chester,7568
+2026-08-01,Small Group,Chester,7457
+2026-09-01,Small Group,Chester,7525
+2021-01-01,Small Group,Delaware,8755
+2021-02-01,Small Group,Delaware,8741
+2021-03-01,Small Group,Delaware,8812
+2021-04-01,Small Group,Delaware,8683
+2021-05-01,Small Group,Delaware,8769
+2021-06-01,Small Group,Delaware,8778
+2021-07-01,Small Group,Delaware,8667
+2021-08-01,Small Group,Delaware,8688
+2021-09-01,Small Group,Delaware,8673
+2021-10-01,Small Group,Delaware,8640
+2021-11-01,Small Group,Delaware,8644
+2021-12-01,Small Group,Delaware,8640
+2022-01-01,Small Group,Delaware,8764
+2022-02-01,Small Group,Delaware,8779
+2022-03-01,Small Group,Delaware,8736
+2022-04-01,Small Group,Delaware,8688
+2022-05-01,Small Group,Delaware,8682
+2022-06-01,Small Group,Delaware,8714
+2022-07-01,Small Group,Delaware,8738
+2022-08-01,Small Group,Delaware,8665
+2022-09-01,Small Group,Delaware,8628
+2022-10-01,Small Group,Delaware,8605
+2022-11-01,Small Group,Delaware,8617
+2022-12-01,Small Group,Delaware,8651
+2023-01-01,Small Group,Delaware,8748
+2023-02-01,Small Group,Delaware,8786
+2023-03-01,Small Group,Delaware,8755
+2023-04-01,Small Group,Delaware,8743
+2023-05-01,Small Group,Delaware,8728
+2023-06-01,Small Group,Delaware,8732
+2023-07-01,Small Group,Delaware,8786
+2023-08-01,Small Group,Delaware,8834
+2023-09-01,Small Group,Delaware,8781
+2023-10-01,Small Group,Delaware,8685
+2023-11-01,Small Group,Delaware,8701
+2023-12-01,Small Group,Delaware,8717
+2024-01-01,Small Group,Delaware,8811
+2024-02-01,Small Group,Delaware,8750
+2024-03-01,Small Group,Delaware,8874
+2024-04-01,Small Group,Delaware,8803
+2024-05-01,Small Group,Delaware,8844
+2024-06-01,Small Group,Delaware,8742
+2024-07-01,Small Group,Delaware,8692
+2024-08-01,Small Group,Delaware,8753
+2024-09-01,Small Group,Delaware,8612
+2024-10-01,Small Group,Delaware,8619
+2024-11-01,Small Group,Delaware,8629
+2024-12-01,Small Group,Delaware,8629
+2025-01-01,Small Group,Delaware,8830
+2025-02-01,Small Group,Delaware,8742
+2025-03-01,Small Group,Delaware,8735
+2025-04-01,Small Group,Delaware,8749
+2025-05-01,Small Group,Delaware,8679
+2025-06-01,Small Group,Delaware,8674
+2025-07-01,Small Group,Delaware,8612
+2025-08-01,Small Group,Delaware,8648
+2025-09-01,Small Group,Delaware,8611
+2025-10-01,Small Group,Delaware,8587
+2025-11-01,Small Group,Delaware,8671
+2025-12-01,Small Group,Delaware,8630
+2026-01-01,Small Group,Delaware,8764
+2026-02-01,Small Group,Delaware,8745
+2026-03-01,Small Group,Delaware,8736
+2026-04-01,Small Group,Delaware,8763
+2026-05-01,Small Group,Delaware,8706
+2026-06-01,Small Group,Delaware,8630
+2026-07-01,Small Group,Delaware,8636
+2026-08-01,Small Group,Delaware,8597
+2026-09-01,Small Group,Delaware,8593
+2021-01-01,Small Group,Montgomery,11431
+2021-02-01,Small Group,Montgomery,11471
+2021-03-01,Small Group,Montgomery,11483
+2021-04-01,Small Group,Montgomery,11430
+2021-05-01,Small Group,Montgomery,11425
+2021-06-01,Small Group,Montgomery,11502
+2021-07-01,Small Group,Montgomery,11407
+2021-08-01,Small Group,Montgomery,11385
+2021-09-01,Small Group,Montgomery,11437
+2021-10-01,Small Group,Montgomery,11282
+2021-11-01,Small Group,Montgomery,11289
+2021-12-01,Small Group,Montgomery,11320
+2022-01-01,Small Group,Montgomery,11509
+2022-02-01,Small Group,Montgomery,11529
+2022-03-01,Small Group,Montgomery,11466
+2022-04-01,Small Group,Montgomery,11415
+2022-05-01,Small Group,Montgomery,11477
+2022-06-01,Small Group,Montgomery,11548
+2022-07-01,Small Group,Montgomery,11430
+2022-08-01,Small Group,Montgomery,11310
+2022-09-01,Small Group,Montgomery,11345
+2022-10-01,Small Group,Montgomery,11351
+2022-11-01,Small Group,Montgomery,11349
+2022-12-01,Small Group,Montgomery,11336
+2023-01-01,Small Group,Montgomery,11465
+2023-02-01,Small Group,Montgomery,11532
+2023-03-01,Small Group,Montgomery,11517
+2023-04-01,Small Group,Montgomery,11442
+2023-05-01,Small Group,Montgomery,11458
+2023-06-01,Small Group,Montgomery,11455
+2023-07-01,Small Group,Montgomery,11451
+2023-08-01,Small Group,Montgomery,11495
+2023-09-01,Small Group,Montgomery,11428
+2023-10-01,Small Group,Montgomery,11517
+2023-11-01,Small Group,Montgomery,11351
+2023-12-01,Small Group,Montgomery,11443
+2024-01-01,Small Group,Montgomery,11648
+2024-02-01,Small Group,Montgomery,11546
+2024-03-01,Small Group,Montgomery,11490
+2024-04-01,Small Group,Montgomery,11492
+2024-05-01,Small Group,Montgomery,11671
+2024-06-01,Small Group,Montgomery,11511
+2024-07-01,Small Group,Montgomery,11520
+2024-08-01,Small Group,Montgomery,11478
+2024-09-01,Small Group,Montgomery,11453
+2024-10-01,Small Group,Montgomery,11365
+2024-11-01,Small Group,Montgomery,11333
+2024-12-01,Small Group,Montgomery,11435
+2025-01-01,Small Group,Montgomery,11555
+2025-02-01,Small Group,Montgomery,11504
+2025-03-01,Small Group,Montgomery,11484
+2025-04-01,Small Group,Montgomery,11451
+2025-05-01,Small Group,Montgomery,11411
+2025-06-01,Small Group,Montgomery,11384
+2025-07-01,Small Group,Montgomery,11350
+2025-08-01,Small Group,Montgomery,11415
+2025-09-01,Small Group,Montgomery,11350
+2025-10-01,Small Group,Montgomery,11280
+2025-11-01,Small Group,Montgomery,11289
+2025-12-01,Small Group,Montgomery,11262
+2026-01-01,Small Group,Montgomery,11469
+2026-02-01,Small Group,Montgomery,11397
+2026-03-01,Small Group,Montgomery,11440
+2026-04-01,Small Group,Montgomery,11391
+2026-05-01,Small Group,Montgomery,11499
+2026-06-01,Small Group,Montgomery,11349
+2026-07-01,Small Group,Montgomery,11355
+2026-08-01,Small Group,Montgomery,11282
+2026-09-01,Small Group,Montgomery,11220
+2021-01-01,Small Group,Philadelphia,18137
+2021-02-01,Small Group,Philadelphia,18134
+2021-03-01,Small Group,Philadelphia,18104
+2021-04-01,Small Group,Philadelphia,17993
+2021-05-01,Small Group,Philadelphia,18003
+2021-06-01,Small Group,Philadelphia,18018
+2021-07-01,Small Group,Philadelphia,17941
+2021-08-01,Small Group,Philadelphia,17965
+2021-09-01,Small Group,Philadelphia,18098
+2021-10-01,Small Group,Philadelphia,17754
+2021-11-01,Small Group,Philadelphia,17833
+2021-12-01,Small Group,Philadelphia,17910
+2022-01-01,Small Group,Philadelphia,18123
+2022-02-01,Small Group,Philadelphia,18142
+2022-03-01,Small Group,Philadelphia,17958
+2022-04-01,Small Group,Philadelphia,17938
+2022-05-01,Small Group,Philadelphia,18050
+2022-06-01,Small Group,Philadelphia,17809
+2022-07-01,Small Group,Philadelphia,17931
+2022-08-01,Small Group,Philadelphia,17797
+2022-09-01,Small Group,Philadelphia,17955
+2022-10-01,Small Group,Philadelphia,17894
+2022-11-01,Small Group,Philadelphia,17894
+2022-12-01,Small Group,Philadelphia,17795
+2023-01-01,Small Group,Philadelphia,18079
+2023-02-01,Small Group,Philadelphia,18119
+2023-03-01,Small Group,Philadelphia,18052
+2023-04-01,Small Group,Philadelphia,17993
+2023-05-01,Small Group,Philadelphia,18007
+2023-06-01,Small Group,Philadelphia,18175
+2023-07-01,Small Group,Philadelphia,17995
+2023-08-01,Small Group,Philadelphia,17925
+2023-09-01,Small Group,Philadelphia,17954
+2023-10-01,Small Group,Philadelphia,18014
+2023-11-01,Small Group,Philadelphia,18043
+2023-12-01,Small Group,Philadelphia,17864
+2024-01-01,Small Group,Philadelphia,18222
+2024-02-01,Small Group,Philadelphia,18222
+2024-03-01,Small Group,Philadelphia,18196
+2024-04-01,Small Group,Philadelphia,18194
+2024-05-01,Small Group,Philadelphia,18224
+2024-06-01,Small Group,Philadelphia,17988
+2024-07-01,Small Group,Philadelphia,17971
+2024-08-01,Small Group,Philadelphia,18071
+2024-09-01,Small Group,Philadelphia,17974
+2024-10-01,Small Group,Philadelphia,17953
+2024-11-01,Small Group,Philadelphia,17754
+2024-12-01,Small Group,Philadelphia,17836
+2025-01-01,Small Group,Philadelphia,18225
+2025-02-01,Small Group,Philadelphia,18141
+2025-03-01,Small Group,Philadelphia,17974
+2025-04-01,Small Group,Philadelphia,18023
+2025-05-01,Small Group,Philadelphia,18007
+2025-06-01,Small Group,Philadelphia,17898
+2025-07-01,Small Group,Philadelphia,17703
+2025-08-01,Small Group,Philadelphia,17741
+2025-09-01,Small Group,Philadelphia,17856
+2025-10-01,Small Group,Philadelphia,17811
+2025-11-01,Small Group,Philadelphia,17752
+2025-12-01,Small Group,Philadelphia,17652
+2026-01-01,Small Group,Philadelphia,17857
+2026-02-01,Small Group,Philadelphia,17944
+2026-03-01,Small Group,Philadelphia,18065
+2026-04-01,Small Group,Philadelphia,17867
+2026-05-01,Small Group,Philadelphia,18031
+2026-06-01,Small Group,Philadelphia,17944
+2026-07-01,Small Group,Philadelphia,17794
+2026-08-01,Small Group,Philadelphia,17689
+2026-09-01,Small Group,Philadelphia,17575

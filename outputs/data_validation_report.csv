@@ -1,0 +1,6 @@
+check_name,failed_rows
+negative_or_null_members,0
+duplicate_month_product_region,0
+missing_months,0
+product_not_in_dimension,0
+mom_swing_over_15pct,0

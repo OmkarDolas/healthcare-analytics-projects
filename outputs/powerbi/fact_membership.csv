@@ -1,0 +1,2071 @@
+month,product,line_of_business,region,members,gross_adds,terminations
+2021-01-01,ACA Individual,Commercial Individual,Bucks,6052,527,0
+2021-02-01,ACA Individual,Commercial Individual,Bucks,5967,54,139
+2021-03-01,ACA Individual,Commercial Individual,Bucks,5872,51,146
+2021-04-01,ACA Individual,Commercial Individual,Bucks,5933,74,13
+2021-05-01,ACA Individual,Commercial Individual,Bucks,5929,72,76
+2021-06-01,ACA Individual,Commercial Individual,Bucks,5956,82,55
+2021-07-01,ACA Individual,Commercial Individual,Bucks,5983,64,37
+2021-08-01,ACA Individual,Commercial Individual,Bucks,5970,88,101
+2021-09-01,ACA Individual,Commercial Individual,Bucks,5994,55,31
+2021-10-01,ACA Individual,Commercial Individual,Bucks,5965,70,99
+2021-11-01,ACA Individual,Commercial Individual,Bucks,5964,79,80
+2021-12-01,ACA Individual,Commercial Individual,Bucks,5997,63,30
+2022-01-01,ACA Individual,Commercial Individual,Bucks,6487,550,60
+2022-02-01,ACA Individual,Commercial Individual,Bucks,6408,65,144
+2022-03-01,ACA Individual,Commercial Individual,Bucks,6282,72,198
+2022-04-01,ACA Individual,Commercial Individual,Bucks,6233,83,132
+2022-05-01,ACA Individual,Commercial Individual,Bucks,6301,83,15
+2022-06-01,ACA Individual,Commercial Individual,Bucks,6328,73,46
+2022-07-01,ACA Individual,Commercial Individual,Bucks,6331,50,47
+2022-08-01,ACA Individual,Commercial Individual,Bucks,6286,68,113
+2022-09-01,ACA Individual,Commercial Individual,Bucks,6286,74,74
+2022-10-01,ACA Individual,Commercial Individual,Bucks,6342,92,36
+2022-11-01,ACA Individual,Commercial Individual,Bucks,6375,86,53
+2022-12-01,ACA Individual,Commercial Individual,Bucks,6371,75,79
+2023-01-01,ACA Individual,Commercial Individual,Bucks,6798,562,135
+2023-02-01,ACA Individual,Commercial Individual,Bucks,6685,77,190
+2023-03-01,ACA Individual,Commercial Individual,Bucks,6604,58,139
+2023-04-01,ACA Individual,Commercial Individual,Bucks,6612,71,63
+2023-05-01,ACA Individual,Commercial Individual,Bucks,6638,84,58
+2023-06-01,ACA Individual,Commercial Individual,Bucks,6756,107,0
+2023-07-01,ACA Individual,Commercial Individual,Bucks,6745,61,72
+2023-08-01,ACA Individual,Commercial Individual,Bucks,6720,82,107
+2023-09-01,ACA Individual,Commercial Individual,Bucks,6749,99,70
+2023-10-01,ACA Individual,Commercial Individual,Bucks,6738,84,95
+2023-11-01,ACA Individual,Commercial Individual,Bucks,6796,80,22
+2023-12-01,ACA Individual,Commercial Individual,Bucks,6765,74,105
+2024-01-01,ACA Individual,Commercial Individual,Bucks,7415,630,0
+2024-02-01,ACA Individual,Commercial Individual,Bucks,7250,82,247
+2024-03-01,ACA Individual,Commercial Individual,Bucks,7057,58,251
+2024-04-01,ACA Individual,Commercial Individual,Bucks,7101,88,44
+2024-05-01,ACA Individual,Commercial Individual,Bucks,7107,65,59
+2024-06-01,ACA Individual,Commercial Individual,Bucks,7150,97,54
+2024-07-01,ACA Individual,Commercial Individual,Bucks,7223,96,23
+2024-08-01,ACA Individual,Commercial Individual,Bucks,7172,65,116
+2024-09-01,ACA Individual,Commercial Individual,Bucks,7151,91,112
+2024-10-01,ACA Individual,Commercial Individual,Bucks,7176,78,53
+2024-11-01,ACA Individual,Commercial Individual,Bucks,7199,102,79
+2024-12-01,ACA Individual,Commercial Individual,Bucks,7204,76,71
+2025-01-01,ACA Individual,Commercial Individual,Bucks,7798,665,71
+2025-02-01,ACA Individual,Commercial Individual,Bucks,7637,85,246
+2025-03-01,ACA Individual,Commercial Individual,Bucks,7503,71,205
+2025-04-01,ACA Individual,Commercial Individual,Bucks,7526,80,57
+2025-05-01,ACA Individual,Commercial Individual,Bucks,7517,79,88
+2025-06-01,ACA Individual,Commercial Individual,Bucks,7545,89,61
+2025-07-01,ACA Individual,Commercial Individual,Bucks,7594,104,55
+2025-08-01,ACA Individual,Commercial Individual,Bucks,7652,96,38
+2025-09-01,ACA Individual,Commercial Individual,Bucks,7573,99,178
+2025-10-01,ACA Individual,Commercial Individual,Bucks,7665,86,0
+2025-11-01,ACA Individual,Commercial Individual,Bucks,7639,78,104
+2025-12-01,ACA Individual,Commercial Individual,Bucks,7677,103,65
+2026-01-01,ACA Individual,Commercial Individual,Bucks,7563,76,190
+2026-02-01,ACA Individual,Commercial Individual,Bucks,7334,68,297
+2026-03-01,ACA Individual,Commercial Individual,Bucks,7154,75,255
+2026-04-01,ACA Individual,Commercial Individual,Bucks,7094,76,136
+2026-05-01,ACA Individual,Commercial Individual,Bucks,7054,76,116
+2026-06-01,ACA Individual,Commercial Individual,Bucks,7059,68,63
+2026-07-01,ACA Individual,Commercial Individual,Bucks,7023,78,114
+2026-08-01,ACA Individual,Commercial Individual,Bucks,6955,70,138
+2026-09-01,ACA Individual,Commercial Individual,Bucks,6941,61,75
+2021-01-01,ACA Individual,Commercial Individual,Chester,5296,464,0
+2021-02-01,ACA Individual,Commercial Individual,Chester,5235,51,112
+2021-03-01,ACA Individual,Commercial Individual,Chester,5167,60,128
+2021-04-01,ACA Individual,Commercial Individual,Chester,5151,72,88
+2021-05-01,ACA Individual,Commercial Individual,Chester,5200,70,21
+2021-06-01,ACA Individual,Commercial Individual,Chester,5212,61,49
+2021-07-01,ACA Individual,Commercial Individual,Chester,5216,50,46
+2021-08-01,ACA Individual,Commercial Individual,Chester,5253,73,36
+2021-09-01,ACA Individual,Commercial Individual,Chester,5231,62,84
+2021-10-01,ACA Individual,Commercial Individual,Chester,5160,50,121
+2021-11-01,ACA Individual,Commercial Individual,Chester,5211,68,17
+2021-12-01,ACA Individual,Commercial Individual,Chester,5243,56,24
+2022-01-01,ACA Individual,Commercial Individual,Chester,5705,491,29
+2022-02-01,ACA Individual,Commercial Individual,Chester,5599,63,169
+2022-03-01,ACA Individual,Commercial Individual,Chester,5487,60,172
+2022-04-01,ACA Individual,Commercial Individual,Chester,5495,74,66
+2022-05-01,ACA Individual,Commercial Individual,Chester,5562,65,0
+2022-06-01,ACA Individual,Commercial Individual,Chester,5537,76,101
+2022-07-01,ACA Individual,Commercial Individual,Chester,5557,63,43
+2022-08-01,ACA Individual,Commercial Individual,Chester,5516,59,100
+2022-09-01,ACA Individual,Commercial Individual,Chester,5518,64,62
+2022-10-01,ACA Individual,Commercial Individual,Chester,5549,71,40
+2022-11-01,ACA Individual,Commercial Individual,Chester,5504,77,122
+2022-12-01,ACA Individual,Commercial Individual,Chester,5605,75,0
+2023-01-01,ACA Individual,Commercial Individual,Chester,5980,493,118
+2023-02-01,ACA Individual,Commercial Individual,Chester,5883,60,157
+2023-03-01,ACA Individual,Commercial Individual,Chester,5803,47,127
+2023-04-01,ACA Individual,Commercial Individual,Chester,5801,82,84
+2023-05-01,ACA Individual,Commercial Individual,Chester,5822,74,53
+2023-06-01,ACA Individual,Commercial Individual,Chester,5827,90,85
+2023-07-01,ACA Individual,Commercial Individual,Chester,5884,61,4
+2023-08-01,ACA Individual,Commercial Individual,Chester,5833,71,122
+2023-09-01,ACA Individual,Commercial Individual,Chester,5887,93,39
+2023-10-01,ACA Individual,Commercial Individual,Chester,5922,94,59
+2023-11-01,ACA Individual,Commercial Individual,Chester,5911,64,75
+2023-12-01,ACA Individual,Commercial Individual,Chester,5962,78,27
+2024-01-01,ACA Individual,Commercial Individual,Chester,6456,553,59
+2024-02-01,ACA Individual,Commercial Individual,Chester,6338,75,193
+2024-03-01,ACA Individual,Commercial Individual,Chester,6218,67,187
+2024-04-01,ACA Individual,Commercial Individual,Chester,6210,76,84
+2024-05-01,ACA Individual,Commercial Individual,Chester,6191,55,74
+2024-06-01,ACA Individual,Commercial Individual,Chester,6278,88,1
+2024-07-01,ACA Individual,Commercial Individual,Chester,6285,74,67
+2024-08-01,ACA Individual,Commercial Individual,Chester,6221,62,126
+2024-09-01,ACA Individual,Commercial Individual,Chester,6325,90,0
+2024-10-01,ACA Individual,Commercial Individual,Chester,6300,65,90
+2024-11-01,ACA Individual,Commercial Individual,Chester,6278,88,110
+2024-12-01,ACA Individual,Commercial Individual,Chester,6355,80,3
+2025-01-01,ACA Individual,Commercial Individual,Chester,6808,579,126
+2025-02-01,ACA Individual,Commercial Individual,Chester,6709,70,169
+2025-03-01,ACA Individual,Commercial Individual,Chester,6613,67,163
+2025-04-01,ACA Individual,Commercial Individual,Chester,6585,57,85
+2025-05-01,ACA Individual,Commercial Individual,Chester,6561,86,110
+2025-06-01,ACA Individual,Commercial Individual,Chester,6591,57,27
+2025-07-01,ACA Individual,Commercial Individual,Chester,6614,81,58
+2025-08-01,ACA Individual,Commercial Individual,Chester,6650,105,69
+2025-09-01,ACA Individual,Commercial Individual,Chester,6655,90,85
+2025-10-01,ACA Individual,Commercial Individual,Chester,6676,64,43
+2025-11-01,ACA Individual,Commercial Individual,Chester,6628,80,128
+2025-12-01,ACA Individual,Commercial Individual,Chester,6699,95,24
+2026-01-01,ACA Individual,Commercial Individual,Chester,6547,76,228
+2026-02-01,ACA Individual,Commercial Individual,Chester,6405,60,202
+2026-03-01,ACA Individual,Commercial Individual,Chester,6286,73,192
+2026-04-01,ACA Individual,Commercial Individual,Chester,6166,64,184
+2026-05-01,ACA Individual,Commercial Individual,Chester,6182,56,40
+2026-06-01,ACA Individual,Commercial Individual,Chester,6175,55,62
+2026-07-01,ACA Individual,Commercial Individual,Chester,6092,69,152
+2026-08-01,ACA Individual,Commercial Individual,Chester,6062,59,89
+2026-09-01,ACA Individual,Commercial Individual,Chester,6078,56,40
+2021-01-01,ACA Individual,Commercial Individual,Delaware,6079,526,0
+2021-02-01,ACA Individual,Commercial Individual,Delaware,5997,64,146
+2021-03-01,ACA Individual,Commercial Individual,Delaware,5890,65,172
+2021-04-01,ACA Individual,Commercial Individual,Delaware,5904,88,74
+2021-05-01,ACA Individual,Commercial Individual,Delaware,5933,93,64
+2021-06-01,ACA Individual,Commercial Individual,Delaware,5952,65,46
+2021-07-01,ACA Individual,Commercial Individual,Delaware,5988,66,30
+2021-08-01,ACA Individual,Commercial Individual,Delaware,6017,73,44
+2021-09-01,ACA Individual,Commercial Individual,Delaware,5951,66,132
+2021-10-01,ACA Individual,Commercial Individual,Delaware,6047,52,0
+2021-11-01,ACA Individual,Commercial Individual,Delaware,6005,63,105
+2021-12-01,ACA Individual,Commercial Individual,Delaware,5996,66,75
+2022-01-01,ACA Individual,Commercial Individual,Delaware,6490,570,76
+2022-02-01,ACA Individual,Commercial Individual,Delaware,6368,56,178
+2022-03-01,ACA Individual,Commercial Individual,Delaware,6266,54,156
+2022-04-01,ACA Individual,Commercial Individual,Delaware,6306,89,49
+2022-05-01,ACA Individual,Commercial Individual,Delaware,6306,83,83
+2022-06-01,ACA Individual,Commercial Individual,Delaware,6320,67,53
+2022-07-01,ACA Individual,Commercial Individual,Delaware,6267,74,127
+2022-08-01,ACA Individual,Commercial Individual,Delaware,6288,67,46
+2022-09-01,ACA Individual,Commercial Individual,Delaware,6316,53,25
+2022-10-01,ACA Individual,Commercial Individual,Delaware,6318,81,79
+2022-11-01,ACA Individual,Commercial Individual,Delaware,6366,77,29
+2022-12-01,ACA Individual,Commercial Individual,Delaware,6370,85,81
+2023-01-01,ACA Individual,Commercial Individual,Delaware,6862,567,75
+2023-02-01,ACA Individual,Commercial Individual,Delaware,6752,65,175
+2023-03-01,ACA Individual,Commercial Individual,Delaware,6618,64,198
+2023-04-01,ACA Individual,Commercial Individual,Delaware,6597,89,110
+2023-05-01,ACA Individual,Commercial Individual,Delaware,6650,92,39
+2023-06-01,ACA Individual,Commercial Individual,Delaware,6715,90,25
+2023-07-01,ACA Individual,Commercial Individual,Delaware,6721,74,68
+2023-08-01,ACA Individual,Commercial Individual,Delaware,6703,88,106
+2023-09-01,ACA Individual,Commercial Individual,Delaware,6712,92,83
+2023-10-01,ACA Individual,Commercial Individual,Delaware,6775,107,44
+2023-11-01,ACA Individual,Commercial Individual,Delaware,6787,97,85
+2023-12-01,ACA Individual,Commercial Individual,Delaware,6827,90,50
+2024-01-01,ACA Individual,Commercial Individual,Delaware,7330,630,127
+2024-02-01,ACA Individual,Commercial Individual,Delaware,7259,76,147
+2024-03-01,ACA Individual,Commercial Individual,Delaware,7045,70,284
+2024-04-01,ACA Individual,Commercial Individual,Delaware,7098,92,39
+2024-05-01,ACA Individual,Commercial Individual,Delaware,7146,59,11
+2024-06-01,ACA Individual,Commercial Individual,Delaware,7125,107,128
+2024-07-01,ACA Individual,Commercial Individual,Delaware,7221,95,0
+2024-08-01,ACA Individual,Commercial Individual,Delaware,7138,78,161
+2024-09-01,ACA Individual,Commercial Individual,Delaware,7199,80,19
+2024-10-01,ACA Individual,Commercial Individual,Delaware,7145,90,144
+2024-11-01,ACA Individual,Commercial Individual,Delaware,7180,95,60
+2024-12-01,ACA Individual,Commercial Individual,Delaware,7224,77,33
+2025-01-01,ACA Individual,Commercial Individual,Delaware,7822,654,56
+2025-02-01,ACA Individual,Commercial Individual,Delaware,7690,64,196
+2025-03-01,ACA Individual,Commercial Individual,Delaware,7556,86,220
+2025-04-01,ACA Individual,Commercial Individual,Delaware,7486,78,148
+2025-05-01,ACA Individual,Commercial Individual,Delaware,7572,98,12
+2025-06-01,ACA Individual,Commercial Individual,Delaware,7516,79,135
+2025-07-01,ACA Individual,Commercial Individual,Delaware,7613,102,5
+2025-08-01,ACA Individual,Commercial Individual,Delaware,7610,104,107
+2025-09-01,ACA Individual,Commercial Individual,Delaware,7562,106,154
+2025-10-01,ACA Individual,Commercial Individual,Delaware,7670,93,0
+2025-11-01,ACA Individual,Commercial Individual,Delaware,7681,105,94
+2025-12-01,ACA Individual,Commercial Individual,Delaware,7731,93,43
+2026-01-01,ACA Individual,Commercial Individual,Delaware,7533,74,272
+2026-02-01,ACA Individual,Commercial Individual,Delaware,7315,59,277
+2026-03-01,ACA Individual,Commercial Individual,Delaware,7150,57,222
+2026-04-01,ACA Individual,Commercial Individual,Delaware,7136,83,97
+2026-05-01,ACA Individual,Commercial Individual,Delaware,7057,83,162
+2026-06-01,ACA Individual,Commercial Individual,Delaware,7023,68,102
+2026-07-01,ACA Individual,Commercial Individual,Delaware,7021,59,61
+2026-08-01,ACA Individual,Commercial Individual,Delaware,6980,83,124
+2026-09-01,ACA Individual,Commercial Individual,Delaware,6904,83,159
+2021-01-01,ACA Individual,Commercial Individual,Montgomery,7963,702,0
+2021-02-01,ACA Individual,Commercial Individual,Montgomery,7847,78,194
+2021-03-01,ACA Individual,Commercial Individual,Montgomery,7727,74,194
+2021-04-01,ACA Individual,Commercial Individual,Montgomery,7750,117,94
+2021-05-01,ACA Individual,Commercial Individual,Montgomery,7771,119,98
+2021-06-01,ACA Individual,Commercial Individual,Montgomery,7795,84,60
+2021-07-01,ACA Individual,Commercial Individual,Montgomery,7804,77,68
+2021-08-01,ACA Individual,Commercial Individual,Montgomery,7824,109,89
+2021-09-01,ACA Individual,Commercial Individual,Montgomery,7872,84,36
+2021-10-01,ACA Individual,Commercial Individual,Montgomery,7876,92,88
+2021-11-01,ACA Individual,Commercial Individual,Montgomery,7879,88,85
+2021-12-01,ACA Individual,Commercial Individual,Montgomery,7840,88,127
+2022-01-01,ACA Individual,Commercial Individual,Montgomery,8512,737,65
+2022-02-01,ACA Individual,Commercial Individual,Montgomery,8354,93,251
+2022-03-01,ACA Individual,Commercial Individual,Montgomery,8259,78,173
+2022-04-01,ACA Individual,Commercial Individual,Montgomery,8348,101,12
+2022-05-01,ACA Individual,Commercial Individual,Montgomery,8284,80,144
+2022-06-01,ACA Individual,Commercial Individual,Montgomery,8354,101,31
+2022-07-01,ACA Individual,Commercial Individual,Montgomery,8283,78,149
+2022-08-01,ACA Individual,Commercial Individual,Montgomery,8291,74,66
+2022-09-01,ACA Individual,Commercial Individual,Montgomery,8274,91,108
+2022-10-01,ACA Individual,Commercial Individual,Montgomery,8309,112,77
+2022-11-01,ACA Individual,Commercial Individual,Montgomery,8357,86,38
+2022-12-01,ACA Individual,Commercial Individual,Montgomery,8315,92,134
+2023-01-01,ACA Individual,Commercial Individual,Montgomery,8976,749,88
+2023-02-01,ACA Individual,Commercial Individual,Montgomery,8856,103,223
+2023-03-01,ACA Individual,Commercial Individual,Montgomery,8667,92,281
+2023-04-01,ACA Individual,Commercial Individual,Montgomery,8721,112,58
+2023-05-01,ACA Individual,Commercial Individual,Montgomery,8780,134,75
+2023-06-01,ACA Individual,Commercial Individual,Montgomery,8781,115,114
+2023-07-01,ACA Individual,Commercial Individual,Montgomery,8828,92,45
+2023-08-01,ACA Individual,Commercial Individual,Montgomery,8757,82,153
+2023-09-01,ACA Individual,Commercial Individual,Montgomery,8875,131,13
+2023-10-01,ACA Individual,Commercial Individual,Montgomery,8867,116,124
+2023-11-01,ACA Individual,Commercial Individual,Montgomery,8924,113,56
+2023-12-01,ACA Individual,Commercial Individual,Montgomery,8954,104,74
+2024-01-01,ACA Individual,Commercial Individual,Montgomery,9722,848,80
+2024-02-01,ACA Individual,Commercial Individual,Montgomery,9507,86,301
+2024-03-01,ACA Individual,Commercial Individual,Montgomery,9342,105,270
+2024-04-01,ACA Individual,Commercial Individual,Montgomery,9367,139,114
+2024-05-01,ACA Individual,Commercial Individual,Montgomery,9357,74,84
+2024-06-01,ACA Individual,Commercial Individual,Montgomery,9396,124,85
+2024-07-01,ACA Individual,Commercial Individual,Montgomery,9423,120,93
+2024-08-01,ACA Individual,Commercial Individual,Montgomery,9351,96,168
+2024-09-01,ACA Individual,Commercial Individual,Montgomery,9365,135,121
+2024-10-01,ACA Individual,Commercial Individual,Montgomery,9438,89,16
+2024-11-01,ACA Individual,Commercial Individual,Montgomery,9378,119,179
+2024-12-01,ACA Individual,Commercial Individual,Montgomery,9472,113,19
+2025-01-01,ACA Individual,Commercial Individual,Montgomery,10232,865,105
+2025-02-01,ACA Individual,Commercial Individual,Montgomery,10031,120,321
+2025-03-01,ACA Individual,Commercial Individual,Montgomery,9850,95,276
+2025-04-01,ACA Individual,Commercial Individual,Montgomery,9838,93,105
+2025-05-01,ACA Individual,Commercial Individual,Montgomery,9881,115,72
+2025-06-01,ACA Individual,Commercial Individual,Montgomery,9880,87,88
+2025-07-01,ACA Individual,Commercial Individual,Montgomery,9885,120,115
+2025-08-01,ACA Individual,Commercial Individual,Montgomery,9962,121,44
+2025-09-01,ACA Individual,Commercial Individual,Montgomery,9973,143,132
+2025-10-01,ACA Individual,Commercial Individual,Montgomery,10103,98,0
+2025-11-01,ACA Individual,Commercial Individual,Montgomery,10030,120,193
+2025-12-01,ACA Individual,Commercial Individual,Montgomery,9980,154,204
+2026-01-01,ACA Individual,Commercial Individual,Montgomery,9837,114,257
+2026-02-01,ACA Individual,Commercial Individual,Montgomery,9601,85,321
+2026-03-01,ACA Individual,Commercial Individual,Montgomery,9454,93,240
+2026-04-01,ACA Individual,Commercial Individual,Montgomery,9333,109,230
+2026-05-01,ACA Individual,Commercial Individual,Montgomery,9289,88,132
+2026-06-01,ACA Individual,Commercial Individual,Montgomery,9247,88,130
+2026-07-01,ACA Individual,Commercial Individual,Montgomery,9162,91,176
+2026-08-01,ACA Individual,Commercial Individual,Montgomery,9130,92,124
+2026-09-01,ACA Individual,Commercial Individual,Montgomery,9083,94,141
+2021-01-01,ACA Individual,Commercial Individual,Philadelphia,12480,1120,0
+2021-02-01,ACA Individual,Commercial Individual,Philadelphia,12388,110,202
+2021-03-01,ACA Individual,Commercial Individual,Philadelphia,12130,141,399
+2021-04-01,ACA Individual,Commercial Individual,Philadelphia,12116,179,193
+2021-05-01,ACA Individual,Commercial Individual,Philadelphia,12219,187,84
+2021-06-01,ACA Individual,Commercial Individual,Philadelphia,12246,166,139
+2021-07-01,ACA Individual,Commercial Individual,Philadelphia,12286,166,126
+2021-08-01,ACA Individual,Commercial Individual,Philadelphia,12370,178,94
+2021-09-01,ACA Individual,Commercial Individual,Philadelphia,12460,128,38
+2021-10-01,ACA Individual,Commercial Individual,Philadelphia,12317,110,253
+2021-11-01,ACA Individual,Commercial Individual,Philadelphia,12401,158,74
+2021-12-01,ACA Individual,Commercial Individual,Philadelphia,12444,153,110
+2022-01-01,ACA Individual,Commercial Individual,Philadelphia,13385,1135,194
+2022-02-01,ACA Individual,Commercial Individual,Philadelphia,13200,130,315
+2022-03-01,ACA Individual,Commercial Individual,Philadelphia,12909,149,440
+2022-04-01,ACA Individual,Commercial Individual,Philadelphia,12949,192,152
+2022-05-01,ACA Individual,Commercial Individual,Philadelphia,12968,158,139
+2022-06-01,ACA Individual,Commercial Individual,Philadelphia,13104,162,26
+2022-07-01,ACA Individual,Commercial Individual,Philadelphia,12978,136,262
+2022-08-01,ACA Individual,Commercial Individual,Philadelphia,13062,134,50
+2022-09-01,ACA Individual,Commercial Individual,Philadelphia,13037,155,180
+2022-10-01,ACA Individual,Commercial Individual,Philadelphia,13054,200,183
+2022-11-01,ACA Individual,Commercial Individual,Philadelphia,13111,175,118
+2022-12-01,ACA Individual,Commercial Individual,Philadelphia,13052,141,200
+2023-01-01,ACA Individual,Commercial Individual,Philadelphia,14133,1147,66
+2023-02-01,ACA Individual,Commercial Individual,Philadelphia,13877,136,392
+2023-03-01,ACA Individual,Commercial Individual,Philadelphia,13562,114,429
+2023-04-01,ACA Individual,Commercial Individual,Philadelphia,13629,167,100
+2023-05-01,ACA Individual,Commercial Individual,Philadelphia,13773,172,28
+2023-06-01,ACA Individual,Commercial Individual,Philadelphia,13787,204,190
+2023-07-01,ACA Individual,Commercial Individual,Philadelphia,13801,140,126
+2023-08-01,ACA Individual,Commercial Individual,Philadelphia,13894,158,65
+2023-09-01,ACA Individual,Commercial Individual,Philadelphia,13828,216,282
+2023-10-01,ACA Individual,Commercial Individual,Philadelphia,14030,175,0
+2023-11-01,ACA Individual,Commercial Individual,Philadelphia,14004,156,182
+2023-12-01,ACA Individual,Commercial Individual,Philadelphia,14062,153,95
+2024-01-01,ACA Individual,Commercial Individual,Philadelphia,15314,1328,76
+2024-02-01,ACA Individual,Commercial Individual,Philadelphia,15001,158,471
+2024-03-01,ACA Individual,Commercial Individual,Philadelphia,14618,149,532
+2024-04-01,ACA Individual,Commercial Individual,Philadelphia,14863,223,0
+2024-05-01,ACA Individual,Commercial Individual,Philadelphia,14595,123,391
+2024-06-01,ACA Individual,Commercial Individual,Philadelphia,14730,233,98
+2024-07-01,ACA Individual,Commercial Individual,Philadelphia,14751,205,184
+2024-08-01,ACA Individual,Commercial Individual,Philadelphia,14780,167,138
+2024-09-01,ACA Individual,Commercial Individual,Philadelphia,14791,178,167
+2024-10-01,ACA Individual,Commercial Individual,Philadelphia,14909,177,59
+2024-11-01,ACA Individual,Commercial Individual,Philadelphia,14878,169,200
+2024-12-01,ACA Individual,Commercial Individual,Philadelphia,14859,200,219
+2025-01-01,ACA Individual,Commercial Individual,Philadelphia,16225,1342,0
+2025-02-01,ACA Individual,Commercial Individual,Philadelphia,15876,185,534
+2025-03-01,ACA Individual,Commercial Individual,Philadelphia,15594,149,431
+2025-04-01,ACA Individual,Commercial Individual,Philadelphia,15583,169,180
+2025-05-01,ACA Individual,Commercial Individual,Philadelphia,15507,215,291
+2025-06-01,ACA Individual,Commercial Individual,Philadelphia,15630,151,28
+2025-07-01,ACA Individual,Commercial Individual,Philadelphia,15614,226,242
+2025-08-01,ACA Individual,Commercial Individual,Philadelphia,15698,196,112
+2025-09-01,ACA Individual,Commercial Individual,Philadelphia,15734,231,195
+2025-10-01,ACA Individual,Commercial Individual,Philadelphia,15782,161,113
+2025-11-01,ACA Individual,Commercial Individual,Philadelphia,15807,174,149
+2025-12-01,ACA Individual,Commercial Individual,Philadelphia,15743,242,306
+2026-01-01,ACA Individual,Commercial Individual,Philadelphia,15510,127,360
+2026-02-01,ACA Individual,Commercial Individual,Philadelphia,15091,160,579
+2026-03-01,ACA Individual,Commercial Individual,Philadelphia,14766,160,485
+2026-04-01,ACA Individual,Commercial Individual,Philadelphia,14608,159,317
+2026-05-01,ACA Individual,Commercial Individual,Philadelphia,14522,151,237
+2026-06-01,ACA Individual,Commercial Individual,Philadelphia,14615,171,78
+2026-07-01,ACA Individual,Commercial Individual,Philadelphia,14493,120,242
+2026-08-01,ACA Individual,Commercial Individual,Philadelphia,14377,137,253
+2026-09-01,ACA Individual,Commercial Individual,Philadelphia,14285,148,240
+2021-01-01,Large Group,Commercial Group,Bucks,34352,1096,0
+2021-02-01,Large Group,Commercial Group,Bucks,34214,408,546
+2021-03-01,Large Group,Commercial Group,Bucks,34425,492,281
+2021-04-01,Large Group,Commercial Group,Bucks,34655,335,105
+2021-05-01,Large Group,Commercial Group,Bucks,34684,289,260
+2021-06-01,Large Group,Commercial Group,Bucks,34415,279,548
+2021-07-01,Large Group,Commercial Group,Bucks,34291,304,428
+2021-08-01,Large Group,Commercial Group,Bucks,34491,414,214
+2021-09-01,Large Group,Commercial Group,Bucks,34471,343,363
+2021-10-01,Large Group,Commercial Group,Bucks,34204,306,573
+2021-11-01,Large Group,Commercial Group,Bucks,34446,325,83
+2021-12-01,Large Group,Commercial Group,Bucks,34261,386,571
+2022-01-01,Large Group,Commercial Group,Bucks,35115,1060,206
+2022-02-01,Large Group,Commercial Group,Bucks,35061,436,490
+2022-03-01,Large Group,Commercial Group,Bucks,35130,348,279
+2022-04-01,Large Group,Commercial Group,Bucks,35304,371,197
+2022-05-01,Large Group,Commercial Group,Bucks,35536,405,173
+2022-06-01,Large Group,Commercial Group,Bucks,35297,340,579
+2022-07-01,Large Group,Commercial Group,Bucks,35412,309,194
+2022-08-01,Large Group,Commercial Group,Bucks,35489,437,360
+2022-09-01,Large Group,Commercial Group,Bucks,35384,399,504
+2022-10-01,Large Group,Commercial Group,Bucks,35123,420,681
+2022-11-01,Large Group,Commercial Group,Bucks,35094,295,324
+2022-12-01,Large Group,Commercial Group,Bucks,35154,487,427
+2023-01-01,Large Group,Commercial Group,Bucks,36053,1035,136
+2023-02-01,Large Group,Commercial Group,Bucks,36172,312,193
+2023-03-01,Large Group,Commercial Group,Bucks,35899,351,624
+2023-04-01,Large Group,Commercial Group,Bucks,35931,340,308
+2023-05-01,Large Group,Commercial Group,Bucks,35994,395,332
+2023-06-01,Large Group,Commercial Group,Bucks,35968,306,332
+2023-07-01,Large Group,Commercial Group,Bucks,36041,438,365
+2023-08-01,Large Group,Commercial Group,Bucks,36013,318,346
+2023-09-01,Large Group,Commercial Group,Bucks,36132,389,270
+2023-10-01,Large Group,Commercial Group,Bucks,36178,511,465
+2023-11-01,Large Group,Commercial Group,Bucks,36172,391,397
+2023-12-01,Large Group,Commercial Group,Bucks,36178,457,451
+2024-01-01,Large Group,Commercial Group,Bucks,37048,922,52
+2024-02-01,Large Group,Commercial Group,Bucks,36636,372,784
+2024-03-01,Large Group,Commercial Group,Bucks,36663,453,426
+2024-04-01,Large Group,Commercial Group,Bucks,36939,380,104
+2024-05-01,Large Group,Commercial Group,Bucks,37133,566,372
+2024-06-01,Large Group,Commercial Group,Bucks,36846,395,682
+2024-07-01,Large Group,Commercial Group,Bucks,36981,350,215
+2024-08-01,Large Group,Commercial Group,Bucks,36767,476,690
+2024-09-01,Large Group,Commercial Group,Bucks,36655,307,419
+2024-10-01,Large Group,Commercial Group,Bucks,37031,422,46
+2024-11-01,Large Group,Commercial Group,Bucks,36916,309,424
+2024-12-01,Large Group,Commercial Group,Bucks,36952,340,304
+2025-01-01,Large Group,Commercial Group,Bucks,37552,1205,605
+2025-02-01,Large Group,Commercial Group,Bucks,37869,394,77
+2025-03-01,Large Group,Commercial Group,Bucks,37789,375,455
+2025-04-01,Large Group,Commercial Group,Bucks,37862,341,268
+2025-05-01,Large Group,Commercial Group,Bucks,37859,517,520
+2025-06-01,Large Group,Commercial Group,Bucks,38233,385,11
+2025-07-01,Large Group,Commercial Group,Bucks,37906,528,855
+2025-08-01,Large Group,Commercial Group,Bucks,37978,530,458
+2025-09-01,Large Group,Commercial Group,Bucks,38036,380,322
+2025-10-01,Large Group,Commercial Group,Bucks,37892,355,499
+2025-11-01,Large Group,Commercial Group,Bucks,37996,396,292
+2025-12-01,Large Group,Commercial Group,Bucks,37950,503,549
+2026-01-01,Large Group,Commercial Group,Bucks,39050,1120,20
+2026-02-01,Large Group,Commercial Group,Bucks,39163,376,263
+2026-03-01,Large Group,Commercial Group,Bucks,39009,379,533
+2026-04-01,Large Group,Commercial Group,Bucks,38941,457,525
+2026-05-01,Large Group,Commercial Group,Bucks,38928,441,454
+2026-06-01,Large Group,Commercial Group,Bucks,39019,510,419
+2026-07-01,Large Group,Commercial Group,Bucks,38825,400,594
+2026-08-01,Large Group,Commercial Group,Bucks,39042,421,204
+2026-09-01,Large Group,Commercial Group,Bucks,38608,364,798
+2021-01-01,Large Group,Commercial Group,Chester,30071,939,0
+2021-02-01,Large Group,Commercial Group,Chester,29688,327,710
+2021-03-01,Large Group,Commercial Group,Chester,30163,416,0
+2021-04-01,Large Group,Commercial Group,Chester,29967,296,492
+2021-05-01,Large Group,Commercial Group,Chester,30112,305,160
+2021-06-01,Large Group,Commercial Group,Chester,30197,350,265
+2021-07-01,Large Group,Commercial Group,Chester,29964,341,574
+2021-08-01,Large Group,Commercial Group,Chester,29779,312,497
+2021-09-01,Large Group,Commercial Group,Chester,30228,373,0
+2021-10-01,Large Group,Commercial Group,Chester,30254,270,244
+2021-11-01,Large Group,Commercial Group,Chester,29956,307,605
+2021-12-01,Large Group,Commercial Group,Chester,30156,299,99
+2022-01-01,Large Group,Commercial Group,Chester,30806,916,266
+2022-02-01,Large Group,Commercial Group,Chester,30595,350,561
+2022-03-01,Large Group,Commercial Group,Chester,30640,310,265
+2022-04-01,Large Group,Commercial Group,Chester,31044,344,0
+2022-05-01,Large Group,Commercial Group,Chester,30991,297,350
+2022-06-01,Large Group,Commercial Group,Chester,30737,382,636
+2022-07-01,Large Group,Commercial Group,Chester,30933,326,130
+2022-08-01,Large Group,Commercial Group,Chester,30883,351,401
+2022-09-01,Large Group,Commercial Group,Chester,31097,285,71
+2022-10-01,Large Group,Commercial Group,Chester,30769,349,677
+2022-11-01,Large Group,Commercial Group,Chester,30912,336,193
+2022-12-01,Large Group,Commercial Group,Chester,30907,353,358
+2023-01-01,Large Group,Commercial Group,Chester,31428,924,403
+2023-02-01,Large Group,Commercial Group,Chester,31342,292,378
+2023-03-01,Large Group,Commercial Group,Chester,31537,274,79
+2023-04-01,Large Group,Commercial Group,Chester,31367,298,468
+2023-05-01,Large Group,Commercial Group,Chester,31571,332,128
+2023-06-01,Large Group,Commercial Group,Chester,31492,321,400
+2023-07-01,Large Group,Commercial Group,Chester,31284,386,594
+2023-08-01,Large Group,Commercial Group,Chester,31389,351,246
+2023-09-01,Large Group,Commercial Group,Chester,31620,354,123
+2023-10-01,Large Group,Commercial Group,Chester,31838,423,205
+2023-11-01,Large Group,Commercial Group,Chester,31720,355,473
+2023-12-01,Large Group,Commercial Group,Chester,31694,310,336
+2024-01-01,Large Group,Commercial Group,Chester,32221,856,329
+2024-02-01,Large Group,Commercial Group,Chester,32350,324,195
+2024-03-01,Large Group,Commercial Group,Chester,31831,338,857
+2024-04-01,Large Group,Commercial Group,Chester,32154,350,27
+2024-05-01,Large Group,Commercial Group,Chester,32185,479,448
+2024-06-01,Large Group,Commercial Group,Chester,32194,293,284
+2024-07-01,Large Group,Commercial Group,Chester,32371,308,131
+2024-08-01,Large Group,Commercial Group,Chester,32508,469,332
+2024-09-01,Large Group,Commercial Group,Chester,32108,379,779
+2024-10-01,Large Group,Commercial Group,Chester,32362,311,57
+2024-11-01,Large Group,Commercial Group,Chester,32395,361,328
+2024-12-01,Large Group,Commercial Group,Chester,32307,367,455
+2025-01-01,Large Group,Commercial Group,Chester,33128,998,177
+2025-02-01,Large Group,Commercial Group,Chester,32912,439,655
+2025-03-01,Large Group,Commercial Group,Chester,32967,356,301
+2025-04-01,Large Group,Commercial Group,Chester,32816,311,462
+2025-05-01,Large Group,Commercial Group,Chester,33171,464,109
+2025-06-01,Large Group,Commercial Group,Chester,32987,374,558
+2025-07-01,Large Group,Commercial Group,Chester,33290,454,151
+2025-08-01,Large Group,Commercial Group,Chester,33302,349,337
+2025-09-01,Large Group,Commercial Group,Chester,33270,344,376
+2025-10-01,Large Group,Commercial Group,Chester,33276,354,348
+2025-11-01,Large Group,Commercial Group,Chester,33492,370,154
+2025-12-01,Large Group,Commercial Group,Chester,33480,431,443
+2026-01-01,Large Group,Commercial Group,Chester,33840,1010,650
+2026-02-01,Large Group,Commercial Group,Chester,34000,396,236
+2026-03-01,Large Group,Commercial Group,Chester,34107,401,294
+2026-04-01,Large Group,Commercial Group,Chester,33889,319,537
+2026-05-01,Large Group,Commercial Group,Chester,34267,303,0
+2026-06-01,Large Group,Commercial Group,Chester,34236,462,493
+2026-07-01,Large Group,Commercial Group,Chester,33895,404,745
+2026-08-01,Large Group,Commercial Group,Chester,34181,364,78
+2026-09-01,Large Group,Commercial Group,Chester,34128,387,440
+2021-01-01,Large Group,Commercial Group,Delaware,34454,1140,0
+2021-02-01,Large Group,Commercial Group,Delaware,34263,350,541
+2021-03-01,Large Group,Commercial Group,Delaware,34287,537,513
+2021-04-01,Large Group,Commercial Group,Delaware,34419,370,238
+2021-05-01,Large Group,Commercial Group,Delaware,34325,396,490
+2021-06-01,Large Group,Commercial Group,Delaware,34423,344,246
+2021-07-01,Large Group,Commercial Group,Delaware,34289,307,441
+2021-08-01,Large Group,Commercial Group,Delaware,34862,407,0
+2021-09-01,Large Group,Commercial Group,Delaware,34552,338,648
+2021-10-01,Large Group,Commercial Group,Delaware,34542,378,388
+2021-11-01,Large Group,Commercial Group,Delaware,34319,315,538
+2021-12-01,Large Group,Commercial Group,Delaware,34420,330,229
+2022-01-01,Large Group,Commercial Group,Delaware,34933,1061,548
+2022-02-01,Large Group,Commercial Group,Delaware,35115,344,162
+2022-03-01,Large Group,Commercial Group,Delaware,35296,409,228
+2022-04-01,Large Group,Commercial Group,Delaware,35212,466,550
+2022-05-01,Large Group,Commercial Group,Delaware,35435,426,203
+2022-06-01,Large Group,Commercial Group,Delaware,35704,351,82
+2022-07-01,Large Group,Commercial Group,Delaware,35504,333,533
+2022-08-01,Large Group,Commercial Group,Delaware,35463,393,434
+2022-09-01,Large Group,Commercial Group,Delaware,35147,359,675
+2022-10-01,Large Group,Commercial Group,Delaware,35456,327,18
+2022-11-01,Large Group,Commercial Group,Delaware,35052,294,698
+2022-12-01,Large Group,Commercial Group,Delaware,35398,489,143
+2023-01-01,Large Group,Commercial Group,Delaware,36183,1113,328
+2023-02-01,Large Group,Commercial Group,Delaware,36214,416,385
+2023-03-01,Large Group,Commercial Group,Delaware,35848,418,784
+2023-04-01,Large Group,Commercial Group,Delaware,36000,392,240
+2023-05-01,Large Group,Commercial Group,Delaware,35732,361,629
+2023-06-01,Large Group,Commercial Group,Delaware,35993,366,105
+2023-07-01,Large Group,Commercial Group,Delaware,35904,404,493
+2023-08-01,Large Group,Commercial Group,Delaware,36344,425,0
+2023-09-01,Large Group,Commercial Group,Delaware,36085,469,728
+2023-10-01,Large Group,Commercial Group,Delaware,36196,437,326
+2023-11-01,Large Group,Commercial Group,Delaware,36165,291,322
+2023-12-01,Large Group,Commercial Group,Delaware,36077,416,504
+2024-01-01,Large Group,Commercial Group,Delaware,36659,977,395
+2024-02-01,Large Group,Commercial Group,Delaware,36640,311,330
+2024-03-01,Large Group,Commercial Group,Delaware,36591,385,434
+2024-04-01,Large Group,Commercial Group,Delaware,36661,394,324
+2024-05-01,Large Group,Commercial Group,Delaware,36855,469,275
+2024-06-01,Large Group,Commercial Group,Delaware,36842,355,368
+2024-07-01,Large Group,Commercial Group,Delaware,36904,362,300
+2024-08-01,Large Group,Commercial Group,Delaware,37024,538,418
+2024-09-01,Large Group,Commercial Group,Delaware,36843,341,522
+2024-10-01,Large Group,Commercial Group,Delaware,36927,420,336
+2024-11-01,Large Group,Commercial Group,Delaware,36648,353,632
+2024-12-01,Large Group,Commercial Group,Delaware,36898,423,173
+2025-01-01,Large Group,Commercial Group,Delaware,37861,1150,187
+2025-02-01,Large Group,Commercial Group,Delaware,37642,457,676
+2025-03-01,Large Group,Commercial Group,Delaware,37879,435,198
+2025-04-01,Large Group,Commercial Group,Delaware,37934,313,258
+2025-05-01,Large Group,Commercial Group,Delaware,37667,450,717
+2025-06-01,Large Group,Commercial Group,Delaware,37553,413,527
+2025-07-01,Large Group,Commercial Group,Delaware,38467,498,0
+2025-08-01,Large Group,Commercial Group,Delaware,38022,510,955
+2025-09-01,Large Group,Commercial Group,Delaware,38227,345,140
+2025-10-01,Large Group,Commercial Group,Delaware,38231,357,353
+2025-11-01,Large Group,Commercial Group,Delaware,38002,396,625
+2025-12-01,Large Group,Commercial Group,Delaware,38177,372,197
+2026-01-01,Large Group,Commercial Group,Delaware,38905,1058,330
+2026-02-01,Large Group,Commercial Group,Delaware,39039,445,311
+2026-03-01,Large Group,Commercial Group,Delaware,38887,388,540
+2026-04-01,Large Group,Commercial Group,Delaware,38854,419,452
+2026-05-01,Large Group,Commercial Group,Delaware,38746,446,554
+2026-06-01,Large Group,Commercial Group,Delaware,39187,481,40
+2026-07-01,Large Group,Commercial Group,Delaware,38764,382,805
+2026-08-01,Large Group,Commercial Group,Delaware,38614,340,490
+2026-09-01,Large Group,Commercial Group,Delaware,39031,349,0
+2021-01-01,Large Group,Commercial Group,Montgomery,44982,1377,0
+2021-02-01,Large Group,Commercial Group,Montgomery,44737,438,683
+2021-03-01,Large Group,Commercial Group,Montgomery,45348,678,67
+2021-04-01,Large Group,Commercial Group,Montgomery,45081,522,789
+2021-05-01,Large Group,Commercial Group,Montgomery,45201,409,289
+2021-06-01,Large Group,Commercial Group,Montgomery,45017,538,722
+2021-07-01,Large Group,Commercial Group,Montgomery,45267,505,255
+2021-08-01,Large Group,Commercial Group,Montgomery,45555,581,293
+2021-09-01,Large Group,Commercial Group,Montgomery,45563,564,556
+2021-10-01,Large Group,Commercial Group,Montgomery,45246,401,718
+2021-11-01,Large Group,Commercial Group,Montgomery,45174,403,475
+2021-12-01,Large Group,Commercial Group,Montgomery,45304,478,348
+2022-01-01,Large Group,Commercial Group,Montgomery,45980,1270,594
+2022-02-01,Large Group,Commercial Group,Montgomery,46179,599,400
+2022-03-01,Large Group,Commercial Group,Montgomery,46302,472,349
+2022-04-01,Large Group,Commercial Group,Montgomery,46206,607,703
+2022-05-01,Large Group,Commercial Group,Montgomery,46316,497,387
+2022-06-01,Large Group,Commercial Group,Montgomery,46243,446,519
+2022-07-01,Large Group,Commercial Group,Montgomery,46869,550,0
+2022-08-01,Large Group,Commercial Group,Montgomery,46651,621,839
+2022-09-01,Large Group,Commercial Group,Montgomery,46030,443,1064
+2022-10-01,Large Group,Commercial Group,Montgomery,46369,461,122
+2022-11-01,Large Group,Commercial Group,Montgomery,46151,471,689
+2022-12-01,Large Group,Commercial Group,Montgomery,46402,661,410
+2023-01-01,Large Group,Commercial Group,Montgomery,47175,1381,608
+2023-02-01,Large Group,Commercial Group,Montgomery,47409,576,342
+2023-03-01,Large Group,Commercial Group,Montgomery,47500,501,410
+2023-04-01,Large Group,Commercial Group,Montgomery,47022,475,953
+2023-05-01,Large Group,Commercial Group,Montgomery,47335,566,253
+2023-06-01,Large Group,Commercial Group,Montgomery,47153,551,733
+2023-07-01,Large Group,Commercial Group,Montgomery,47061,448,540
+2023-08-01,Large Group,Commercial Group,Montgomery,47299,443,205
+2023-09-01,Large Group,Commercial Group,Montgomery,47337,615,577
+2023-10-01,Large Group,Commercial Group,Montgomery,47257,595,675
+2023-11-01,Large Group,Commercial Group,Montgomery,47692,431,0
+2023-12-01,Large Group,Commercial Group,Montgomery,47524,487,655
+2024-01-01,Large Group,Commercial Group,Montgomery,48543,1329,310
+2024-02-01,Large Group,Commercial Group,Montgomery,48124,501,920
+2024-03-01,Large Group,Commercial Group,Montgomery,48485,494,133
+2024-04-01,Large Group,Commercial Group,Montgomery,48379,622,728
+2024-05-01,Large Group,Commercial Group,Montgomery,48451,728,656
+2024-06-01,Large Group,Commercial Group,Montgomery,48427,486,510
+2024-07-01,Large Group,Commercial Group,Montgomery,48303,402,526
+2024-08-01,Large Group,Commercial Group,Montgomery,48785,625,143
+2024-09-01,Large Group,Commercial Group,Montgomery,48588,420,617
+2024-10-01,Large Group,Commercial Group,Montgomery,48419,546,715
+2024-11-01,Large Group,Commercial Group,Montgomery,48465,418,372
+2024-12-01,Large Group,Commercial Group,Montgomery,48638,505,332
+2025-01-01,Large Group,Commercial Group,Montgomery,49548,1578,668
+2025-02-01,Large Group,Commercial Group,Montgomery,49590,544,502
+2025-03-01,Large Group,Commercial Group,Montgomery,49489,511,612
+2025-04-01,Large Group,Commercial Group,Montgomery,49737,521,273
+2025-05-01,Large Group,Commercial Group,Montgomery,49806,590,521
+2025-06-01,Large Group,Commercial Group,Montgomery,49519,477,764
+2025-07-01,Large Group,Commercial Group,Montgomery,49879,610,250
+2025-08-01,Large Group,Commercial Group,Montgomery,50068,585,396
+2025-09-01,Large Group,Commercial Group,Montgomery,49866,628,830
+2025-10-01,Large Group,Commercial Group,Montgomery,50341,412,0
+2025-11-01,Large Group,Commercial Group,Montgomery,50015,517,843
+2025-12-01,Large Group,Commercial Group,Montgomery,50255,662,422
+2026-01-01,Large Group,Commercial Group,Montgomery,50872,1465,848
+2026-02-01,Large Group,Commercial Group,Montgomery,50727,447,592
+2026-03-01,Large Group,Commercial Group,Montgomery,50525,462,664
+2026-04-01,Large Group,Commercial Group,Montgomery,51130,472,0
+2026-05-01,Large Group,Commercial Group,Montgomery,50815,494,809
+2026-06-01,Large Group,Commercial Group,Montgomery,51281,530,64
+2026-07-01,Large Group,Commercial Group,Montgomery,50949,488,820
+2026-08-01,Large Group,Commercial Group,Montgomery,51168,441,222
+2026-09-01,Large Group,Commercial Group,Montgomery,51546,478,100
+2021-01-01,Large Group,Commercial Group,Philadelphia,70636,2321,0
+2021-02-01,Large Group,Commercial Group,Philadelphia,70250,612,998
+2021-03-01,Large Group,Commercial Group,Philadelphia,71062,1141,329
+2021-04-01,Large Group,Commercial Group,Philadelphia,71044,583,601
+2021-05-01,Large Group,Commercial Group,Philadelphia,71104,568,508
+2021-06-01,Large Group,Commercial Group,Philadelphia,70457,739,1386
+2021-07-01,Large Group,Commercial Group,Philadelphia,70952,784,289
+2021-08-01,Large Group,Commercial Group,Philadelphia,71280,912,584
+2021-09-01,Large Group,Commercial Group,Philadelphia,71604,723,399
+2021-10-01,Large Group,Commercial Group,Philadelphia,71200,800,1204
+2021-11-01,Large Group,Commercial Group,Philadelphia,70858,760,1102
+2021-12-01,Large Group,Commercial Group,Philadelphia,70772,844,930
+2022-01-01,Large Group,Commercial Group,Philadelphia,72285,2124,611
+2022-02-01,Large Group,Commercial Group,Philadelphia,72416,852,721
+2022-03-01,Large Group,Commercial Group,Philadelphia,72970,938,384
+2022-04-01,Large Group,Commercial Group,Philadelphia,72554,1045,1461
+2022-05-01,Large Group,Commercial Group,Philadelphia,72744,867,677
+2022-06-01,Large Group,Commercial Group,Philadelphia,73066,778,456
+2022-07-01,Large Group,Commercial Group,Philadelphia,73008,798,856
+2022-08-01,Large Group,Commercial Group,Philadelphia,73148,850,710
+2022-09-01,Large Group,Commercial Group,Philadelphia,72963,808,993
+2022-10-01,Large Group,Commercial Group,Philadelphia,72474,620,1109
+2022-11-01,Large Group,Commercial Group,Philadelphia,72599,633,508
+2022-12-01,Large Group,Commercial Group,Philadelphia,72683,898,814
+2023-01-01,Large Group,Commercial Group,Philadelphia,74137,2243,789
+2023-02-01,Large Group,Commercial Group,Philadelphia,74760,920,297
+2023-03-01,Large Group,Commercial Group,Philadelphia,73941,814,1633
+2023-04-01,Large Group,Commercial Group,Philadelphia,73626,863,1178
+2023-05-01,Large Group,Commercial Group,Philadelphia,74018,832,440
+2023-06-01,Large Group,Commercial Group,Philadelphia,74134,741,625
+2023-07-01,Large Group,Commercial Group,Philadelphia,73967,677,844
+2023-08-01,Large Group,Commercial Group,Philadelphia,74276,835,526
+2023-09-01,Large Group,Commercial Group,Philadelphia,75116,930,90
+2023-10-01,Large Group,Commercial Group,Philadelphia,74711,991,1396
+2023-11-01,Large Group,Commercial Group,Philadelphia,74688,871,894
+2023-12-01,Large Group,Commercial Group,Philadelphia,74724,920,884
+2024-01-01,Large Group,Commercial Group,Philadelphia,76013,2022,733
+2024-02-01,Large Group,Commercial Group,Philadelphia,75578,696,1131
+2024-03-01,Large Group,Commercial Group,Philadelphia,75560,971,989
+2024-04-01,Large Group,Commercial Group,Philadelphia,75553,1030,1037
+2024-05-01,Large Group,Commercial Group,Philadelphia,76091,1154,616
+2024-06-01,Large Group,Commercial Group,Philadelphia,75719,837,1209
+2024-07-01,Large Group,Commercial Group,Philadelphia,76547,663,0
+2024-08-01,Large Group,Commercial Group,Philadelphia,76380,879,1046
+2024-09-01,Large Group,Commercial Group,Philadelphia,76550,899,729
+2024-10-01,Large Group,Commercial Group,Philadelphia,76560,791,781
+2024-11-01,Large Group,Commercial Group,Philadelphia,76546,913,927
+2024-12-01,Large Group,Commercial Group,Philadelphia,76085,701,1162
+2025-01-01,Large Group,Commercial Group,Philadelphia,77882,2240,443
+2025-02-01,Large Group,Commercial Group,Philadelphia,77630,1024,1276
+2025-03-01,Large Group,Commercial Group,Philadelphia,77954,828,504
+2025-04-01,Large Group,Commercial Group,Philadelphia,77393,669,1230
+2025-05-01,Large Group,Commercial Group,Philadelphia,78149,980,224
+2025-06-01,Large Group,Commercial Group,Philadelphia,77870,696,975
+2025-07-01,Large Group,Commercial Group,Philadelphia,78300,996,566
+2025-08-01,Large Group,Commercial Group,Philadelphia,78555,820,565
+2025-09-01,Large Group,Commercial Group,Philadelphia,78597,701,659
+2025-10-01,Large Group,Commercial Group,Philadelphia,78542,813,868
+2025-11-01,Large Group,Commercial Group,Philadelphia,78195,859,1206
+2025-12-01,Large Group,Commercial Group,Philadelphia,78910,1064,349
+2026-01-01,Large Group,Commercial Group,Philadelphia,79936,2273,1247
+2026-02-01,Large Group,Commercial Group,Philadelphia,80698,775,13
+2026-03-01,Large Group,Commercial Group,Philadelphia,79947,646,1397
+2026-04-01,Large Group,Commercial Group,Philadelphia,79558,836,1225
+2026-05-01,Large Group,Commercial Group,Philadelphia,80508,753,0
+2026-06-01,Large Group,Commercial Group,Philadelphia,80082,992,1418
+2026-07-01,Large Group,Commercial Group,Philadelphia,80070,788,800
+2026-08-01,Large Group,Commercial Group,Philadelphia,80764,748,54
+2026-09-01,Large Group,Commercial Group,Philadelphia,80267,778,1275
+2021-01-01,MA-HMO,Medicare Advantage,Bucks,10556,697,0
+2021-02-01,MA-HMO,Medicare Advantage,Bucks,10321,124,359
+2021-03-01,MA-HMO,Medicare Advantage,Bucks,10271,102,152
+2021-04-01,MA-HMO,Medicare Advantage,Bucks,10291,122,102
+2021-05-01,MA-HMO,Medicare Advantage,Bucks,10300,162,153
+2021-06-01,MA-HMO,Medicare Advantage,Bucks,10406,151,45
+2021-07-01,MA-HMO,Medicare Advantage,Bucks,10451,174,129
+2021-08-01,MA-HMO,Medicare Advantage,Bucks,10476,136,111
+2021-09-01,MA-HMO,Medicare Advantage,Bucks,10570,161,67
+2021-10-01,MA-HMO,Medicare Advantage,Bucks,10548,99,121
+2021-11-01,MA-HMO,Medicare Advantage,Bucks,10555,170,163
+2021-12-01,MA-HMO,Medicare Advantage,Bucks,10542,149,162
+2022-01-01,MA-HMO,Medicare Advantage,Bucks,11196,739,85
+2022-02-01,MA-HMO,Medicare Advantage,Bucks,11076,118,238
+2022-03-01,MA-HMO,Medicare Advantage,Bucks,10979,93,190
+2022-04-01,MA-HMO,Medicare Advantage,Bucks,10998,97,78
+2022-05-01,MA-HMO,Medicare Advantage,Bucks,11023,104,79
+2022-06-01,MA-HMO,Medicare Advantage,Bucks,11128,128,23
+2022-07-01,MA-HMO,Medicare Advantage,Bucks,11181,189,136
+2022-08-01,MA-HMO,Medicare Advantage,Bucks,11155,96,122
+2022-09-01,MA-HMO,Medicare Advantage,Bucks,11181,145,119
+2022-10-01,MA-HMO,Medicare Advantage,Bucks,11222,125,84
+2022-11-01,MA-HMO,Medicare Advantage,Bucks,11113,142,251
+2022-12-01,MA-HMO,Medicare Advantage,Bucks,11242,119,0
+2023-01-01,MA-HMO,Medicare Advantage,Bucks,11850,812,204
+2023-02-01,MA-HMO,Medicare Advantage,Bucks,11827,130,153
+2023-03-01,MA-HMO,Medicare Advantage,Bucks,11619,140,348
+2023-04-01,MA-HMO,Medicare Advantage,Bucks,11787,168,0
+2023-05-01,MA-HMO,Medicare Advantage,Bucks,11821,191,157
+2023-06-01,MA-HMO,Medicare Advantage,Bucks,11829,125,117
+2023-07-01,MA-HMO,Medicare Advantage,Bucks,11802,127,154
+2023-08-01,MA-HMO,Medicare Advantage,Bucks,11864,186,124
+2023-09-01,MA-HMO,Medicare Advantage,Bucks,11933,144,75
+2023-10-01,MA-HMO,Medicare Advantage,Bucks,11934,196,195
+2023-11-01,MA-HMO,Medicare Advantage,Bucks,11946,139,127
+2023-12-01,MA-HMO,Medicare Advantage,Bucks,12041,149,54
+2024-01-01,MA-HMO,Medicare Advantage,Bucks,12726,786,101
+2024-02-01,MA-HMO,Medicare Advantage,Bucks,12622,111,215
+2024-03-01,MA-HMO,Medicare Advantage,Bucks,12416,135,341
+2024-04-01,MA-HMO,Medicare Advantage,Bucks,12472,162,106
+2024-05-01,MA-HMO,Medicare Advantage,Bucks,12628,207,51
+2024-06-01,MA-HMO,Medicare Advantage,Bucks,12580,142,190
+2024-07-01,MA-HMO,Medicare Advantage,Bucks,12502,129,207
+2024-08-01,MA-HMO,Medicare Advantage,Bucks,12550,177,129
+2024-09-01,MA-HMO,Medicare Advantage,Bucks,12589,181,142
+2024-10-01,MA-HMO,Medicare Advantage,Bucks,12536,139,192
+2024-11-01,MA-HMO,Medicare Advantage,Bucks,12651,131,16
+2024-12-01,MA-HMO,Medicare Advantage,Bucks,12731,159,79
+2025-01-01,MA-HMO,Medicare Advantage,Bucks,13425,883,189
+2025-02-01,MA-HMO,Medicare Advantage,Bucks,13222,140,343
+2025-03-01,MA-HMO,Medicare Advantage,Bucks,13197,129,154
+2025-04-01,MA-HMO,Medicare Advantage,Bucks,13184,187,200
+2025-05-01,MA-HMO,Medicare Advantage,Bucks,13321,159,22
+2025-06-01,MA-HMO,Medicare Advantage,Bucks,13362,140,99
+2025-07-01,MA-HMO,Medicare Advantage,Bucks,13345,150,167
+2025-08-01,MA-HMO,Medicare Advantage,Bucks,13253,152,244
+2025-09-01,MA-HMO,Medicare Advantage,Bucks,13183,134,204
+2025-10-01,MA-HMO,Medicare Advantage,Bucks,13471,245,0
+2025-11-01,MA-HMO,Medicare Advantage,Bucks,13517,198,152
+2025-12-01,MA-HMO,Medicare Advantage,Bucks,13587,179,109
+2026-01-01,MA-HMO,Medicare Advantage,Bucks,14279,890,198
+2026-02-01,MA-HMO,Medicare Advantage,Bucks,14222,156,213
+2026-03-01,MA-HMO,Medicare Advantage,Bucks,14015,116,323
+2026-04-01,MA-HMO,Medicare Advantage,Bucks,14014,147,148
+2026-05-01,MA-HMO,Medicare Advantage,Bucks,14045,171,140
+2026-06-01,MA-HMO,Medicare Advantage,Bucks,14089,150,106
+2026-07-01,MA-HMO,Medicare Advantage,Bucks,14171,122,40
+2026-08-01,MA-HMO,Medicare Advantage,Bucks,14171,189,189
+2026-09-01,MA-HMO,Medicare Advantage,Bucks,14305,187,53
+2021-01-01,MA-HMO,Medicare Advantage,Chester,9164,592,0
+2021-02-01,MA-HMO,Medicare Advantage,Chester,9033,78,209
+2021-03-01,MA-HMO,Medicare Advantage,Chester,8966,78,145
+2021-04-01,MA-HMO,Medicare Advantage,Chester,8956,111,121
+2021-05-01,MA-HMO,Medicare Advantage,Chester,9077,133,12
+2021-06-01,MA-HMO,Medicare Advantage,Chester,9079,131,129
+2021-07-01,MA-HMO,Medicare Advantage,Chester,9174,154,59
+2021-08-01,MA-HMO,Medicare Advantage,Chester,9173,113,114
+2021-09-01,MA-HMO,Medicare Advantage,Chester,9240,131,64
+2021-10-01,MA-HMO,Medicare Advantage,Chester,9216,102,126
+2021-11-01,MA-HMO,Medicare Advantage,Chester,9274,142,84
+2021-12-01,MA-HMO,Medicare Advantage,Chester,9257,108,125
+2022-01-01,MA-HMO,Medicare Advantage,Chester,9813,659,103
+2022-02-01,MA-HMO,Medicare Advantage,Chester,9696,102,219
+2022-03-01,MA-HMO,Medicare Advantage,Chester,9617,95,174
+2022-04-01,MA-HMO,Medicare Advantage,Chester,9632,112,97
+2022-05-01,MA-HMO,Medicare Advantage,Chester,9653,90,69
+2022-06-01,MA-HMO,Medicare Advantage,Chester,9720,148,81
+2022-07-01,MA-HMO,Medicare Advantage,Chester,9807,130,43
+2022-08-01,MA-HMO,Medicare Advantage,Chester,9741,113,179
+2022-09-01,MA-HMO,Medicare Advantage,Chester,9742,123,122
+2022-10-01,MA-HMO,Medicare Advantage,Chester,9784,113,71
+2022-11-01,MA-HMO,Medicare Advantage,Chester,9733,113,164
+2022-12-01,MA-HMO,Medicare Advantage,Chester,9829,104,8
+2023-01-01,MA-HMO,Medicare Advantage,Chester,10422,703,110
+2023-02-01,MA-HMO,Medicare Advantage,Chester,10306,93,209
+2023-03-01,MA-HMO,Medicare Advantage,Chester,10281,116,141
+2023-04-01,MA-HMO,Medicare Advantage,Chester,10267,133,147
+2023-05-01,MA-HMO,Medicare Advantage,Chester,10350,183,100
+2023-06-01,MA-HMO,Medicare Advantage,Chester,10371,117,96
+2023-07-01,MA-HMO,Medicare Advantage,Chester,10432,117,56
+2023-08-01,MA-HMO,Medicare Advantage,Chester,10499,149,82
+2023-09-01,MA-HMO,Medicare Advantage,Chester,10463,117,153
+2023-10-01,MA-HMO,Medicare Advantage,Chester,10531,152,84
+2023-11-01,MA-HMO,Medicare Advantage,Chester,10495,119,155
+2023-12-01,MA-HMO,Medicare Advantage,Chester,10527,148,116
+2024-01-01,MA-HMO,Medicare Advantage,Chester,11111,706,122
+2024-02-01,MA-HMO,Medicare Advantage,Chester,11001,122,232
+2024-03-01,MA-HMO,Medicare Advantage,Chester,10826,111,286
+2024-04-01,MA-HMO,Medicare Advantage,Chester,10870,171,127
+2024-05-01,MA-HMO,Medicare Advantage,Chester,11000,173,43
+2024-06-01,MA-HMO,Medicare Advantage,Chester,10965,126,161
+2024-07-01,MA-HMO,Medicare Advantage,Chester,10973,118,110
+2024-08-01,MA-HMO,Medicare Advantage,Chester,10972,161,162
+2024-09-01,MA-HMO,Medicare Advantage,Chester,11028,142,86
+2024-10-01,MA-HMO,Medicare Advantage,Chester,11046,112,94
+2024-11-01,MA-HMO,Medicare Advantage,Chester,11091,120,75
+2024-12-01,MA-HMO,Medicare Advantage,Chester,11143,129,77
+2025-01-01,MA-HMO,Medicare Advantage,Chester,11770,759,132
+2025-02-01,MA-HMO,Medicare Advantage,Chester,11673,99,196
+2025-03-01,MA-HMO,Medicare Advantage,Chester,11556,104,221
+2025-04-01,MA-HMO,Medicare Advantage,Chester,11596,125,85
+2025-05-01,MA-HMO,Medicare Advantage,Chester,11494,180,282
+2025-06-01,MA-HMO,Medicare Advantage,Chester,11607,132,19
+2025-07-01,MA-HMO,Medicare Advantage,Chester,11692,160,75
+2025-08-01,MA-HMO,Medicare Advantage,Chester,11648,159,203
+2025-09-01,MA-HMO,Medicare Advantage,Chester,11689,118,77
+2025-10-01,MA-HMO,Medicare Advantage,Chester,11737,210,162
+2025-11-01,MA-HMO,Medicare Advantage,Chester,11719,174,192
+2025-12-01,MA-HMO,Medicare Advantage,Chester,11892,146,0
+2026-01-01,MA-HMO,Medicare Advantage,Chester,12523,796,165
+2026-02-01,MA-HMO,Medicare Advantage,Chester,12320,112,315
+2026-03-01,MA-HMO,Medicare Advantage,Chester,12236,144,228
+2026-04-01,MA-HMO,Medicare Advantage,Chester,12195,143,184
+2026-05-01,MA-HMO,Medicare Advantage,Chester,12331,165,29
+2026-06-01,MA-HMO,Medicare Advantage,Chester,12371,138,98
+2026-07-01,MA-HMO,Medicare Advantage,Chester,12394,148,125
+2026-08-01,MA-HMO,Medicare Advantage,Chester,12398,167,163
+2026-09-01,MA-HMO,Medicare Advantage,Chester,12453,136,81
+2021-01-01,MA-HMO,Medicare Advantage,Delaware,10458,664,0
+2021-02-01,MA-HMO,Medicare Advantage,Delaware,10344,116,230
+2021-03-01,MA-HMO,Medicare Advantage,Delaware,10245,107,206
+2021-04-01,MA-HMO,Medicare Advantage,Delaware,10262,112,95
+2021-05-01,MA-HMO,Medicare Advantage,Delaware,10433,171,0
+2021-06-01,MA-HMO,Medicare Advantage,Delaware,10409,161,185
+2021-07-01,MA-HMO,Medicare Advantage,Delaware,10372,166,203
+2021-08-01,MA-HMO,Medicare Advantage,Delaware,10499,149,22
+2021-09-01,MA-HMO,Medicare Advantage,Delaware,10590,177,86
+2021-10-01,MA-HMO,Medicare Advantage,Delaware,10504,109,195
+2021-11-01,MA-HMO,Medicare Advantage,Delaware,10547,142,99
+2021-12-01,MA-HMO,Medicare Advantage,Delaware,10525,117,139
+2022-01-01,MA-HMO,Medicare Advantage,Delaware,11227,754,52
+2022-02-01,MA-HMO,Medicare Advantage,Delaware,11149,100,178
+2022-03-01,MA-HMO,Medicare Advantage,Delaware,11098,128,179
+2022-04-01,MA-HMO,Medicare Advantage,Delaware,11031,122,189
+2022-05-01,MA-HMO,Medicare Advantage,Delaware,11044,125,112
+2022-06-01,MA-HMO,Medicare Advantage,Delaware,11024,135,155
+2022-07-01,MA-HMO,Medicare Advantage,Delaware,11181,148,0
+2022-08-01,MA-HMO,Medicare Advantage,Delaware,11070,128,239
+2022-09-01,MA-HMO,Medicare Advantage,Delaware,11186,137,21
+2022-10-01,MA-HMO,Medicare Advantage,Delaware,11273,133,46
+2022-11-01,MA-HMO,Medicare Advantage,Delaware,11263,135,145
+2022-12-01,MA-HMO,Medicare Advantage,Delaware,11193,117,187
+2023-01-01,MA-HMO,Medicare Advantage,Delaware,11878,779,94
+2023-02-01,MA-HMO,Medicare Advantage,Delaware,11706,97,269
+2023-03-01,MA-HMO,Medicare Advantage,Delaware,11678,123,151
+2023-04-01,MA-HMO,Medicare Advantage,Delaware,11763,184,99
+2023-05-01,MA-HMO,Medicare Advantage,Delaware,11836,212,139
+2023-06-01,MA-HMO,Medicare Advantage,Delaware,11871,145,110
+2023-07-01,MA-HMO,Medicare Advantage,Delaware,11812,114,173
+2023-08-01,MA-HMO,Medicare Advantage,Delaware,11919,173,66
+2023-09-01,MA-HMO,Medicare Advantage,Delaware,11958,128,89
+2023-10-01,MA-HMO,Medicare Advantage,Delaware,12020,195,133
+2023-11-01,MA-HMO,Medicare Advantage,Delaware,12013,108,115
+2023-12-01,MA-HMO,Medicare Advantage,Delaware,12025,149,137
+2024-01-01,MA-HMO,Medicare Advantage,Delaware,12629,801,197
+2024-02-01,MA-HMO,Medicare Advantage,Delaware,12497,117,249
+2024-03-01,MA-HMO,Medicare Advantage,Delaware,12443,135,189
+2024-04-01,MA-HMO,Medicare Advantage,Delaware,12460,155,138
+2024-05-01,MA-HMO,Medicare Advantage,Delaware,12595,189,54
+2024-06-01,MA-HMO,Medicare Advantage,Delaware,12523,163,235
+2024-07-01,MA-HMO,Medicare Advantage,Delaware,12583,144,84
+2024-08-01,MA-HMO,Medicare Advantage,Delaware,12654,205,134
+2024-09-01,MA-HMO,Medicare Advantage,Delaware,12765,172,61
+2024-10-01,MA-HMO,Medicare Advantage,Delaware,12661,135,239
+2024-11-01,MA-HMO,Medicare Advantage,Delaware,12737,121,45
+2024-12-01,MA-HMO,Medicare Advantage,Delaware,12804,193,126
+2025-01-01,MA-HMO,Medicare Advantage,Delaware,13478,875,201
+2025-02-01,MA-HMO,Medicare Advantage,Delaware,13300,114,292
+2025-03-01,MA-HMO,Medicare Advantage,Delaware,13189,130,241
+2025-04-01,MA-HMO,Medicare Advantage,Delaware,13234,148,103
+2025-05-01,MA-HMO,Medicare Advantage,Delaware,13283,163,114
+2025-06-01,MA-HMO,Medicare Advantage,Delaware,13292,145,136
+2025-07-01,MA-HMO,Medicare Advantage,Delaware,13264,141,169
+2025-08-01,MA-HMO,Medicare Advantage,Delaware,13341,187,110
+2025-09-01,MA-HMO,Medicare Advantage,Delaware,13330,150,161
+2025-10-01,MA-HMO,Medicare Advantage,Delaware,13394,233,169
+2025-11-01,MA-HMO,Medicare Advantage,Delaware,13465,161,90
+2025-12-01,MA-HMO,Medicare Advantage,Delaware,13558,168,75
+2026-01-01,MA-HMO,Medicare Advantage,Delaware,14247,911,222
+2026-02-01,MA-HMO,Medicare Advantage,Delaware,14138,142,251
+2026-03-01,MA-HMO,Medicare Advantage,Delaware,13960,133,311
+2026-04-01,MA-HMO,Medicare Advantage,Delaware,13985,181,156
+2026-05-01,MA-HMO,Medicare Advantage,Delaware,14181,173,0
+2026-06-01,MA-HMO,Medicare Advantage,Delaware,13986,195,390
+2026-07-01,MA-HMO,Medicare Advantage,Delaware,14083,156,59
+2026-08-01,MA-HMO,Medicare Advantage,Delaware,14156,212,139
+2026-09-01,MA-HMO,Medicare Advantage,Delaware,14191,180,145
+2021-01-01,MA-HMO,Medicare Advantage,Montgomery,13732,888,0
+2021-02-01,MA-HMO,Medicare Advantage,Montgomery,13648,139,223
+2021-03-01,MA-HMO,Medicare Advantage,Montgomery,13465,132,315
+2021-04-01,MA-HMO,Medicare Advantage,Montgomery,13499,178,144
+2021-05-01,MA-HMO,Medicare Advantage,Montgomery,13591,239,147
+2021-06-01,MA-HMO,Medicare Advantage,Montgomery,13729,208,70
+2021-07-01,MA-HMO,Medicare Advantage,Montgomery,13679,198,248
+2021-08-01,MA-HMO,Medicare Advantage,Montgomery,13737,178,120
+2021-09-01,MA-HMO,Medicare Advantage,Montgomery,13878,221,80
+2021-10-01,MA-HMO,Medicare Advantage,Montgomery,13842,158,194
+2021-11-01,MA-HMO,Medicare Advantage,Montgomery,13897,220,165
+2021-12-01,MA-HMO,Medicare Advantage,Montgomery,13870,154,181
+2022-01-01,MA-HMO,Medicare Advantage,Montgomery,14837,967,0
+2022-02-01,MA-HMO,Medicare Advantage,Montgomery,14651,146,332
+2022-03-01,MA-HMO,Medicare Advantage,Montgomery,14391,118,378
+2022-04-01,MA-HMO,Medicare Advantage,Montgomery,14377,151,165
+2022-05-01,MA-HMO,Medicare Advantage,Montgomery,14468,181,90
+2022-06-01,MA-HMO,Medicare Advantage,Montgomery,14571,170,67
+2022-07-01,MA-HMO,Medicare Advantage,Montgomery,14713,203,61
+2022-08-01,MA-HMO,Medicare Advantage,Montgomery,14625,165,253
+2022-09-01,MA-HMO,Medicare Advantage,Montgomery,14595,148,178
+2022-10-01,MA-HMO,Medicare Advantage,Montgomery,14698,180,77
+2022-11-01,MA-HMO,Medicare Advantage,Montgomery,14720,194,172
+2022-12-01,MA-HMO,Medicare Advantage,Montgomery,14749,183,154
+2023-01-01,MA-HMO,Medicare Advantage,Montgomery,15568,1063,244
+2023-02-01,MA-HMO,Medicare Advantage,Montgomery,15574,166,160
+2023-03-01,MA-HMO,Medicare Advantage,Montgomery,15362,134,346
+2023-04-01,MA-HMO,Medicare Advantage,Montgomery,15421,244,185
+2023-05-01,MA-HMO,Medicare Advantage,Montgomery,15518,272,175
+2023-06-01,MA-HMO,Medicare Advantage,Montgomery,15600,186,104
+2023-07-01,MA-HMO,Medicare Advantage,Montgomery,15552,152,200
+2023-08-01,MA-HMO,Medicare Advantage,Montgomery,15691,228,89
+2023-09-01,MA-HMO,Medicare Advantage,Montgomery,15700,167,158
+2023-10-01,MA-HMO,Medicare Advantage,Montgomery,15756,203,147
+2023-11-01,MA-HMO,Medicare Advantage,Montgomery,15794,165,127
+2023-12-01,MA-HMO,Medicare Advantage,Montgomery,15880,231,145
+2024-01-01,MA-HMO,Medicare Advantage,Montgomery,16706,1019,193
+2024-02-01,MA-HMO,Medicare Advantage,Montgomery,16581,177,302
+2024-03-01,MA-HMO,Medicare Advantage,Montgomery,16425,161,317
+2024-04-01,MA-HMO,Medicare Advantage,Montgomery,16359,240,306
+2024-05-01,MA-HMO,Medicare Advantage,Montgomery,16433,254,180
+2024-06-01,MA-HMO,Medicare Advantage,Montgomery,16548,190,75
+2024-07-01,MA-HMO,Medicare Advantage,Montgomery,16390,135,293
+2024-08-01,MA-HMO,Medicare Advantage,Montgomery,16618,222,0
+2024-09-01,MA-HMO,Medicare Advantage,Montgomery,16638,239,219
+2024-10-01,MA-HMO,Medicare Advantage,Montgomery,16577,178,239
+2024-11-01,MA-HMO,Medicare Advantage,Montgomery,16598,210,189
+2024-12-01,MA-HMO,Medicare Advantage,Montgomery,16714,231,115
+2025-01-01,MA-HMO,Medicare Advantage,Montgomery,17715,1104,103
+2025-02-01,MA-HMO,Medicare Advantage,Montgomery,17504,170,381
+2025-03-01,MA-HMO,Medicare Advantage,Montgomery,17286,151,369
+2025-04-01,MA-HMO,Medicare Advantage,Montgomery,17382,213,117
+2025-05-01,MA-HMO,Medicare Advantage,Montgomery,17499,273,156
+2025-06-01,MA-HMO,Medicare Advantage,Montgomery,17516,188,171
+2025-07-01,MA-HMO,Medicare Advantage,Montgomery,17471,200,245
+2025-08-01,MA-HMO,Medicare Advantage,Montgomery,17399,218,290
+2025-09-01,MA-HMO,Medicare Advantage,Montgomery,17523,189,65
+2025-10-01,MA-HMO,Medicare Advantage,Montgomery,17638,304,189
+2025-11-01,MA-HMO,Medicare Advantage,Montgomery,17790,259,107
+2025-12-01,MA-HMO,Medicare Advantage,Montgomery,17833,236,193
+2026-01-01,MA-HMO,Medicare Advantage,Montgomery,18819,1179,193
+2026-02-01,MA-HMO,Medicare Advantage,Montgomery,18718,212,313
+2026-03-01,MA-HMO,Medicare Advantage,Montgomery,18273,170,615
+2026-04-01,MA-HMO,Medicare Advantage,Montgomery,18494,234,13
+2026-05-01,MA-HMO,Medicare Advantage,Montgomery,18453,238,279
+2026-06-01,MA-HMO,Medicare Advantage,Montgomery,18549,201,105
+2026-07-01,MA-HMO,Medicare Advantage,Montgomery,18484,186,251
+2026-08-01,MA-HMO,Medicare Advantage,Montgomery,18485,272,271
+2026-09-01,MA-HMO,Medicare Advantage,Montgomery,18582,218,121
+2021-01-01,MA-HMO,Medicare Advantage,Philadelphia,21682,1437,0
+2021-02-01,MA-HMO,Medicare Advantage,Philadelphia,21459,209,432
+2021-03-01,MA-HMO,Medicare Advantage,Philadelphia,21199,172,432
+2021-04-01,MA-HMO,Medicare Advantage,Philadelphia,21306,240,133
+2021-05-01,MA-HMO,Medicare Advantage,Philadelphia,21215,348,439
+2021-06-01,MA-HMO,Medicare Advantage,Philadelphia,21446,359,128
+2021-07-01,MA-HMO,Medicare Advantage,Philadelphia,21664,304,86
+2021-08-01,MA-HMO,Medicare Advantage,Philadelphia,21603,249,310
+2021-09-01,MA-HMO,Medicare Advantage,Philadelphia,21808,376,171
+2021-10-01,MA-HMO,Medicare Advantage,Philadelphia,21712,211,307
+2021-11-01,MA-HMO,Medicare Advantage,Philadelphia,21890,362,184
+2021-12-01,MA-HMO,Medicare Advantage,Philadelphia,21885,289,294
+2022-01-01,MA-HMO,Medicare Advantage,Philadelphia,23040,1513,358
+2022-02-01,MA-HMO,Medicare Advantage,Philadelphia,22850,189,379
+2022-03-01,MA-HMO,Medicare Advantage,Philadelphia,22706,218,362
+2022-04-01,MA-HMO,Medicare Advantage,Philadelphia,22734,223,195
+2022-05-01,MA-HMO,Medicare Advantage,Philadelphia,22672,221,283
+2022-06-01,MA-HMO,Medicare Advantage,Philadelphia,22971,280,0
+2022-07-01,MA-HMO,Medicare Advantage,Philadelphia,23066,362,267
+2022-08-01,MA-HMO,Medicare Advantage,Philadelphia,23059,197,204
+2022-09-01,MA-HMO,Medicare Advantage,Philadelphia,22886,283,456
+2022-10-01,MA-HMO,Medicare Advantage,Philadelphia,23083,239,42
+2022-11-01,MA-HMO,Medicare Advantage,Philadelphia,23193,279,169
+2022-12-01,MA-HMO,Medicare Advantage,Philadelphia,23124,242,311
+2023-01-01,MA-HMO,Medicare Advantage,Philadelphia,24621,1615,118
+2023-02-01,MA-HMO,Medicare Advantage,Philadelphia,24542,270,349
+2023-03-01,MA-HMO,Medicare Advantage,Philadelphia,24255,279,566
+2023-04-01,MA-HMO,Medicare Advantage,Philadelphia,24268,373,360
+2023-05-01,MA-HMO,Medicare Advantage,Philadelphia,24469,395,194
+2023-06-01,MA-HMO,Medicare Advantage,Philadelphia,24404,272,337
+2023-07-01,MA-HMO,Medicare Advantage,Philadelphia,24510,253,147
+2023-08-01,MA-HMO,Medicare Advantage,Philadelphia,24753,422,179
+2023-09-01,MA-HMO,Medicare Advantage,Philadelphia,24558,255,450
+2023-10-01,MA-HMO,Medicare Advantage,Philadelphia,24939,326,0
+2023-11-01,MA-HMO,Medicare Advantage,Philadelphia,24719,204,424
+2023-12-01,MA-HMO,Medicare Advantage,Philadelphia,24734,375,360
+2024-01-01,MA-HMO,Medicare Advantage,Philadelphia,26313,1608,29
+2024-02-01,MA-HMO,Medicare Advantage,Philadelphia,25846,252,719
+2024-03-01,MA-HMO,Medicare Advantage,Philadelphia,25908,206,144
+2024-04-01,MA-HMO,Medicare Advantage,Philadelphia,25647,317,578
+2024-05-01,MA-HMO,Medicare Advantage,Philadelphia,25732,420,335
+2024-06-01,MA-HMO,Medicare Advantage,Philadelphia,26003,300,29
+2024-07-01,MA-HMO,Medicare Advantage,Philadelphia,26011,255,247
+2024-08-01,MA-HMO,Medicare Advantage,Philadelphia,25970,338,379
+2024-09-01,MA-HMO,Medicare Advantage,Philadelphia,26154,322,138
+2024-10-01,MA-HMO,Medicare Advantage,Philadelphia,26228,317,243
+2024-11-01,MA-HMO,Medicare Advantage,Philadelphia,26155,250,323
+2024-12-01,MA-HMO,Medicare Advantage,Philadelphia,26262,347,240
+2025-01-01,MA-HMO,Medicare Advantage,Philadelphia,27764,1798,296
+2025-02-01,MA-HMO,Medicare Advantage,Philadelphia,27498,257,523
+2025-03-01,MA-HMO,Medicare Advantage,Philadelphia,27153,322,667
+2025-04-01,MA-HMO,Medicare Advantage,Philadelphia,27325,356,184
+2025-05-01,MA-HMO,Medicare Advantage,Philadelphia,27206,410,529
+2025-06-01,MA-HMO,Medicare Advantage,Philadelphia,27244,306,268
+2025-07-01,MA-HMO,Medicare Advantage,Philadelphia,27490,370,124
+2025-08-01,MA-HMO,Medicare Advantage,Philadelphia,27562,374,302
+2025-09-01,MA-HMO,Medicare Advantage,Philadelphia,27458,323,427
+2025-10-01,MA-HMO,Medicare Advantage,Philadelphia,27810,441,89
+2025-11-01,MA-HMO,Medicare Advantage,Philadelphia,27942,372,240
+2025-12-01,MA-HMO,Medicare Advantage,Philadelphia,27835,435,542
+2026-01-01,MA-HMO,Medicare Advantage,Philadelphia,29517,1908,226
+2026-02-01,MA-HMO,Medicare Advantage,Philadelphia,29102,302,717
+2026-03-01,MA-HMO,Medicare Advantage,Philadelphia,28785,283,600
+2026-04-01,MA-HMO,Medicare Advantage,Philadelphia,28889,318,214
+2026-05-01,MA-HMO,Medicare Advantage,Philadelphia,29304,406,0
+2026-06-01,MA-HMO,Medicare Advantage,Philadelphia,29306,399,397
+2026-07-01,MA-HMO,Medicare Advantage,Philadelphia,29128,244,422
+2026-08-01,MA-HMO,Medicare Advantage,Philadelphia,28978,430,580
+2026-09-01,MA-HMO,Medicare Advantage,Philadelphia,29264,351,65
+2021-01-01,MA-PPO,Medicare Advantage,Bucks,6971,506,0
+2021-02-01,MA-PPO,Medicare Advantage,Bucks,6928,82,125
+2021-03-01,MA-PPO,Medicare Advantage,Bucks,6883,56,101
+2021-04-01,MA-PPO,Medicare Advantage,Bucks,6877,101,107
+2021-05-01,MA-PPO,Medicare Advantage,Bucks,6875,77,79
+2021-06-01,MA-PPO,Medicare Advantage,Bucks,6923,97,49
+2021-07-01,MA-PPO,Medicare Advantage,Bucks,6944,97,76
+2021-08-01,MA-PPO,Medicare Advantage,Bucks,6962,97,79
+2021-09-01,MA-PPO,Medicare Advantage,Bucks,7020,101,43
+2021-10-01,MA-PPO,Medicare Advantage,Bucks,7036,101,85
+2021-11-01,MA-PPO,Medicare Advantage,Bucks,7081,84,39
+2021-12-01,MA-PPO,Medicare Advantage,Bucks,7060,73,94
+2022-01-01,MA-PPO,Medicare Advantage,Bucks,7539,540,61
+2022-02-01,MA-PPO,Medicare Advantage,Bucks,7439,60,160
+2022-03-01,MA-PPO,Medicare Advantage,Bucks,7388,80,131
+2022-04-01,MA-PPO,Medicare Advantage,Bucks,7399,113,102
+2022-05-01,MA-PPO,Medicare Advantage,Bucks,7533,113,0
+2022-06-01,MA-PPO,Medicare Advantage,Bucks,7502,79,110
+2022-07-01,MA-PPO,Medicare Advantage,Bucks,7541,104,65
+2022-08-01,MA-PPO,Medicare Advantage,Bucks,7658,131,14
+2022-09-01,MA-PPO,Medicare Advantage,Bucks,7583,127,202
+2022-10-01,MA-PPO,Medicare Advantage,Bucks,7699,98,0
+2022-11-01,MA-PPO,Medicare Advantage,Bucks,7721,102,80
+2022-12-01,MA-PPO,Medicare Advantage,Bucks,7815,126,32
+2023-01-01,MA-PPO,Medicare Advantage,Bucks,8280,583,118
+2023-02-01,MA-PPO,Medicare Advantage,Bucks,8151,91,220
+2023-03-01,MA-PPO,Medicare Advantage,Bucks,8113,89,127
+2023-04-01,MA-PPO,Medicare Advantage,Bucks,8114,146,145
+2023-05-01,MA-PPO,Medicare Advantage,Bucks,8205,85,0
+2023-06-01,MA-PPO,Medicare Advantage,Bucks,8165,117,157
+2023-07-01,MA-PPO,Medicare Advantage,Bucks,8216,112,61
+2023-08-01,MA-PPO,Medicare Advantage,Bucks,8258,146,104
+2023-09-01,MA-PPO,Medicare Advantage,Bucks,8344,166,80
+2023-10-01,MA-PPO,Medicare Advantage,Bucks,8436,129,37
+2023-11-01,MA-PPO,Medicare Advantage,Bucks,8414,108,130
+2023-12-01,MA-PPO,Medicare Advantage,Bucks,8501,109,22
+2024-01-01,MA-PPO,Medicare Advantage,Bucks,9046,651,106
+2024-02-01,MA-PPO,Medicare Advantage,Bucks,8875,80,251
+2024-03-01,MA-PPO,Medicare Advantage,Bucks,8843,103,135
+2024-04-01,MA-PPO,Medicare Advantage,Bucks,8878,151,116
+2024-05-01,MA-PPO,Medicare Advantage,Bucks,8937,144,85
+2024-06-01,MA-PPO,Medicare Advantage,Bucks,8937,147,147
+2024-07-01,MA-PPO,Medicare Advantage,Bucks,8965,105,77
+2024-08-01,MA-PPO,Medicare Advantage,Bucks,9075,149,39
+2024-09-01,MA-PPO,Medicare Advantage,Bucks,9144,109,40
+2024-10-01,MA-PPO,Medicare Advantage,Bucks,9164,126,106
+2024-11-01,MA-PPO,Medicare Advantage,Bucks,9169,151,146
+2024-12-01,MA-PPO,Medicare Advantage,Bucks,9212,127,84
+2025-01-01,MA-PPO,Medicare Advantage,Bucks,9833,672,51
+2025-02-01,MA-PPO,Medicare Advantage,Bucks,9691,86,228
+2025-03-01,MA-PPO,Medicare Advantage,Bucks,9606,106,191
+2025-04-01,MA-PPO,Medicare Advantage,Bucks,9654,146,98
+2025-05-01,MA-PPO,Medicare Advantage,Bucks,9699,143,98
+2025-06-01,MA-PPO,Medicare Advantage,Bucks,9816,167,50
+2025-07-01,MA-PPO,Medicare Advantage,Bucks,9736,103,183
+2025-08-01,MA-PPO,Medicare Advantage,Bucks,9884,122,0
+2025-09-01,MA-PPO,Medicare Advantage,Bucks,9858,136,162
+2025-10-01,MA-PPO,Medicare Advantage,Bucks,9879,168,147
+2025-11-01,MA-PPO,Medicare Advantage,Bucks,9983,169,65
+2025-12-01,MA-PPO,Medicare Advantage,Bucks,10034,100,49
+2026-01-01,MA-PPO,Medicare Advantage,Bucks,10876,957,115
+2026-02-01,MA-PPO,Medicare Advantage,Bucks,10689,113,300
+2026-03-01,MA-PPO,Medicare Advantage,Bucks,10637,91,143
+2026-04-01,MA-PPO,Medicare Advantage,Bucks,10664,175,148
+2026-05-01,MA-PPO,Medicare Advantage,Bucks,10773,143,34
+2026-06-01,MA-PPO,Medicare Advantage,Bucks,10833,223,163
+2026-07-01,MA-PPO,Medicare Advantage,Bucks,10957,241,117
+2026-08-01,MA-PPO,Medicare Advantage,Bucks,10989,185,153
+2026-09-01,MA-PPO,Medicare Advantage,Bucks,11097,176,68
+2021-01-01,MA-PPO,Medicare Advantage,Chester,6182,442,0
+2021-02-01,MA-PPO,Medicare Advantage,Chester,6043,51,190
+2021-03-01,MA-PPO,Medicare Advantage,Chester,6007,58,94
+2021-04-01,MA-PPO,Medicare Advantage,Chester,6046,73,34
+2021-05-01,MA-PPO,Medicare Advantage,Chester,6033,66,79
+2021-06-01,MA-PPO,Medicare Advantage,Chester,6044,87,76
+2021-07-01,MA-PPO,Medicare Advantage,Chester,6080,79,43
+2021-08-01,MA-PPO,Medicare Advantage,Chester,6084,87,83
+2021-09-01,MA-PPO,Medicare Advantage,Chester,6095,93,82
+2021-10-01,MA-PPO,Medicare Advantage,Chester,6182,109,22
+2021-11-01,MA-PPO,Medicare Advantage,Chester,6228,72,26
+2021-12-01,MA-PPO,Medicare Advantage,Chester,6257,75,46
+2022-01-01,MA-PPO,Medicare Advantage,Chester,6601,456,112
+2022-02-01,MA-PPO,Medicare Advantage,Chester,6509,77,169
+2022-03-01,MA-PPO,Medicare Advantage,Chester,6497,74,86
+2022-04-01,MA-PPO,Medicare Advantage,Chester,6548,97,46
+2022-05-01,MA-PPO,Medicare Advantage,Chester,6592,97,53
+2022-06-01,MA-PPO,Medicare Advantage,Chester,6594,85,83
+2022-07-01,MA-PPO,Medicare Advantage,Chester,6615,112,91
+2022-08-01,MA-PPO,Medicare Advantage,Chester,6630,100,85
+2022-09-01,MA-PPO,Medicare Advantage,Chester,6668,120,82
+2022-10-01,MA-PPO,Medicare Advantage,Chester,6719,88,37
+2022-11-01,MA-PPO,Medicare Advantage,Chester,6781,95,33
+2022-12-01,MA-PPO,Medicare Advantage,Chester,6772,115,124
+2023-01-01,MA-PPO,Medicare Advantage,Chester,7213,502,61
+2023-02-01,MA-PPO,Medicare Advantage,Chester,7123,61,151
+2023-03-01,MA-PPO,Medicare Advantage,Chester,7106,63,80
+2023-04-01,MA-PPO,Medicare Advantage,Chester,7208,127,25
+2023-05-01,MA-PPO,Medicare Advantage,Chester,7123,90,175
+2023-06-01,MA-PPO,Medicare Advantage,Chester,7210,89,2
+2023-07-01,MA-PPO,Medicare Advantage,Chester,7204,101,107
+2023-08-01,MA-PPO,Medicare Advantage,Chester,7255,108,57
+2023-09-01,MA-PPO,Medicare Advantage,Chester,7301,141,95
+2023-10-01,MA-PPO,Medicare Advantage,Chester,7365,118,54
+2023-11-01,MA-PPO,Medicare Advantage,Chester,7364,104,105
+2023-12-01,MA-PPO,Medicare Advantage,Chester,7367,96,93
+2024-01-01,MA-PPO,Medicare Advantage,Chester,7931,569,5
+2024-02-01,MA-PPO,Medicare Advantage,Chester,7808,82,205
+2024-03-01,MA-PPO,Medicare Advantage,Chester,7725,69,152
+2024-04-01,MA-PPO,Medicare Advantage,Chester,7767,133,91
+2024-05-01,MA-PPO,Medicare Advantage,Chester,7841,123,49
+2024-06-01,MA-PPO,Medicare Advantage,Chester,7846,121,116
+2024-07-01,MA-PPO,Medicare Advantage,Chester,7863,73,56
+2024-08-01,MA-PPO,Medicare Advantage,Chester,7954,128,37
+2024-09-01,MA-PPO,Medicare Advantage,Chester,7985,124,93
+2024-10-01,MA-PPO,Medicare Advantage,Chester,8027,112,70
+2024-11-01,MA-PPO,Medicare Advantage,Chester,8104,116,39
+2024-12-01,MA-PPO,Medicare Advantage,Chester,8035,106,175
+2025-01-01,MA-PPO,Medicare Advantage,Chester,8584,614,65
+2025-02-01,MA-PPO,Medicare Advantage,Chester,8434,83,233
+2025-03-01,MA-PPO,Medicare Advantage,Chester,8418,90,106
+2025-04-01,MA-PPO,Medicare Advantage,Chester,8395,125,148
+2025-05-01,MA-PPO,Medicare Advantage,Chester,8429,99,65
+2025-06-01,MA-PPO,Medicare Advantage,Chester,8512,170,87
+2025-07-01,MA-PPO,Medicare Advantage,Chester,8539,113,86
+2025-08-01,MA-PPO,Medicare Advantage,Chester,8557,95,77
+2025-09-01,MA-PPO,Medicare Advantage,Chester,8581,117,93
+2025-10-01,MA-PPO,Medicare Advantage,Chester,8654,124,51
+2025-11-01,MA-PPO,Medicare Advantage,Chester,8752,141,43
+2025-12-01,MA-PPO,Medicare Advantage,Chester,8683,83,152
+2026-01-01,MA-PPO,Medicare Advantage,Chester,9513,829,0
+2026-02-01,MA-PPO,Medicare Advantage,Chester,9347,82,248
+2026-03-01,MA-PPO,Medicare Advantage,Chester,9288,109,168
+2026-04-01,MA-PPO,Medicare Advantage,Chester,9274,144,158
+2026-05-01,MA-PPO,Medicare Advantage,Chester,9266,153,161
+2026-06-01,MA-PPO,Medicare Advantage,Chester,9506,176,0
+2026-07-01,MA-PPO,Medicare Advantage,Chester,9527,208,187
+2026-08-01,MA-PPO,Medicare Advantage,Chester,9721,136,0
+2026-09-01,MA-PPO,Medicare Advantage,Chester,9673,165,213
+2021-01-01,MA-PPO,Medicare Advantage,Delaware,6989,522,0
+2021-02-01,MA-PPO,Medicare Advantage,Delaware,6950,68,107
+2021-03-01,MA-PPO,Medicare Advantage,Delaware,6863,79,166
+2021-04-01,MA-PPO,Medicare Advantage,Delaware,6825,87,125
+2021-05-01,MA-PPO,Medicare Advantage,Delaware,6859,75,41
+2021-06-01,MA-PPO,Medicare Advantage,Delaware,6924,113,48
+2021-07-01,MA-PPO,Medicare Advantage,Delaware,6899,108,133
+2021-08-01,MA-PPO,Medicare Advantage,Delaware,6957,99,41
+2021-09-01,MA-PPO,Medicare Advantage,Delaware,6976,113,94
+2021-10-01,MA-PPO,Medicare Advantage,Delaware,7043,104,37
+2021-11-01,MA-PPO,Medicare Advantage,Delaware,7106,107,44
+2021-12-01,MA-PPO,Medicare Advantage,Delaware,7100,89,95
+2022-01-01,MA-PPO,Medicare Advantage,Delaware,7566,550,84
+2022-02-01,MA-PPO,Medicare Advantage,Delaware,7464,73,175
+2022-03-01,MA-PPO,Medicare Advantage,Delaware,7430,72,106
+2022-04-01,MA-PPO,Medicare Advantage,Delaware,7478,97,49
+2022-05-01,MA-PPO,Medicare Advantage,Delaware,7507,106,77
+2022-06-01,MA-PPO,Medicare Advantage,Delaware,7543,106,70
+2022-07-01,MA-PPO,Medicare Advantage,Delaware,7555,108,96
+2022-08-01,MA-PPO,Medicare Advantage,Delaware,7597,134,92
+2022-09-01,MA-PPO,Medicare Advantage,Delaware,7650,126,73
+2022-10-01,MA-PPO,Medicare Advantage,Delaware,7635,119,134
+2022-11-01,MA-PPO,Medicare Advantage,Delaware,7711,104,28
+2022-12-01,MA-PPO,Medicare Advantage,Delaware,7823,132,20
+2023-01-01,MA-PPO,Medicare Advantage,Delaware,8260,606,169
+2023-02-01,MA-PPO,Medicare Advantage,Delaware,8154,69,175
+2023-03-01,MA-PPO,Medicare Advantage,Delaware,8098,68,124
+2023-04-01,MA-PPO,Medicare Advantage,Delaware,8133,150,115
+2023-05-01,MA-PPO,Medicare Advantage,Delaware,8155,114,92
+2023-06-01,MA-PPO,Medicare Advantage,Delaware,8264,100,0
+2023-07-01,MA-PPO,Medicare Advantage,Delaware,8187,108,185
+2023-08-01,MA-PPO,Medicare Advantage,Delaware,8287,131,31
+2023-09-01,MA-PPO,Medicare Advantage,Delaware,8377,167,77
+2023-10-01,MA-PPO,Medicare Advantage,Delaware,8371,117,123
+2023-11-01,MA-PPO,Medicare Advantage,Delaware,8485,136,22
+2023-12-01,MA-PPO,Medicare Advantage,Delaware,8397,123,211
+2024-01-01,MA-PPO,Medicare Advantage,Delaware,9130,670,0
+2024-02-01,MA-PPO,Medicare Advantage,Delaware,9011,75,194
+2024-03-01,MA-PPO,Medicare Advantage,Delaware,8809,73,275
+2024-04-01,MA-PPO,Medicare Advantage,Delaware,8948,145,6
+2024-05-01,MA-PPO,Medicare Advantage,Delaware,8899,135,184
+2024-06-01,MA-PPO,Medicare Advantage,Delaware,8979,164,84
+2024-07-01,MA-PPO,Medicare Advantage,Delaware,8992,113,100
+2024-08-01,MA-PPO,Medicare Advantage,Delaware,9023,153,122
+2024-09-01,MA-PPO,Medicare Advantage,Delaware,9144,133,12
+2024-10-01,MA-PPO,Medicare Advantage,Delaware,9106,147,185
+2024-11-01,MA-PPO,Medicare Advantage,Delaware,9194,137,49
+2024-12-01,MA-PPO,Medicare Advantage,Delaware,9188,127,133
+2025-01-01,MA-PPO,Medicare Advantage,Delaware,9793,697,92
+2025-02-01,MA-PPO,Medicare Advantage,Delaware,9726,101,168
+2025-03-01,MA-PPO,Medicare Advantage,Delaware,9652,111,185
+2025-04-01,MA-PPO,Medicare Advantage,Delaware,9663,146,135
+2025-05-01,MA-PPO,Medicare Advantage,Delaware,9697,112,78
+2025-06-01,MA-PPO,Medicare Advantage,Delaware,9872,161,0
+2025-07-01,MA-PPO,Medicare Advantage,Delaware,9802,130,200
+2025-08-01,MA-PPO,Medicare Advantage,Delaware,9813,106,95
+2025-09-01,MA-PPO,Medicare Advantage,Delaware,9794,144,163
+2025-10-01,MA-PPO,Medicare Advantage,Delaware,9889,167,72
+2025-11-01,MA-PPO,Medicare Advantage,Delaware,10026,182,45
+2025-12-01,MA-PPO,Medicare Advantage,Delaware,10030,119,115
+2026-01-01,MA-PPO,Medicare Advantage,Delaware,10816,954,168
+2026-02-01,MA-PPO,Medicare Advantage,Delaware,10726,127,217
+2026-03-01,MA-PPO,Medicare Advantage,Delaware,10633,91,184
+2026-04-01,MA-PPO,Medicare Advantage,Delaware,10654,172,151
+2026-05-01,MA-PPO,Medicare Advantage,Delaware,10772,144,26
+2026-06-01,MA-PPO,Medicare Advantage,Delaware,10748,202,226
+2026-07-01,MA-PPO,Medicare Advantage,Delaware,10992,222,0
+2026-08-01,MA-PPO,Medicare Advantage,Delaware,10954,163,201
+2026-09-01,MA-PPO,Medicare Advantage,Delaware,11047,188,95
+2021-01-01,MA-PPO,Medicare Advantage,Montgomery,9179,681,0
+2021-02-01,MA-PPO,Medicare Advantage,Montgomery,9048,78,209
+2021-03-01,MA-PPO,Medicare Advantage,Montgomery,8960,105,193
+2021-04-01,MA-PPO,Medicare Advantage,Montgomery,8938,106,128
+2021-05-01,MA-PPO,Medicare Advantage,Montgomery,8981,119,76
+2021-06-01,MA-PPO,Medicare Advantage,Montgomery,9074,140,47
+2021-07-01,MA-PPO,Medicare Advantage,Montgomery,9121,124,77
+2021-08-01,MA-PPO,Medicare Advantage,Montgomery,9204,146,63
+2021-09-01,MA-PPO,Medicare Advantage,Montgomery,9191,136,149
+2021-10-01,MA-PPO,Medicare Advantage,Montgomery,9232,150,109
+2021-11-01,MA-PPO,Medicare Advantage,Montgomery,9292,116,56
+2021-12-01,MA-PPO,Medicare Advantage,Montgomery,9311,87,68
+2022-01-01,MA-PPO,Medicare Advantage,Montgomery,9875,694,130
+2022-02-01,MA-PPO,Medicare Advantage,Montgomery,9840,110,145
+2022-03-01,MA-PPO,Medicare Advantage,Montgomery,9777,97,160
+2022-04-01,MA-PPO,Medicare Advantage,Montgomery,9824,145,98
+2022-05-01,MA-PPO,Medicare Advantage,Montgomery,9813,129,140
+2022-06-01,MA-PPO,Medicare Advantage,Montgomery,9812,109,110
+2022-07-01,MA-PPO,Medicare Advantage,Montgomery,9895,145,62
+2022-08-01,MA-PPO,Medicare Advantage,Montgomery,9950,180,125
+2022-09-01,MA-PPO,Medicare Advantage,Montgomery,10062,143,31
+2022-10-01,MA-PPO,Medicare Advantage,Montgomery,10048,129,143
+2022-11-01,MA-PPO,Medicare Advantage,Montgomery,10173,132,7
+2022-12-01,MA-PPO,Medicare Advantage,Montgomery,10201,152,124
+2023-01-01,MA-PPO,Medicare Advantage,Montgomery,10839,756,118
+2023-02-01,MA-PPO,Medicare Advantage,Montgomery,10697,111,253
+2023-03-01,MA-PPO,Medicare Advantage,Montgomery,10698,101,100
+2023-04-01,MA-PPO,Medicare Advantage,Montgomery,10746,203,155
+2023-05-01,MA-PPO,Medicare Advantage,Montgomery,10776,140,110
+2023-06-01,MA-PPO,Medicare Advantage,Montgomery,10739,127,164
+2023-07-01,MA-PPO,Medicare Advantage,Montgomery,10857,119,1
+2023-08-01,MA-PPO,Medicare Advantage,Montgomery,10836,166,187
+2023-09-01,MA-PPO,Medicare Advantage,Montgomery,10974,185,47
+2023-10-01,MA-PPO,Medicare Advantage,Montgomery,10973,181,182
+2023-11-01,MA-PPO,Medicare Advantage,Montgomery,11111,143,5
+2023-12-01,MA-PPO,Medicare Advantage,Montgomery,11010,140,241
+2024-01-01,MA-PPO,Medicare Advantage,Montgomery,11843,865,32
+2024-02-01,MA-PPO,Medicare Advantage,Montgomery,11714,135,264
+2024-03-01,MA-PPO,Medicare Advantage,Montgomery,11566,115,263
+2024-04-01,MA-PPO,Medicare Advantage,Montgomery,11584,166,148
+2024-05-01,MA-PPO,Medicare Advantage,Montgomery,11632,180,132
+2024-06-01,MA-PPO,Medicare Advantage,Montgomery,11859,175,0
+2024-07-01,MA-PPO,Medicare Advantage,Montgomery,11848,115,126
+2024-08-01,MA-PPO,Medicare Advantage,Montgomery,11859,219,208
+2024-09-01,MA-PPO,Medicare Advantage,Montgomery,11959,174,74
+2024-10-01,MA-PPO,Medicare Advantage,Montgomery,12040,171,90
+2024-11-01,MA-PPO,Medicare Advantage,Montgomery,12036,170,174
+2024-12-01,MA-PPO,Medicare Advantage,Montgomery,12049,142,129
+2025-01-01,MA-PPO,Medicare Advantage,Montgomery,12931,893,11
+2025-02-01,MA-PPO,Medicare Advantage,Montgomery,12782,135,284
+2025-03-01,MA-PPO,Medicare Advantage,Montgomery,12648,132,266
+2025-04-01,MA-PPO,Medicare Advantage,Montgomery,12687,192,153
+2025-05-01,MA-PPO,Medicare Advantage,Montgomery,12584,154,257
+2025-06-01,MA-PPO,Medicare Advantage,Montgomery,12736,224,72
+2025-07-01,MA-PPO,Medicare Advantage,Montgomery,12890,151,0
+2025-08-01,MA-PPO,Medicare Advantage,Montgomery,12801,166,255
+2025-09-01,MA-PPO,Medicare Advantage,Montgomery,12905,196,92
+2025-10-01,MA-PPO,Medicare Advantage,Montgomery,13025,189,69
+2025-11-01,MA-PPO,Medicare Advantage,Montgomery,13036,247,236
+2025-12-01,MA-PPO,Medicare Advantage,Montgomery,13183,140,0
+2026-01-01,MA-PPO,Medicare Advantage,Montgomery,14145,1256,294
+2026-02-01,MA-PPO,Medicare Advantage,Montgomery,14056,165,254
+2026-03-01,MA-PPO,Medicare Advantage,Montgomery,13944,162,274
+2026-04-01,MA-PPO,Medicare Advantage,Montgomery,13967,212,189
+2026-05-01,MA-PPO,Medicare Advantage,Montgomery,14104,180,43
+2026-06-01,MA-PPO,Medicare Advantage,Montgomery,14180,271,195
+2026-07-01,MA-PPO,Medicare Advantage,Montgomery,14241,279,218
+2026-08-01,MA-PPO,Medicare Advantage,Montgomery,14467,228,2
+2026-09-01,MA-PPO,Medicare Advantage,Montgomery,14469,230,228
+2021-01-01,MA-PPO,Medicare Advantage,Philadelphia,14438,1042,0
+2021-02-01,MA-PPO,Medicare Advantage,Philadelphia,14313,148,273
+2021-03-01,MA-PPO,Medicare Advantage,Philadelphia,14202,118,229
+2021-04-01,MA-PPO,Medicare Advantage,Philadelphia,14193,196,205
+2021-05-01,MA-PPO,Medicare Advantage,Philadelphia,14140,187,240
+2021-06-01,MA-PPO,Medicare Advantage,Philadelphia,14263,191,68
+2021-07-01,MA-PPO,Medicare Advantage,Philadelphia,14249,203,217
+2021-08-01,MA-PPO,Medicare Advantage,Philadelphia,14365,210,94
+2021-09-01,MA-PPO,Medicare Advantage,Philadelphia,14415,237,187
+2021-10-01,MA-PPO,Medicare Advantage,Philadelphia,14592,204,27
+2021-11-01,MA-PPO,Medicare Advantage,Philadelphia,14666,209,135
+2021-12-01,MA-PPO,Medicare Advantage,Philadelphia,14609,139,196
+2022-01-01,MA-PPO,Medicare Advantage,Philadelphia,15586,1113,136
+2022-02-01,MA-PPO,Medicare Advantage,Philadelphia,15339,131,378
+2022-03-01,MA-PPO,Medicare Advantage,Philadelphia,15442,147,44
+2022-04-01,MA-PPO,Medicare Advantage,Philadelphia,15352,215,305
+2022-05-01,MA-PPO,Medicare Advantage,Philadelphia,15529,253,76
+2022-06-01,MA-PPO,Medicare Advantage,Philadelphia,15578,160,111
+2022-07-01,MA-PPO,Medicare Advantage,Philadelphia,15579,206,205
+2022-08-01,MA-PPO,Medicare Advantage,Philadelphia,15725,287,141
+2022-09-01,MA-PPO,Medicare Advantage,Philadelphia,15830,245,140
+2022-10-01,MA-PPO,Medicare Advantage,Philadelphia,15791,201,240
+2022-11-01,MA-PPO,Medicare Advantage,Philadelphia,15914,250,127
+2022-12-01,MA-PPO,Medicare Advantage,Philadelphia,15953,256,217
+2023-01-01,MA-PPO,Medicare Advantage,Philadelphia,17056,1242,139
+2023-02-01,MA-PPO,Medicare Advantage,Philadelphia,16786,140,410
+2023-03-01,MA-PPO,Medicare Advantage,Philadelphia,16690,162,258
+2023-04-01,MA-PPO,Medicare Advantage,Philadelphia,16694,296,292
+2023-05-01,MA-PPO,Medicare Advantage,Philadelphia,16807,235,122
+2023-06-01,MA-PPO,Medicare Advantage,Philadelphia,16767,191,231
+2023-07-01,MA-PPO,Medicare Advantage,Philadelphia,16955,204,16
+2023-08-01,MA-PPO,Medicare Advantage,Philadelphia,16931,302,326
+2023-09-01,MA-PPO,Medicare Advantage,Philadelphia,17383,315,0
+2023-10-01,MA-PPO,Medicare Advantage,Philadelphia,17299,264,348
+2023-11-01,MA-PPO,Medicare Advantage,Philadelphia,17398,264,165
+2023-12-01,MA-PPO,Medicare Advantage,Philadelphia,17540,259,117
+2024-01-01,MA-PPO,Medicare Advantage,Philadelphia,18672,1347,215
+2024-02-01,MA-PPO,Medicare Advantage,Philadelphia,18417,169,424
+2024-03-01,MA-PPO,Medicare Advantage,Philadelphia,18312,157,262
+2024-04-01,MA-PPO,Medicare Advantage,Philadelphia,18293,315,334
+2024-05-01,MA-PPO,Medicare Advantage,Philadelphia,18416,256,133
+2024-06-01,MA-PPO,Medicare Advantage,Philadelphia,18621,272,67
+2024-07-01,MA-PPO,Medicare Advantage,Philadelphia,18486,176,311
+2024-08-01,MA-PPO,Medicare Advantage,Philadelphia,18699,353,140
+2024-09-01,MA-PPO,Medicare Advantage,Philadelphia,18721,251,229
+2024-10-01,MA-PPO,Medicare Advantage,Philadelphia,18875,243,89
+2024-11-01,MA-PPO,Medicare Advantage,Philadelphia,18763,286,398
+2024-12-01,MA-PPO,Medicare Advantage,Philadelphia,19005,217,0
+2025-01-01,MA-PPO,Medicare Advantage,Philadelphia,20437,1409,0
+2025-02-01,MA-PPO,Medicare Advantage,Philadelphia,20015,212,634
+2025-03-01,MA-PPO,Medicare Advantage,Philadelphia,19761,165,419
+2025-04-01,MA-PPO,Medicare Advantage,Philadelphia,20045,286,2
+2025-05-01,MA-PPO,Medicare Advantage,Philadelphia,20032,226,239
+2025-06-01,MA-PPO,Medicare Advantage,Philadelphia,20147,395,280
+2025-07-01,MA-PPO,Medicare Advantage,Philadelphia,20168,213,192
+2025-08-01,MA-PPO,Medicare Advantage,Philadelphia,20185,272,255
+2025-09-01,MA-PPO,Medicare Advantage,Philadelphia,20281,301,205
+2025-10-01,MA-PPO,Medicare Advantage,Philadelphia,20369,285,197
+2025-11-01,MA-PPO,Medicare Advantage,Philadelphia,20398,382,353
+2025-12-01,MA-PPO,Medicare Advantage,Philadelphia,20800,199,0
+2026-01-01,MA-PPO,Medicare Advantage,Philadelphia,22165,1996,631
+2026-02-01,MA-PPO,Medicare Advantage,Philadelphia,22193,206,178
+2026-03-01,MA-PPO,Medicare Advantage,Philadelphia,21997,205,401
+2026-04-01,MA-PPO,Medicare Advantage,Philadelphia,21951,301,347
+2026-05-01,MA-PPO,Medicare Advantage,Philadelphia,22154,365,162
+2026-06-01,MA-PPO,Medicare Advantage,Philadelphia,22209,454,399
+2026-07-01,MA-PPO,Medicare Advantage,Philadelphia,22487,488,210
+2026-08-01,MA-PPO,Medicare Advantage,Philadelphia,22630,377,234
+2026-09-01,MA-PPO,Medicare Advantage,Philadelphia,22805,406,231
+2021-01-01,PDP,Medicare Part D,Bucks,4674,182,0
+2021-02-01,PDP,Medicare Part D,Bucks,4577,44,141
+2021-03-01,PDP,Medicare Part D,Bucks,4544,51,84
+2021-04-01,PDP,Medicare Part D,Bucks,4542,38,40
+2021-05-01,PDP,Medicare Part D,Bucks,4458,36,120
+2021-06-01,PDP,Medicare Part D,Bucks,4499,57,16
+2021-07-01,PDP,Medicare Part D,Bucks,4502,44,41
+2021-08-01,PDP,Medicare Part D,Bucks,4523,48,27
+2021-09-01,PDP,Medicare Part D,Bucks,4466,44,101
+2021-10-01,PDP,Medicare Part D,Bucks,4478,44,32
+2021-11-01,PDP,Medicare Part D,Bucks,4469,42,51
+2021-12-01,PDP,Medicare Part D,Bucks,4492,43,20
+2022-01-01,PDP,Medicare Part D,Bucks,4600,173,65
+2022-02-01,PDP,Medicare Part D,Bucks,4580,49,69
+2022-03-01,PDP,Medicare Part D,Bucks,4516,47,111
+2022-04-01,PDP,Medicare Part D,Bucks,4507,37,46
+2022-05-01,PDP,Medicare Part D,Bucks,4505,44,46
+2022-06-01,PDP,Medicare Part D,Bucks,4510,48,43
+2022-07-01,PDP,Medicare Part D,Bucks,4505,46,51
+2022-08-01,PDP,Medicare Part D,Bucks,4479,52,78
+2022-09-01,PDP,Medicare Part D,Bucks,4499,46,26
+2022-10-01,PDP,Medicare Part D,Bucks,4541,45,3
+2022-11-01,PDP,Medicare Part D,Bucks,4501,42,82
+2022-12-01,PDP,Medicare Part D,Bucks,4484,37,54
+2023-01-01,PDP,Medicare Part D,Bucks,4596,173,61
+2023-02-01,PDP,Medicare Part D,Bucks,4564,53,85
+2023-03-01,PDP,Medicare Part D,Bucks,4509,45,100
+2023-04-01,PDP,Medicare Part D,Bucks,4505,52,56
+2023-05-01,PDP,Medicare Part D,Bucks,4507,54,52
+2023-06-01,PDP,Medicare Part D,Bucks,4492,45,60
+2023-07-01,PDP,Medicare Part D,Bucks,4515,41,18
+2023-08-01,PDP,Medicare Part D,Bucks,4484,43,74
+2023-09-01,PDP,Medicare Part D,Bucks,4499,50,35
+2023-10-01,PDP,Medicare Part D,Bucks,4483,63,79
+2023-11-01,PDP,Medicare Part D,Bucks,4514,49,18
+2023-12-01,PDP,Medicare Part D,Bucks,4501,50,63
+2024-01-01,PDP,Medicare Part D,Bucks,4631,189,59
+2024-02-01,PDP,Medicare Part D,Bucks,4598,50,83
+2024-03-01,PDP,Medicare Part D,Bucks,4563,45,80
+2024-04-01,PDP,Medicare Part D,Bucks,4543,52,72
+2024-05-01,PDP,Medicare Part D,Bucks,4517,36,62
+2024-06-01,PDP,Medicare Part D,Bucks,4527,40,30
+2024-07-01,PDP,Medicare Part D,Bucks,4490,47,84
+2024-08-01,PDP,Medicare Part D,Bucks,4507,50,33
+2024-09-01,PDP,Medicare Part D,Bucks,4495,40,52
+2024-10-01,PDP,Medicare Part D,Bucks,4520,36,11
+2024-11-01,PDP,Medicare Part D,Bucks,4518,48,50
+2024-12-01,PDP,Medicare Part D,Bucks,4517,44,45
+2025-01-01,PDP,Medicare Part D,Bucks,4650,176,43
+2025-02-01,PDP,Medicare Part D,Bucks,4591,37,96
+2025-03-01,PDP,Medicare Part D,Bucks,4615,45,21
+2025-04-01,PDP,Medicare Part D,Bucks,4552,45,108
+2025-05-01,PDP,Medicare Part D,Bucks,4580,46,18
+2025-06-01,PDP,Medicare Part D,Bucks,4590,61,51
+2025-07-01,PDP,Medicare Part D,Bucks,4584,41,47
+2025-08-01,PDP,Medicare Part D,Bucks,4566,43,61
+2025-09-01,PDP,Medicare Part D,Bucks,4552,40,54
+2025-10-01,PDP,Medicare Part D,Bucks,4585,37,4
+2025-11-01,PDP,Medicare Part D,Bucks,4559,49,75
+2025-12-01,PDP,Medicare Part D,Bucks,4538,39,60
+2026-01-01,PDP,Medicare Part D,Bucks,4631,174,81
+2026-02-01,PDP,Medicare Part D,Bucks,4603,53,81
+2026-03-01,PDP,Medicare Part D,Bucks,4545,41,99
+2026-04-01,PDP,Medicare Part D,Bucks,4583,48,10
+2026-05-01,PDP,Medicare Part D,Bucks,4545,52,90
+2026-06-01,PDP,Medicare Part D,Bucks,4535,51,61
+2026-07-01,PDP,Medicare Part D,Bucks,4569,65,31
+2026-08-01,PDP,Medicare Part D,Bucks,4516,50,103
+2026-09-01,PDP,Medicare Part D,Bucks,4578,57,0
+2021-01-01,PDP,Medicare Part D,Chester,4065,162,0
+2021-02-01,PDP,Medicare Part D,Chester,4017,40,88
+2021-03-01,PDP,Medicare Part D,Chester,3981,45,81
+2021-04-01,PDP,Medicare Part D,Chester,3944,37,74
+2021-05-01,PDP,Medicare Part D,Chester,3925,35,54
+2021-06-01,PDP,Medicare Part D,Chester,3971,43,0
+2021-07-01,PDP,Medicare Part D,Chester,3958,37,50
+2021-08-01,PDP,Medicare Part D,Chester,3938,44,64
+2021-09-01,PDP,Medicare Part D,Chester,3935,43,46
+2021-10-01,PDP,Medicare Part D,Chester,3911,39,63
+2021-11-01,PDP,Medicare Part D,Chester,3913,45,43
+2021-12-01,PDP,Medicare Part D,Chester,3924,34,23
+2022-01-01,PDP,Medicare Part D,Chester,4033,154,45
+2022-02-01,PDP,Medicare Part D,Chester,4008,39,64
+2022-03-01,PDP,Medicare Part D,Chester,3955,44,97
+2022-04-01,PDP,Medicare Part D,Chester,3927,39,67
+2022-05-01,PDP,Medicare Part D,Chester,3948,38,17
+2022-06-01,PDP,Medicare Part D,Chester,3956,45,37
+2022-07-01,PDP,Medicare Part D,Chester,3942,46,60
+2022-08-01,PDP,Medicare Part D,Chester,3946,35,31
+2022-09-01,PDP,Medicare Part D,Chester,3945,46,47
+2022-10-01,PDP,Medicare Part D,Chester,3927,49,67
+2022-11-01,PDP,Medicare Part D,Chester,3912,32,47
+2022-12-01,PDP,Medicare Part D,Chester,3919,44,37
+2023-01-01,PDP,Medicare Part D,Chester,4032,162,49
+2023-02-01,PDP,Medicare Part D,Chester,4017,44,59
+2023-03-01,PDP,Medicare Part D,Chester,3915,32,134
+2023-04-01,PDP,Medicare Part D,Chester,3960,36,0
+2023-05-01,PDP,Medicare Part D,Chester,3938,40,62
+2023-06-01,PDP,Medicare Part D,Chester,3941,44,41
+2023-07-01,PDP,Medicare Part D,Chester,3931,45,55
+2023-08-01,PDP,Medicare Part D,Chester,3944,35,22
+2023-09-01,PDP,Medicare Part D,Chester,3948,37,33
+2023-10-01,PDP,Medicare Part D,Chester,3938,50,60
+2023-11-01,PDP,Medicare Part D,Chester,3924,43,57
+2023-12-01,PDP,Medicare Part D,Chester,3956,36,4
+2024-01-01,PDP,Medicare Part D,Chester,4060,160,56
+2024-02-01,PDP,Medicare Part D,Chester,4051,34,43
+2024-03-01,PDP,Medicare Part D,Chester,4010,34,75
+2024-04-01,PDP,Medicare Part D,Chester,3966,44,88
+2024-05-01,PDP,Medicare Part D,Chester,3951,34,49
+2024-06-01,PDP,Medicare Part D,Chester,3983,33,1
+2024-07-01,PDP,Medicare Part D,Chester,3933,33,83
+2024-08-01,PDP,Medicare Part D,Chester,3967,47,13
+2024-09-01,PDP,Medicare Part D,Chester,3955,33,45
+2024-10-01,PDP,Medicare Part D,Chester,3936,47,66
+2024-11-01,PDP,Medicare Part D,Chester,3945,32,23
+2024-12-01,PDP,Medicare Part D,Chester,3938,50,57
+2025-01-01,PDP,Medicare Part D,Chester,4024,148,62
+2025-02-01,PDP,Medicare Part D,Chester,4020,48,52
+2025-03-01,PDP,Medicare Part D,Chester,4004,45,61
+2025-04-01,PDP,Medicare Part D,Chester,3974,42,72
+2025-05-01,PDP,Medicare Part D,Chester,3979,37,32
+2025-06-01,PDP,Medicare Part D,Chester,4041,49,0
+2025-07-01,PDP,Medicare Part D,Chester,4003,36,74
+2025-08-01,PDP,Medicare Part D,Chester,3967,46,82
+2025-09-01,PDP,Medicare Part D,Chester,3992,43,18
+2025-10-01,PDP,Medicare Part D,Chester,3973,44,63
+2025-11-01,PDP,Medicare Part D,Chester,3956,45,62
+2025-12-01,PDP,Medicare Part D,Chester,3971,40,25
+2026-01-01,PDP,Medicare Part D,Chester,4072,166,65
+2026-02-01,PDP,Medicare Part D,Chester,4033,33,72
+2026-03-01,PDP,Medicare Part D,Chester,4011,32,54
+2026-04-01,PDP,Medicare Part D,Chester,3978,43,76
+2026-05-01,PDP,Medicare Part D,Chester,3970,47,55
+2026-06-01,PDP,Medicare Part D,Chester,3929,37,78
+2026-07-01,PDP,Medicare Part D,Chester,3991,47,0
+2026-08-01,PDP,Medicare Part D,Chester,3958,39,72
+2026-09-01,PDP,Medicare Part D,Chester,3994,49,13
+2021-01-01,PDP,Medicare Part D,Delaware,4620,183,0
+2021-02-01,PDP,Medicare Part D,Delaware,4572,51,99
+2021-03-01,PDP,Medicare Part D,Delaware,4535,41,78
+2021-04-01,PDP,Medicare Part D,Delaware,4493,49,91
+2021-05-01,PDP,Medicare Part D,Delaware,4518,40,15
+2021-06-01,PDP,Medicare Part D,Delaware,4544,62,36
+2021-07-01,PDP,Medicare Part D,Delaware,4511,37,70
+2021-08-01,PDP,Medicare Part D,Delaware,4492,45,64
+2021-09-01,PDP,Medicare Part D,Delaware,4504,42,30
+2021-10-01,PDP,Medicare Part D,Delaware,4494,39,49
+2021-11-01,PDP,Medicare Part D,Delaware,4447,54,101
+2021-12-01,PDP,Medicare Part D,Delaware,4489,42,0
+2022-01-01,PDP,Medicare Part D,Delaware,4609,186,66
+2022-02-01,PDP,Medicare Part D,Delaware,4579,40,70
+2022-03-01,PDP,Medicare Part D,Delaware,4540,37,76
+2022-04-01,PDP,Medicare Part D,Delaware,4497,51,94
+2022-05-01,PDP,Medicare Part D,Delaware,4487,46,56
+2022-06-01,PDP,Medicare Part D,Delaware,4486,42,43
+2022-07-01,PDP,Medicare Part D,Delaware,4490,39,35
+2022-08-01,PDP,Medicare Part D,Delaware,4499,51,42
+2022-09-01,PDP,Medicare Part D,Delaware,4509,40,30
+2022-10-01,PDP,Medicare Part D,Delaware,4484,56,81
+2022-11-01,PDP,Medicare Part D,Delaware,4508,41,17
+2022-12-01,PDP,Medicare Part D,Delaware,4471,41,78
+2023-01-01,PDP,Medicare Part D,Delaware,4605,174,40
+2023-02-01,PDP,Medicare Part D,Delaware,4583,42,64
+2023-03-01,PDP,Medicare Part D,Delaware,4492,53,144
+2023-04-01,PDP,Medicare Part D,Delaware,4534,41,0
+2023-05-01,PDP,Medicare Part D,Delaware,4539,56,51
+2023-06-01,PDP,Medicare Part D,Delaware,4525,36,50
+2023-07-01,PDP,Medicare Part D,Delaware,4510,49,64
+2023-08-01,PDP,Medicare Part D,Delaware,4508,37,39
+2023-09-01,PDP,Medicare Part D,Delaware,4504,57,61
+2023-10-01,PDP,Medicare Part D,Delaware,4543,56,17
+2023-11-01,PDP,Medicare Part D,Delaware,4536,52,59
+2023-12-01,PDP,Medicare Part D,Delaware,4472,51,115
+2024-01-01,PDP,Medicare Part D,Delaware,4655,186,3
+2024-02-01,PDP,Medicare Part D,Delaware,4627,45,73
+2024-03-01,PDP,Medicare Part D,Delaware,4588,44,83
+2024-04-01,PDP,Medicare Part D,Delaware,4520,52,120
+2024-05-01,PDP,Medicare Part D,Delaware,4526,41,35
+2024-06-01,PDP,Medicare Part D,Delaware,4541,50,35
+2024-07-01,PDP,Medicare Part D,Delaware,4507,45,79
+2024-08-01,PDP,Medicare Part D,Delaware,4516,46,37
+2024-09-01,PDP,Medicare Part D,Delaware,4508,38,46
+2024-10-01,PDP,Medicare Part D,Delaware,4499,43,52
+2024-11-01,PDP,Medicare Part D,Delaware,4476,36,59
+2024-12-01,PDP,Medicare Part D,Delaware,4530,45,0
+2025-01-01,PDP,Medicare Part D,Delaware,4622,170,78
+2025-02-01,PDP,Medicare Part D,Delaware,4607,47,62
+2025-03-01,PDP,Medicare Part D,Delaware,4608,52,51
+2025-04-01,PDP,Medicare Part D,Delaware,4567,49,90
+2025-05-01,PDP,Medicare Part D,Delaware,4545,47,69
+2025-06-01,PDP,Medicare Part D,Delaware,4617,51,0
+2025-07-01,PDP,Medicare Part D,Delaware,4555,45,107
+2025-08-01,PDP,Medicare Part D,Delaware,4523,42,74
+2025-09-01,PDP,Medicare Part D,Delaware,4533,50,40
+2025-10-01,PDP,Medicare Part D,Delaware,4513,42,62
+2025-11-01,PDP,Medicare Part D,Delaware,4521,39,31
+2025-12-01,PDP,Medicare Part D,Delaware,4541,50,30
+2026-01-01,PDP,Medicare Part D,Delaware,4661,182,62
+2026-02-01,PDP,Medicare Part D,Delaware,4598,45,108
+2026-03-01,PDP,Medicare Part D,Delaware,4565,45,78
+2026-04-01,PDP,Medicare Part D,Delaware,4561,47,51
+2026-05-01,PDP,Medicare Part D,Delaware,4554,53,60
+2026-06-01,PDP,Medicare Part D,Delaware,4544,43,53
+2026-07-01,PDP,Medicare Part D,Delaware,4529,66,81
+2026-08-01,PDP,Medicare Part D,Delaware,4525,49,53
+2026-09-01,PDP,Medicare Part D,Delaware,4536,57,46
+2021-01-01,PDP,Medicare Part D,Montgomery,6089,255,0
+2021-02-01,PDP,Medicare Part D,Montgomery,6007,48,130
+2021-03-01,PDP,Medicare Part D,Montgomery,5972,48,83
+2021-04-01,PDP,Medicare Part D,Montgomery,5923,58,107
+2021-05-01,PDP,Medicare Part D,Montgomery,5936,64,51
+2021-06-01,PDP,Medicare Part D,Montgomery,5962,60,34
+2021-07-01,PDP,Medicare Part D,Montgomery,5907,52,107
+2021-08-01,PDP,Medicare Part D,Montgomery,5876,51,82
+2021-09-01,PDP,Medicare Part D,Montgomery,5919,66,23
+2021-10-01,PDP,Medicare Part D,Montgomery,5886,66,99
+2021-11-01,PDP,Medicare Part D,Montgomery,5896,60,50
+2021-12-01,PDP,Medicare Part D,Montgomery,5898,52,50
+2022-01-01,PDP,Medicare Part D,Montgomery,6057,231,72
+2022-02-01,PDP,Medicare Part D,Montgomery,6002,64,119
+2022-03-01,PDP,Medicare Part D,Montgomery,5932,71,141
+2022-04-01,PDP,Medicare Part D,Montgomery,5920,52,64
+2022-05-01,PDP,Medicare Part D,Montgomery,5886,62,96
+2022-06-01,PDP,Medicare Part D,Montgomery,5911,54,29
+2022-07-01,PDP,Medicare Part D,Montgomery,5857,69,123
+2022-08-01,PDP,Medicare Part D,Montgomery,5899,49,7
+2022-09-01,PDP,Medicare Part D,Montgomery,5851,49,97
+2022-10-01,PDP,Medicare Part D,Montgomery,5901,59,9
+2022-11-01,PDP,Medicare Part D,Montgomery,5872,52,81
+2022-12-01,PDP,Medicare Part D,Montgomery,5851,69,90
+2023-01-01,PDP,Medicare Part D,Montgomery,6023,230,58
+2023-02-01,PDP,Medicare Part D,Montgomery,6014,56,65
+2023-03-01,PDP,Medicare Part D,Montgomery,5920,70,164
+2023-04-01,PDP,Medicare Part D,Montgomery,5905,69,84
+2023-05-01,PDP,Medicare Part D,Montgomery,5895,71,81
+2023-06-01,PDP,Medicare Part D,Montgomery,5883,70,82
+2023-07-01,PDP,Medicare Part D,Montgomery,5903,49,29
+2023-08-01,PDP,Medicare Part D,Montgomery,5894,52,61
+2023-09-01,PDP,Medicare Part D,Montgomery,5920,64,38
+2023-10-01,PDP,Medicare Part D,Montgomery,5912,83,91
+2023-11-01,PDP,Medicare Part D,Montgomery,5919,66,59
+2023-12-01,PDP,Medicare Part D,Montgomery,5914,54,59
+2024-01-01,PDP,Medicare Part D,Montgomery,6080,235,69
+2024-02-01,PDP,Medicare Part D,Montgomery,6022,55,113
+2024-03-01,PDP,Medicare Part D,Montgomery,6006,59,75
+2024-04-01,PDP,Medicare Part D,Montgomery,5939,63,130
+2024-05-01,PDP,Medicare Part D,Montgomery,5905,59,93
+2024-06-01,PDP,Medicare Part D,Montgomery,5940,61,26
+2024-07-01,PDP,Medicare Part D,Montgomery,5913,64,91
+2024-08-01,PDP,Medicare Part D,Montgomery,5951,53,15
+2024-09-01,PDP,Medicare Part D,Montgomery,5973,55,33
+2024-10-01,PDP,Medicare Part D,Montgomery,5928,52,97
+2024-11-01,PDP,Medicare Part D,Montgomery,5894,54,88
+2024-12-01,PDP,Medicare Part D,Montgomery,5881,61,74
+2025-01-01,PDP,Medicare Part D,Montgomery,6117,225,0
+2025-02-01,PDP,Medicare Part D,Montgomery,6048,53,122
+2025-03-01,PDP,Medicare Part D,Montgomery,6026,55,77
+2025-04-01,PDP,Medicare Part D,Montgomery,5987,51,90
+2025-05-01,PDP,Medicare Part D,Montgomery,5964,65,88
+2025-06-01,PDP,Medicare Part D,Montgomery,6037,63,0
+2025-07-01,PDP,Medicare Part D,Montgomery,6025,51,63
+2025-08-01,PDP,Medicare Part D,Montgomery,5948,64,141
+2025-09-01,PDP,Medicare Part D,Montgomery,5993,50,5
+2025-10-01,PDP,Medicare Part D,Montgomery,5891,65,167
+2025-11-01,PDP,Medicare Part D,Montgomery,5933,70,28
+2025-12-01,PDP,Medicare Part D,Montgomery,5915,68,86
+2026-01-01,PDP,Medicare Part D,Montgomery,6156,247,6
+2026-02-01,PDP,Medicare Part D,Montgomery,6048,59,167
+2026-03-01,PDP,Medicare Part D,Montgomery,6044,61,65
+2026-04-01,PDP,Medicare Part D,Montgomery,6028,66,82
+2026-05-01,PDP,Medicare Part D,Montgomery,5948,64,144
+2026-06-01,PDP,Medicare Part D,Montgomery,5929,65,84
+2026-07-01,PDP,Medicare Part D,Montgomery,5930,69,68
+2026-08-01,PDP,Medicare Part D,Montgomery,5959,60,31
+2026-09-01,PDP,Medicare Part D,Montgomery,5965,89,83
+2021-01-01,PDP,Medicare Part D,Philadelphia,9557,411,0
+2021-02-01,PDP,Medicare Part D,Philadelphia,9494,89,152
+2021-03-01,PDP,Medicare Part D,Philadelphia,9433,105,166
+2021-04-01,PDP,Medicare Part D,Philadelphia,9350,91,174
+2021-05-01,PDP,Medicare Part D,Philadelphia,9353,109,106
+2021-06-01,PDP,Medicare Part D,Philadelphia,9272,106,187
+2021-07-01,PDP,Medicare Part D,Philadelphia,9307,93,58
+2021-08-01,PDP,Medicare Part D,Philadelphia,9284,97,120
+2021-09-01,PDP,Medicare Part D,Philadelphia,9273,104,115
+2021-10-01,PDP,Medicare Part D,Philadelphia,9232,78,119
+2021-11-01,PDP,Medicare Part D,Philadelphia,9242,104,94
+2021-12-01,PDP,Medicare Part D,Philadelphia,9220,93,115
+2022-01-01,PDP,Medicare Part D,Philadelphia,9561,360,19
+2022-02-01,PDP,Medicare Part D,Philadelphia,9418,105,248
+2022-03-01,PDP,Medicare Part D,Philadelphia,9326,84,176
+2022-04-01,PDP,Medicare Part D,Philadelphia,9263,80,143
+2022-05-01,PDP,Medicare Part D,Philadelphia,9287,98,74
+2022-06-01,PDP,Medicare Part D,Philadelphia,9251,82,118
+2022-07-01,PDP,Medicare Part D,Philadelphia,9246,89,94
+2022-08-01,PDP,Medicare Part D,Philadelphia,9319,77,4
+2022-09-01,PDP,Medicare Part D,Philadelphia,9289,79,109
+2022-10-01,PDP,Medicare Part D,Philadelphia,9214,112,187
+2022-11-01,PDP,Medicare Part D,Philadelphia,9299,106,21
+2022-12-01,PDP,Medicare Part D,Philadelphia,9167,81,213
+2023-01-01,PDP,Medicare Part D,Philadelphia,9546,371,0
+2023-02-01,PDP,Medicare Part D,Philadelphia,9462,93,177
+2023-03-01,PDP,Medicare Part D,Philadelphia,9352,104,214
+2023-04-01,PDP,Medicare Part D,Philadelphia,9243,103,212
+2023-05-01,PDP,Medicare Part D,Philadelphia,9265,97,75
+2023-06-01,PDP,Medicare Part D,Philadelphia,9259,94,100
+2023-07-01,PDP,Medicare Part D,Philadelphia,9215,106,150
+2023-08-01,PDP,Medicare Part D,Philadelphia,9273,86,28
+2023-09-01,PDP,Medicare Part D,Philadelphia,9271,103,105
+2023-10-01,PDP,Medicare Part D,Philadelphia,9290,127,108
+2023-11-01,PDP,Medicare Part D,Philadelphia,9323,94,61
+2023-12-01,PDP,Medicare Part D,Philadelphia,9188,104,239
+2024-01-01,PDP,Medicare Part D,Philadelphia,9549,394,33
+2024-02-01,PDP,Medicare Part D,Philadelphia,9466,82,165
+2024-03-01,PDP,Medicare Part D,Philadelphia,9397,109,178
+2024-04-01,PDP,Medicare Part D,Philadelphia,9410,92,79
+2024-05-01,PDP,Medicare Part D,Philadelphia,9371,111,150
+2024-06-01,PDP,Medicare Part D,Philadelphia,9338,75,108
+2024-07-01,PDP,Medicare Part D,Philadelphia,9378,92,52
+2024-08-01,PDP,Medicare Part D,Philadelphia,9302,106,182
+2024-09-01,PDP,Medicare Part D,Philadelphia,9345,80,37
+2024-10-01,PDP,Medicare Part D,Philadelphia,9233,86,198
+2024-11-01,PDP,Medicare Part D,Philadelphia,9273,83,43
+2024-12-01,PDP,Medicare Part D,Philadelphia,9348,101,26
+2025-01-01,PDP,Medicare Part D,Philadelphia,9593,374,129
+2025-02-01,PDP,Medicare Part D,Philadelphia,9480,90,203
+2025-03-01,PDP,Medicare Part D,Philadelphia,9482,106,104
+2025-04-01,PDP,Medicare Part D,Philadelphia,9453,103,132
+2025-05-01,PDP,Medicare Part D,Philadelphia,9399,79,133
+2025-06-01,PDP,Medicare Part D,Philadelphia,9412,123,110
+2025-07-01,PDP,Medicare Part D,Philadelphia,9392,98,118
+2025-08-01,PDP,Medicare Part D,Philadelphia,9384,103,111
+2025-09-01,PDP,Medicare Part D,Philadelphia,9409,95,70
+2025-10-01,PDP,Medicare Part D,Philadelphia,9407,87,89
+2025-11-01,PDP,Medicare Part D,Philadelphia,9385,110,132
+2025-12-01,PDP,Medicare Part D,Philadelphia,9341,88,132
+2026-01-01,PDP,Medicare Part D,Philadelphia,9693,362,10
+2026-02-01,PDP,Medicare Part D,Philadelphia,9569,82,206
+2026-03-01,PDP,Medicare Part D,Philadelphia,9395,94,268
+2026-04-01,PDP,Medicare Part D,Philadelphia,9397,75,73
+2026-05-01,PDP,Medicare Part D,Philadelphia,9402,107,102
+2026-06-01,PDP,Medicare Part D,Philadelphia,9353,78,127
+2026-07-01,PDP,Medicare Part D,Philadelphia,9409,134,78
+2026-08-01,PDP,Medicare Part D,Philadelphia,9289,84,204
+2026-09-01,PDP,Medicare Part D,Philadelphia,9403,126,12
+2021-01-01,Small Group,Commercial Group,Bucks,8774,198,0
+2021-02-01,Small Group,Commercial Group,Bucks,8784,98,88
+2021-03-01,Small Group,Commercial Group,Bucks,8769,85,100
+2021-04-01,Small Group,Commercial Group,Bucks,8730,86,125
+2021-05-01,Small Group,Commercial Group,Bucks,8748,96,78
+2021-06-01,Small Group,Commercial Group,Bucks,8732,86,102
+2021-07-01,Small Group,Commercial Group,Bucks,8711,71,92
+2021-08-01,Small Group,Commercial Group,Bucks,8679,70,102
+2021-09-01,Small Group,Commercial Group,Bucks,8723,82,38
+2021-10-01,Small Group,Commercial Group,Bucks,8698,72,97
+2021-11-01,Small Group,Commercial Group,Bucks,8639,82,141
+2021-12-01,Small Group,Commercial Group,Bucks,8709,91,21
+2022-01-01,Small Group,Commercial Group,Bucks,8865,222,66
+2022-02-01,Small Group,Commercial Group,Bucks,8873,88,80
+2022-03-01,Small Group,Commercial Group,Bucks,8807,98,164
+2022-04-01,Small Group,Commercial Group,Bucks,8775,75,107
+2022-05-01,Small Group,Commercial Group,Bucks,8792,96,79
+2022-06-01,Small Group,Commercial Group,Bucks,8696,79,175
+2022-07-01,Small Group,Commercial Group,Bucks,8632,101,165
+2022-08-01,Small Group,Commercial Group,Bucks,8669,78,41
+2022-09-01,Small Group,Commercial Group,Bucks,8638,80,111
+2022-10-01,Small Group,Commercial Group,Bucks,8698,86,26
+2022-11-01,Small Group,Commercial Group,Bucks,8634,90,154
+2022-12-01,Small Group,Commercial Group,Bucks,8643,105,96
+2023-01-01,Small Group,Commercial Group,Bucks,8786,201,58
+2023-02-01,Small Group,Commercial Group,Bucks,8735,103,154
+2023-03-01,Small Group,Commercial Group,Bucks,8742,85,78
+2023-04-01,Small Group,Commercial Group,Bucks,8749,74,67
+2023-05-01,Small Group,Commercial Group,Bucks,8753,76,72
+2023-06-01,Small Group,Commercial Group,Bucks,8751,127,129
+2023-07-01,Small Group,Commercial Group,Bucks,8798,78,31
+2023-08-01,Small Group,Commercial Group,Bucks,8763,86,121
+2023-09-01,Small Group,Commercial Group,Bucks,8715,99,147
+2023-10-01,Small Group,Commercial Group,Bucks,8692,93,116
+2023-11-01,Small Group,Commercial Group,Bucks,8730,72,34
+2023-12-01,Small Group,Commercial Group,Bucks,8784,110,56
+2024-01-01,Small Group,Commercial Group,Bucks,8888,221,117
+2024-02-01,Small Group,Commercial Group,Bucks,8777,86,197
+2024-03-01,Small Group,Commercial Group,Bucks,8806,87,58
+2024-04-01,Small Group,Commercial Group,Bucks,8848,79,37
+2024-05-01,Small Group,Commercial Group,Bucks,8818,120,150
+2024-06-01,Small Group,Commercial Group,Bucks,8831,76,63
+2024-07-01,Small Group,Commercial Group,Bucks,8699,93,225
+2024-08-01,Small Group,Commercial Group,Bucks,8747,78,30
+2024-09-01,Small Group,Commercial Group,Bucks,8668,95,174
+2024-10-01,Small Group,Commercial Group,Bucks,8640,77,105
+2024-11-01,Small Group,Commercial Group,Bucks,8640,69,69
+2024-12-01,Small Group,Commercial Group,Bucks,8689,119,70
+2025-01-01,Small Group,Commercial Group,Bucks,8791,224,122
+2025-02-01,Small Group,Commercial Group,Bucks,8773,80,98
+2025-03-01,Small Group,Commercial Group,Bucks,8752,71,92
+2025-04-01,Small Group,Commercial Group,Bucks,8682,74,144
+2025-05-01,Small Group,Commercial Group,Bucks,8766,77,0
+2025-06-01,Small Group,Commercial Group,Bucks,8686,93,173
+2025-07-01,Small Group,Commercial Group,Bucks,8619,101,168
+2025-08-01,Small Group,Commercial Group,Bucks,8654,82,47
+2025-09-01,Small Group,Commercial Group,Bucks,8669,86,71
+2025-10-01,Small Group,Commercial Group,Bucks,8644,75,100
+2025-11-01,Small Group,Commercial Group,Bucks,8637,98,105
+2025-12-01,Small Group,Commercial Group,Bucks,8613,88,112
+2026-01-01,Small Group,Commercial Group,Bucks,8752,222,83
+2026-02-01,Small Group,Commercial Group,Bucks,8675,81,158
+2026-03-01,Small Group,Commercial Group,Bucks,8727,81,29
+2026-04-01,Small Group,Commercial Group,Bucks,8718,102,111
+2026-05-01,Small Group,Commercial Group,Bucks,8699,114,133
+2026-06-01,Small Group,Commercial Group,Bucks,8683,82,98
+2026-07-01,Small Group,Commercial Group,Bucks,8617,93,159
+2026-08-01,Small Group,Commercial Group,Bucks,8603,80,94
+2026-09-01,Small Group,Commercial Group,Bucks,8570,80,113
+2021-01-01,Small Group,Commercial Group,Chester,7625,175,0
+2021-02-01,Small Group,Commercial Group,Chester,7684,83,24
+2021-03-01,Small Group,Commercial Group,Chester,7701,86,69
+2021-04-01,Small Group,Commercial Group,Chester,7671,79,109
+2021-05-01,Small Group,Commercial Group,Chester,7711,73,33
+2021-06-01,Small Group,Commercial Group,Chester,7683,85,113
+2021-07-01,Small Group,Commercial Group,Chester,7646,84,121
+2021-08-01,Small Group,Commercial Group,Chester,7555,68,159
+2021-09-01,Small Group,Commercial Group,Chester,7642,88,1
+2021-10-01,Small Group,Commercial Group,Chester,7560,82,164
+2021-11-01,Small Group,Commercial Group,Chester,7599,62,23
+2021-12-01,Small Group,Commercial Group,Chester,7541,69,127
+2022-01-01,Small Group,Commercial Group,Chester,7751,209,0
+2022-02-01,Small Group,Commercial Group,Chester,7691,90,150
+2022-03-01,Small Group,Commercial Group,Chester,7611,77,157
+2022-04-01,Small Group,Commercial Group,Chester,7631,83,63
+2022-05-01,Small Group,Commercial Group,Chester,7636,77,72
+2022-06-01,Small Group,Commercial Group,Chester,7663,70,43
+2022-07-01,Small Group,Commercial Group,Chester,7651,75,87
+2022-08-01,Small Group,Commercial Group,Chester,7569,75,157
+2022-09-01,Small Group,Commercial Group,Chester,7591,61,39
+2022-10-01,Small Group,Commercial Group,Chester,7554,74,111
+2022-11-01,Small Group,Commercial Group,Chester,7571,62,45
+2022-12-01,Small Group,Commercial Group,Chester,7589,85,67
+2023-01-01,Small Group,Commercial Group,Chester,7640,186,135
+2023-02-01,Small Group,Commercial Group,Chester,7660,77,57
+2023-03-01,Small Group,Commercial Group,Chester,7681,77,56
+2023-04-01,Small Group,Commercial Group,Chester,7680,82,83
+2023-05-01,Small Group,Commercial Group,Chester,7587,75,168
+2023-06-01,Small Group,Commercial Group,Chester,7715,107,0
+2023-07-01,Small Group,Commercial Group,Chester,7685,81,111
+2023-08-01,Small Group,Commercial Group,Chester,7613,70,142
+2023-09-01,Small Group,Commercial Group,Chester,7662,75,26
+2023-10-01,Small Group,Commercial Group,Chester,7605,67,124
+2023-11-01,Small Group,Commercial Group,Chester,7682,69,0
+2023-12-01,Small Group,Commercial Group,Chester,7637,93,138
+2024-01-01,Small Group,Commercial Group,Chester,7744,183,76
+2024-02-01,Small Group,Commercial Group,Chester,7723,89,110
+2024-03-01,Small Group,Commercial Group,Chester,7725,78,76
+2024-04-01,Small Group,Commercial Group,Chester,7654,73,144
+2024-05-01,Small Group,Commercial Group,Chester,7761,99,0
+2024-06-01,Small Group,Commercial Group,Chester,7714,67,114
+2024-07-01,Small Group,Commercial Group,Chester,7710,82,86
+2024-08-01,Small Group,Commercial Group,Chester,7654,77,133
+2024-09-01,Small Group,Commercial Group,Chester,7669,81,66
+2024-10-01,Small Group,Commercial Group,Chester,7631,63,101
+2024-11-01,Small Group,Commercial Group,Chester,7547,87,171
+2024-12-01,Small Group,Commercial Group,Chester,7586,84,45
+2025-01-01,Small Group,Commercial Group,Chester,7657,210,139
+2025-02-01,Small Group,Commercial Group,Chester,7656,69,70
+2025-03-01,Small Group,Commercial Group,Chester,7676,69,49
+2025-04-01,Small Group,Commercial Group,Chester,7632,71,115
+2025-05-01,Small Group,Commercial Group,Chester,7637,61,56
+2025-06-01,Small Group,Commercial Group,Chester,7602,64,99
+2025-07-01,Small Group,Commercial Group,Chester,7522,70,150
+2025-08-01,Small Group,Commercial Group,Chester,7574,90,38
+2025-09-01,Small Group,Commercial Group,Chester,7644,79,9
+2025-10-01,Small Group,Commercial Group,Chester,7578,78,144
+2025-11-01,Small Group,Commercial Group,Chester,7577,70,71
+2025-12-01,Small Group,Commercial Group,Chester,7538,72,111
+2026-01-01,Small Group,Commercial Group,Chester,7648,182,72
+2026-02-01,Small Group,Commercial Group,Chester,7640,68,76
+2026-03-01,Small Group,Commercial Group,Chester,7689,86,37
+2026-04-01,Small Group,Commercial Group,Chester,7635,61,115
+2026-05-01,Small Group,Commercial Group,Chester,7638,93,90
+2026-06-01,Small Group,Commercial Group,Chester,7615,77,100
+2026-07-01,Small Group,Commercial Group,Chester,7575,82,122
+2026-08-01,Small Group,Commercial Group,Chester,7471,72,176
+2026-09-01,Small Group,Commercial Group,Chester,7527,88,32
+2021-01-01,Small Group,Commercial Group,Delaware,8770,218,0
+2021-02-01,Small Group,Commercial Group,Delaware,8754,109,125
+2021-03-01,Small Group,Commercial Group,Delaware,8812,86,28
+2021-04-01,Small Group,Commercial Group,Delaware,8696,90,206
+2021-05-01,Small Group,Commercial Group,Delaware,8775,99,20
+2021-06-01,Small Group,Commercial Group,Delaware,8787,98,86
+2021-07-01,Small Group,Commercial Group,Delaware,8676,86,197
+2021-08-01,Small Group,Commercial Group,Delaware,8701,89,64
+2021-09-01,Small Group,Commercial Group,Delaware,8681,86,106
+2021-10-01,Small Group,Commercial Group,Delaware,8651,99,129
+2021-11-01,Small Group,Commercial Group,Delaware,8648,101,104
+2021-12-01,Small Group,Commercial Group,Delaware,8641,101,108
+2022-01-01,Small Group,Commercial Group,Delaware,8776,245,110
+2022-02-01,Small Group,Commercial Group,Delaware,8796,82,62
+2022-03-01,Small Group,Commercial Group,Delaware,8737,82,141
+2022-04-01,Small Group,Commercial Group,Delaware,8704,86,119
+2022-05-01,Small Group,Commercial Group,Delaware,8689,73,88
+2022-06-01,Small Group,Commercial Group,Delaware,8725,94,58
+2022-07-01,Small Group,Commercial Group,Delaware,8743,74,56
+2022-08-01,Small Group,Commercial Group,Delaware,8677,98,164
+2022-09-01,Small Group,Commercial Group,Delaware,8636,85,126
+2022-10-01,Small Group,Commercial Group,Delaware,8619,79,96
+2022-11-01,Small Group,Commercial Group,Delaware,8622,74,71
+2022-12-01,Small Group,Commercial Group,Delaware,8657,87,52
+2023-01-01,Small Group,Commercial Group,Delaware,8759,228,126
+2023-02-01,Small Group,Commercial Group,Delaware,8788,96,67
+2023-03-01,Small Group,Commercial Group,Delaware,8772,71,87
+2023-04-01,Small Group,Commercial Group,Delaware,8754,72,90
+2023-05-01,Small Group,Commercial Group,Delaware,8745,81,90
+2023-06-01,Small Group,Commercial Group,Delaware,8735,118,128
+2023-07-01,Small Group,Commercial Group,Delaware,8798,77,14
+2023-08-01,Small Group,Commercial Group,Delaware,8838,89,49
+2023-09-01,Small Group,Commercial Group,Delaware,8782,93,149
+2023-10-01,Small Group,Commercial Group,Delaware,8693,74,163
+2023-11-01,Small Group,Commercial Group,Delaware,8709,102,86
+2023-12-01,Small Group,Commercial Group,Delaware,8727,112,94
+2024-01-01,Small Group,Commercial Group,Delaware,8819,224,132
+2024-02-01,Small Group,Commercial Group,Delaware,8753,104,170
+2024-03-01,Small Group,Commercial Group,Delaware,8886,91,0
+2024-04-01,Small Group,Commercial Group,Delaware,8808,105,183
+2024-05-01,Small Group,Commercial Group,Delaware,8849,102,61
+2024-06-01,Small Group,Commercial Group,Delaware,8756,88,181
+2024-07-01,Small Group,Commercial Group,Delaware,8704,82,134
+2024-08-01,Small Group,Commercial Group,Delaware,8766,77,15
+2024-09-01,Small Group,Commercial Group,Delaware,8628,79,217
+2024-10-01,Small Group,Commercial Group,Delaware,8634,99,93
+2024-11-01,Small Group,Commercial Group,Delaware,8633,71,72
+2024-12-01,Small Group,Commercial Group,Delaware,8646,89,76
+2025-01-01,Small Group,Commercial Group,Delaware,8839,238,45
+2025-02-01,Small Group,Commercial Group,Delaware,8752,100,187
+2025-03-01,Small Group,Commercial Group,Delaware,8740,104,116
+2025-04-01,Small Group,Commercial Group,Delaware,8756,88,72
+2025-05-01,Small Group,Commercial Group,Delaware,8689,71,138
+2025-06-01,Small Group,Commercial Group,Delaware,8675,97,111
+2025-07-01,Small Group,Commercial Group,Delaware,8624,76,127
+2025-08-01,Small Group,Commercial Group,Delaware,8654,98,68
+2025-09-01,Small Group,Commercial Group,Delaware,8623,82,113
+2025-10-01,Small Group,Commercial Group,Delaware,8600,86,109
+2025-11-01,Small Group,Commercial Group,Delaware,8682,88,6
+2025-12-01,Small Group,Commercial Group,Delaware,8631,102,153
+2026-01-01,Small Group,Commercial Group,Delaware,8774,202,59
+2026-02-01,Small Group,Commercial Group,Delaware,8751,79,102
+2026-03-01,Small Group,Commercial Group,Delaware,8749,88,90
+2026-04-01,Small Group,Commercial Group,Delaware,8775,102,76
+2026-05-01,Small Group,Commercial Group,Delaware,8715,101,161
+2026-06-01,Small Group,Commercial Group,Delaware,8643,103,175
+2026-07-01,Small Group,Commercial Group,Delaware,8638,91,96
+2026-08-01,Small Group,Commercial Group,Delaware,8611,69,96
+2026-09-01,Small Group,Commercial Group,Delaware,8610,85,86
+2021-01-01,Small Group,Commercial Group,Montgomery,11452,264,0
+2021-02-01,Small Group,Commercial Group,Montgomery,11490,103,65
+2021-03-01,Small Group,Commercial Group,Montgomery,11492,116,114
+2021-04-01,Small Group,Commercial Group,Montgomery,11451,124,165
+2021-05-01,Small Group,Commercial Group,Montgomery,11438,103,116
+2021-06-01,Small Group,Commercial Group,Montgomery,11507,100,31
+2021-07-01,Small Group,Commercial Group,Montgomery,11419,136,224
+2021-08-01,Small Group,Commercial Group,Montgomery,11404,117,132
+2021-09-01,Small Group,Commercial Group,Montgomery,11453,101,52
+2021-10-01,Small Group,Commercial Group,Montgomery,11301,95,247
+2021-11-01,Small Group,Commercial Group,Montgomery,11290,100,111
+2021-12-01,Small Group,Commercial Group,Montgomery,11342,132,80
+2022-01-01,Small Group,Commercial Group,Montgomery,11530,311,123
+2022-02-01,Small Group,Commercial Group,Montgomery,11541,103,92
+2022-03-01,Small Group,Commercial Group,Montgomery,11487,116,170
+2022-04-01,Small Group,Commercial Group,Montgomery,11419,106,174
+2022-05-01,Small Group,Commercial Group,Montgomery,11485,131,65
+2022-06-01,Small Group,Commercial Group,Montgomery,11552,112,45
+2022-07-01,Small Group,Commercial Group,Montgomery,11445,118,225
+2022-08-01,Small Group,Commercial Group,Montgomery,11331,97,211
+2022-09-01,Small Group,Commercial Group,Montgomery,11366,113,78
+2022-10-01,Small Group,Commercial Group,Montgomery,11353,135,148
+2022-11-01,Small Group,Commercial Group,Montgomery,11366,100,87
+2022-12-01,Small Group,Commercial Group,Montgomery,11349,101,118
+2023-01-01,Small Group,Commercial Group,Montgomery,11470,269,148
+2023-02-01,Small Group,Commercial Group,Montgomery,11553,97,14
+2023-03-01,Small Group,Commercial Group,Montgomery,11529,117,141
+2023-04-01,Small Group,Commercial Group,Montgomery,11443,104,190
+2023-05-01,Small Group,Commercial Group,Montgomery,11467,133,109
+2023-06-01,Small Group,Commercial Group,Montgomery,11471,141,137
+2023-07-01,Small Group,Commercial Group,Montgomery,11471,103,103
+2023-08-01,Small Group,Commercial Group,Montgomery,11500,123,94
+2023-09-01,Small Group,Commercial Group,Montgomery,11442,130,188
+2023-10-01,Small Group,Commercial Group,Montgomery,11519,113,36
+2023-11-01,Small Group,Commercial Group,Montgomery,11372,134,281
+2023-12-01,Small Group,Commercial Group,Montgomery,11443,107,36
+2024-01-01,Small Group,Commercial Group,Montgomery,11671,297,69
+2024-02-01,Small Group,Commercial Group,Montgomery,11559,115,227
+2024-03-01,Small Group,Commercial Group,Montgomery,11507,131,183
+2024-04-01,Small Group,Commercial Group,Montgomery,11507,126,126
+2024-05-01,Small Group,Commercial Group,Montgomery,11683,153,0
+2024-06-01,Small Group,Commercial Group,Montgomery,11521,123,285
+2024-07-01,Small Group,Commercial Group,Montgomery,11525,131,127
+2024-08-01,Small Group,Commercial Group,Montgomery,11485,110,150
+2024-09-01,Small Group,Commercial Group,Montgomery,11455,129,159
+2024-10-01,Small Group,Commercial Group,Montgomery,11371,105,189
+2024-11-01,Small Group,Commercial Group,Montgomery,11348,107,130
+2024-12-01,Small Group,Commercial Group,Montgomery,11448,129,29
+2025-01-01,Small Group,Commercial Group,Montgomery,11568,281,161
+2025-02-01,Small Group,Commercial Group,Montgomery,11516,130,182
+2025-03-01,Small Group,Commercial Group,Montgomery,11506,128,138
+2025-04-01,Small Group,Commercial Group,Montgomery,11471,122,157
+2025-05-01,Small Group,Commercial Group,Montgomery,11417,133,187
+2025-06-01,Small Group,Commercial Group,Montgomery,11397,94,114
+2025-07-01,Small Group,Commercial Group,Montgomery,11372,94,119
+2025-08-01,Small Group,Commercial Group,Montgomery,11421,134,85
+2025-09-01,Small Group,Commercial Group,Montgomery,11366,113,168
+2025-10-01,Small Group,Commercial Group,Montgomery,11295,92,163
+2025-11-01,Small Group,Commercial Group,Montgomery,11304,93,84
+2025-12-01,Small Group,Commercial Group,Montgomery,11275,111,140
+2026-01-01,Small Group,Commercial Group,Montgomery,11486,255,44
+2026-02-01,Small Group,Commercial Group,Montgomery,11406,136,216
+2026-03-01,Small Group,Commercial Group,Montgomery,11461,110,55
+2026-04-01,Small Group,Commercial Group,Montgomery,11404,112,169
+2026-05-01,Small Group,Commercial Group,Montgomery,11507,142,39
+2026-06-01,Small Group,Commercial Group,Montgomery,11364,129,272
+2026-07-01,Small Group,Commercial Group,Montgomery,11371,108,101
+2026-08-01,Small Group,Commercial Group,Montgomery,11303,129,197
+2026-09-01,Small Group,Commercial Group,Montgomery,11234,128,197
+2021-01-01,Small Group,Commercial Group,Philadelphia,18156,445,0
+2021-02-01,Small Group,Commercial Group,Philadelphia,18147,226,235
+2021-03-01,Small Group,Commercial Group,Philadelphia,18119,190,218
+2021-04-01,Small Group,Commercial Group,Philadelphia,18003,180,296
+2021-05-01,Small Group,Commercial Group,Philadelphia,18025,166,144
+2021-06-01,Small Group,Commercial Group,Philadelphia,18049,192,168
+2021-07-01,Small Group,Commercial Group,Philadelphia,17962,166,253
+2021-08-01,Small Group,Commercial Group,Philadelphia,17972,145,135
+2021-09-01,Small Group,Commercial Group,Philadelphia,18099,184,57
+2021-10-01,Small Group,Commercial Group,Philadelphia,17785,204,518
+2021-11-01,Small Group,Commercial Group,Philadelphia,17844,165,106
+2021-12-01,Small Group,Commercial Group,Philadelphia,17935,163,72
+2022-01-01,Small Group,Commercial Group,Philadelphia,18157,510,288
+2022-02-01,Small Group,Commercial Group,Philadelphia,18176,158,139
+2022-03-01,Small Group,Commercial Group,Philadelphia,17978,193,391
+2022-04-01,Small Group,Commercial Group,Philadelphia,17971,210,217
+2022-05-01,Small Group,Commercial Group,Philadelphia,18065,160,66
+2022-06-01,Small Group,Commercial Group,Philadelphia,17843,209,431
+2022-07-01,Small Group,Commercial Group,Philadelphia,17955,147,35
+2022-08-01,Small Group,Commercial Group,Philadelphia,17800,187,342
+2022-09-01,Small Group,Commercial Group,Philadelphia,17984,151,0
+2022-10-01,Small Group,Commercial Group,Philadelphia,17900,209,293
+2022-11-01,Small Group,Commercial Group,Philadelphia,17930,158,128
+2022-12-01,Small Group,Commercial Group,Philadelphia,17797,162,295
+2023-01-01,Small Group,Commercial Group,Philadelphia,18106,441,132
+2023-02-01,Small Group,Commercial Group,Philadelphia,18125,156,137
+2023-03-01,Small Group,Commercial Group,Philadelphia,18072,200,253
+2023-04-01,Small Group,Commercial Group,Philadelphia,18006,216,282
+2023-05-01,Small Group,Commercial Group,Philadelphia,18039,177,144
+2023-06-01,Small Group,Commercial Group,Philadelphia,18185,222,76
+2023-07-01,Small Group,Commercial Group,Philadelphia,18021,168,332
+2023-08-01,Small Group,Commercial Group,Philadelphia,17959,174,236
+2023-09-01,Small Group,Commercial Group,Philadelphia,17956,149,152
+2023-10-01,Small Group,Commercial Group,Philadelphia,18040,146,62
+2023-11-01,Small Group,Commercial Group,Philadelphia,18046,171,165
+2023-12-01,Small Group,Commercial Group,Philadelphia,17892,234,388
+2024-01-01,Small Group,Commercial Group,Philadelphia,18253,495,134
+2024-02-01,Small Group,Commercial Group,Philadelphia,18227,150,176
+2024-03-01,Small Group,Commercial Group,Philadelphia,18228,165,164
+2024-04-01,Small Group,Commercial Group,Philadelphia,18210,162,180
+2024-05-01,Small Group,Commercial Group,Philadelphia,18235,247,222
+2024-06-01,Small Group,Commercial Group,Philadelphia,18023,161,373
+2024-07-01,Small Group,Commercial Group,Philadelphia,17985,177,215
+2024-08-01,Small Group,Commercial Group,Philadelphia,18079,207,113
+2024-09-01,Small Group,Commercial Group,Philadelphia,17986,204,297
+2024-10-01,Small Group,Commercial Group,Philadelphia,17986,214,214
+2024-11-01,Small Group,Commercial Group,Philadelphia,17789,161,358
+2024-12-01,Small Group,Commercial Group,Philadelphia,17852,181,118
+2025-01-01,Small Group,Commercial Group,Philadelphia,18243,455,64
+2025-02-01,Small Group,Commercial Group,Philadelphia,18163,168,248
+2025-03-01,Small Group,Commercial Group,Philadelphia,18004,147,306
+2025-04-01,Small Group,Commercial Group,Philadelphia,18023,146,127
+2025-05-01,Small Group,Commercial Group,Philadelphia,18036,173,160
+2025-06-01,Small Group,Commercial Group,Philadelphia,17933,152,255
+2025-07-01,Small Group,Commercial Group,Philadelphia,17717,164,380
+2025-08-01,Small Group,Commercial Group,Philadelphia,17757,205,165
+2025-09-01,Small Group,Commercial Group,Philadelphia,17890,176,43
+2025-10-01,Small Group,Commercial Group,Philadelphia,17826,155,219
+2025-11-01,Small Group,Commercial Group,Philadelphia,17765,174,235
+2025-12-01,Small Group,Commercial Group,Philadelphia,17682,142,225
+2026-01-01,Small Group,Commercial Group,Philadelphia,17874,422,230
+2026-02-01,Small Group,Commercial Group,Philadelphia,17967,190,97
+2026-03-01,Small Group,Commercial Group,Philadelphia,18075,214,106
+2026-04-01,Small Group,Commercial Group,Philadelphia,17891,167,351
+2026-05-01,Small Group,Commercial Group,Philadelphia,18044,212,59
+2026-06-01,Small Group,Commercial Group,Philadelphia,17972,168,240
+2026-07-01,Small Group,Commercial Group,Philadelphia,17812,183,343
+2026-08-01,Small Group,Commercial Group,Philadelphia,17722,206,296
+2026-09-01,Small Group,Commercial Group,Philadelphia,17594,186,314

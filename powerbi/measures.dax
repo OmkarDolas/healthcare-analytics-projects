@@ -1,0 +1,36 @@
+// DAX measures for the Power BI membership report.
+// Model: fact_membership, fact_budget, fact_forecast -> dim_product (product), dim_region (region), dim_date (month).
+
+Members =
+    SUM ( fact_membership[members] )
+
+Members PY =
+    CALCULATE ( [Members], DATEADD ( dim_date[month], -12, MONTH ) )
+
+YoY % =
+    DIVIDE ( [Members] - [Members PY], [Members PY] )
+
+Members Latest Month =
+    VAR LastMonth = MAX ( fact_membership[month] )
+    RETURN CALCULATE ( [Members], dim_date[month] = LastMonth )
+
+Net Change =
+    SUM ( fact_membership[gross_adds] ) - SUM ( fact_membership[terminations] )
+
+Budget Members =
+    SUM ( fact_budget[budget_members] )
+
+Variance to Budget =
+    [Members] - [Budget Members]
+
+Variance to Budget % =
+    DIVIDE ( [Variance to Budget], [Budget Members] )
+
+Forecast Members =
+    SUM ( fact_forecast[forecast_members] )
+
+Forecast Variance % =
+    DIVIDE ( SUM ( fact_forecast[actual_members] ) - [Forecast Members], [Forecast Members] )
+
+Variance Flag =
+    IF ( ABS ( [Variance to Budget %] ) > 0.02, "Research", "Within tolerance" )

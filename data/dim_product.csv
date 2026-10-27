@@ -1,0 +1,7 @@
+product,line_of_business,owner_team
+MA-HMO,Medicare Advantage,Government Markets
+MA-PPO,Medicare Advantage,Government Markets
+PDP,Medicare Part D,Government Markets
+ACA Individual,Commercial Individual,Commercial Sales
+Large Group,Commercial Group,Commercial Sales
+Small Group,Commercial Group,Commercial Sales

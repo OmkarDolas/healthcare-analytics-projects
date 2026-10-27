@@ -1,0 +1,145 @@
+month,product,actual_members,forecast_members,type,variance,variance_pct,flag
+2026-01-01,ACA Individual,46990.0,51214,backtest,-4224.0,-8.25,RESEARCH
+2026-02-01,ACA Individual,45746.0,50493,backtest,-4747.0,-9.4,RESEARCH
+2026-03-01,ACA Individual,44810.0,49678,backtest,-4868.0,-9.8,RESEARCH
+2026-04-01,ACA Individual,44337.0,49790,backtest,-5453.0,-10.95,RESEARCH
+2026-05-01,ACA Individual,44104.0,49864,backtest,-5760.0,-11.55,RESEARCH
+2026-06-01,ACA Individual,44119.0,50052,backtest,-5933.0,-11.85,RESEARCH
+2026-07-01,ACA Individual,43791.0,50129,backtest,-6338.0,-12.64,RESEARCH
+2026-08-01,ACA Individual,43504.0,50154,backtest,-6650.0,-13.26,RESEARCH
+2026-09-01,ACA Individual,43291.0,50213,backtest,-6922.0,-13.79,RESEARCH
+2026-10-01,ACA Individual,,43456,forecast,,,
+2026-11-01,ACA Individual,,43476,forecast,,,
+2026-12-01,ACA Individual,,43563,forecast,,,
+2027-01-01,ACA Individual,,46103,forecast,,,
+2027-02-01,ACA Individual,,45294,forecast,,,
+2027-03-01,ACA Individual,,44454,forecast,,,
+2027-04-01,ACA Individual,,44472,forecast,,,
+2027-05-01,ACA Individual,,44486,forecast,,,
+2027-06-01,ACA Individual,,44655,forecast,,,
+2027-07-01,ACA Individual,,44673,forecast,,,
+2027-08-01,ACA Individual,,44647,forecast,,,
+2027-09-01,ACA Individual,,44670,forecast,,,
+2027-10-01,ACA Individual,,44835,forecast,,,
+2027-11-01,ACA Individual,,44855,forecast,,,
+2027-12-01,ACA Individual,,44942,forecast,,,
+2026-01-01,Large Group,242603.0,242994,backtest,-391.0,-0.16,OK
+2026-02-01,Large Group,243627.0,242656,backtest,971.0,0.4,OK
+2026-03-01,Large Group,242475.0,243160,backtest,-685.0,-0.28,OK
+2026-04-01,Large Group,242372.0,243081,backtest,-709.0,-0.29,OK
+2026-05-01,Large Group,243264.0,243922,backtest,-658.0,-0.27,OK
+2026-06-01,Large Group,243805.0,243513,backtest,292.0,0.12,OK
+2026-07-01,Large Group,242503.0,244128,backtest,-1625.0,-0.67,OK
+2026-08-01,Large Group,243769.0,244587,backtest,-818.0,-0.33,OK
+2026-09-01,Large Group,243580.0,244496,backtest,-916.0,-0.37,OK
+2026-10-01,Large Group,,243323,forecast,,,
+2026-11-01,Large Group,,242992,forecast,,,
+2026-12-01,Large Group,,243115,forecast,,,
+2027-01-01,Large Group,,247518,forecast,,,
+2027-02-01,Large Group,,247389,forecast,,,
+2027-03-01,Large Group,,247376,forecast,,,
+2027-04-01,Large Group,,247175,forecast,,,
+2027-05-01,Large Group,,247931,forecast,,,
+2027-06-01,Large Group,,247599,forecast,,,
+2027-07-01,Large Group,,247993,forecast,,,
+2027-08-01,Large Group,,248582,forecast,,,
+2027-09-01,Large Group,,248458,forecast,,,
+2027-10-01,Large Group,,248204,forecast,,,
+2027-11-01,Large Group,,247872,forecast,,,
+2027-12-01,Large Group,,247995,forecast,,,
+2026-01-01,MA-HMO,89385.0,88789,backtest,596.0,0.67,OK
+2026-02-01,MA-HMO,88500.0,88036,backtest,464.0,0.53,OK
+2026-03-01,MA-HMO,87269.0,87357,backtest,-88.0,-0.1,OK
+2026-04-01,MA-HMO,87577.0,87475,backtest,102.0,0.12,OK
+2026-05-01,MA-HMO,88314.0,87784,backtest,530.0,0.6,OK
+2026-06-01,MA-HMO,88301.0,88092,backtest,209.0,0.24,OK
+2026-07-01,MA-HMO,88260.0,88277,backtest,-17.0,-0.02,OK
+2026-08-01,MA-HMO,88188.0,88420,backtest,-232.0,-0.26,OK
+2026-09-01,MA-HMO,88795.0,88583,backtest,212.0,0.24,OK
+2026-10-01,MA-HMO,,88953,forecast,,,
+2026-11-01,MA-HMO,,89066,forecast,,,
+2026-12-01,MA-HMO,,89246,forecast,,,
+2027-01-01,MA-HMO,,93606,forecast,,,
+2027-02-01,MA-HMO,,92841,forecast,,,
+2027-03-01,MA-HMO,,92054,forecast,,,
+2027-04-01,MA-HMO,,92221,forecast,,,
+2027-05-01,MA-HMO,,92598,forecast,,,
+2027-06-01,MA-HMO,,92881,forecast,,,
+2027-07-01,MA-HMO,,93045,forecast,,,
+2027-08-01,MA-HMO,,93144,forecast,,,
+2027-09-01,MA-HMO,,93376,forecast,,,
+2027-10-01,MA-HMO,,93642,forecast,,,
+2027-11-01,MA-HMO,,93756,forecast,,,
+2027-12-01,MA-HMO,,93936,forecast,,,
+2026-01-01,MA-PPO,67515.0,65866,backtest,1649.0,2.5,RESEARCH
+2026-02-01,MA-PPO,67011.0,65196,backtest,1815.0,2.78,RESEARCH
+2026-03-01,MA-PPO,66499.0,64878,backtest,1621.0,2.5,RESEARCH
+2026-04-01,MA-PPO,66510.0,65067,backtest,1443.0,2.22,RESEARCH
+2026-05-01,MA-PPO,67069.0,65257,backtest,1812.0,2.78,RESEARCH
+2026-06-01,MA-PPO,67476.0,65613,backtest,1863.0,2.84,RESEARCH
+2026-07-01,MA-PPO,68204.0,65732,backtest,2472.0,3.76,RESEARCH
+2026-08-01,MA-PPO,68761.0,66030,backtest,2731.0,4.14,RESEARCH
+2026-09-01,MA-PPO,69091.0,66392,backtest,2699.0,4.07,RESEARCH
+2026-10-01,MA-PPO,,69380,forecast,,,
+2026-11-01,MA-PPO,,69688,forecast,,,
+2026-12-01,MA-PPO,,69979,forecast,,,
+2027-01-01,MA-PPO,,73751,forecast,,,
+2027-02-01,MA-PPO,,73227,forecast,,,
+2027-03-01,MA-PPO,,72982,forecast,,,
+2027-04-01,MA-PPO,,73283,forecast,,,
+2027-05-01,MA-PPO,,73646,forecast,,,
+2027-06-01,MA-PPO,,74132,forecast,,,
+2027-07-01,MA-PPO,,74410,forecast,,,
+2027-08-01,MA-PPO,,74802,forecast,,,
+2027-09-01,MA-PPO,,75188,forecast,,,
+2027-10-01,MA-PPO,,75477,forecast,,,
+2027-11-01,MA-PPO,,75786,forecast,,,
+2027-12-01,MA-PPO,,76076,forecast,,,
+2026-01-01,PDP,29213.0,29193,backtest,20.0,0.07,OK
+2026-02-01,PDP,28851.0,28944,backtest,-93.0,-0.32,OK
+2026-03-01,PDP,28560.0,28708,backtest,-148.0,-0.52,OK
+2026-04-01,PDP,28547.0,28548,backtest,-1.0,-0.0,OK
+2026-05-01,PDP,28419.0,28501,backtest,-82.0,-0.29,OK
+2026-06-01,PDP,28290.0,28561,backtest,-271.0,-0.95,OK
+2026-07-01,PDP,28428.0,28479,backtest,-51.0,-0.18,OK
+2026-08-01,PDP,28247.0,28461,backtest,-214.0,-0.75,OK
+2026-09-01,PDP,28476.0,28481,backtest,-5.0,-0.02,OK
+2026-10-01,PDP,,28322,forecast,,,
+2026-11-01,PDP,,28325,forecast,,,
+2026-12-01,PDP,,28271,forecast,,,
+2027-01-01,PDP,,29156,forecast,,,
+2027-02-01,PDP,,28888,forecast,,,
+2027-03-01,PDP,,28642,forecast,,,
+2027-04-01,PDP,,28508,forecast,,,
+2027-05-01,PDP,,28446,forecast,,,
+2027-06-01,PDP,,28475,forecast,,,
+2027-07-01,PDP,,28430,forecast,,,
+2027-08-01,PDP,,28385,forecast,,,
+2027-09-01,PDP,,28439,forecast,,,
+2027-10-01,PDP,,28353,forecast,,,
+2027-11-01,PDP,,28357,forecast,,,
+2027-12-01,PDP,,28302,forecast,,,
+2026-01-01,Small Group,54534.0,54673,backtest,-139.0,-0.25,OK
+2026-02-01,Small Group,54439.0,54598,backtest,-159.0,-0.29,OK
+2026-03-01,Small Group,54701.0,54487,backtest,214.0,0.39,OK
+2026-04-01,Small Group,54423.0,54310,backtest,113.0,0.21,OK
+2026-05-01,Small Group,54603.0,54426,backtest,177.0,0.33,OK
+2026-06-01,Small Group,54277.0,54311,backtest,-34.0,-0.06,OK
+2026-07-01,Small Group,54013.0,54074,backtest,-61.0,-0.11,OK
+2026-08-01,Small Group,53710.0,54024,backtest,-314.0,-0.58,OK
+2026-09-01,Small Group,53535.0,54047,backtest,-512.0,-0.95,OK
+2026-10-01,Small Group,,53470,forecast,,,
+2026-11-01,Small Group,,53416,forecast,,,
+2026-12-01,Small Group,,53425,forecast,,,
+2027-01-01,Small Group,,54249,forecast,,,
+2027-02-01,Small Group,,54167,forecast,,,
+2027-03-01,Small Group,,54118,forecast,,,
+2027-04-01,Small Group,,53927,forecast,,,
+2027-05-01,Small Group,,54053,forecast,,,
+2027-06-01,Small Group,,53896,forecast,,,
+2027-07-01,Small Group,,53662,forecast,,,
+2027-08-01,Small Group,,53566,forecast,,,
+2027-09-01,Small Group,,53562,forecast,,,
+2027-10-01,Small Group,,53368,forecast,,,
+2027-11-01,Small Group,,53314,forecast,,,
+2027-12-01,Small Group,,53323,forecast,,,

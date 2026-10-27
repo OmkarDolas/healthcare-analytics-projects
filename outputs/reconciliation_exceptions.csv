@@ -1,0 +1,7 @@
+month,product,region,enrollment_members,finance_members,variance,variance_pct,status
+2026-03-01,MA-PPO,Philadelphia,21997,20457,1540,7.0,RESEARCH
+2026-06-01,ACA Individual,Bucks,7059,6847,212,3.0,RESEARCH
+2026-06-01,ACA Individual,Chester,6175,5990,185,3.0,RESEARCH
+2026-06-01,ACA Individual,Delaware,7023,6812,211,3.0,RESEARCH
+2026-06-01,ACA Individual,Montgomery,9247,8970,277,3.0,RESEARCH
+2026-06-01,ACA Individual,Philadelphia,14615,14177,438,3.0,RESEARCH
