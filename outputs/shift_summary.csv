@@ -1,0 +1,3 @@
+comparison,domain_classifier_auroc,features_abs_smd_gt_0.1,event_rate_source,event_rate_target
+external (IL) vs development (MA),0.49773875661236955,0,0.15123914424909976,0.15305280528052806
+2018 vs 2006-2014 (development site),0.5339917552807106,1,0.14301961899346033,0.17524916943521596

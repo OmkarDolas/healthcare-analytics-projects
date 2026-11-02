@@ -2,3 +2,7 @@ __pycache__/
 *.pyc
 .venv/
 .ipynb_checkpoints/
+.pytest_cache/
+
+# Generated synthetic data (reproduce with `make data omop cohort`)
+data/

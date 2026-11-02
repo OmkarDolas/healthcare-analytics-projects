@@ -1,0 +1,12 @@
+duckdb>=1.1
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+xgboost>=2.1
+matplotlib>=3.8
+pydantic>=2.7
+pyarrow>=16
+pytest>=8
+# PyTorch (for the MLP model): install the build for your hardware, e.g.
+#   pip install torch                                                      # CUDA build
+#   pip install --index-url https://download.pytorch.org/whl/cpu torch     # CPU only

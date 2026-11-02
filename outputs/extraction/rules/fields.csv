@@ -1,0 +1,4 @@
+field,accuracy
+age (exact),0.9930675909878682
+sex,0.9930675909878682
+smoking_status,0.9670710571923743

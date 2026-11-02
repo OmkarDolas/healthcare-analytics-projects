@@ -1,0 +1,21 @@
+field,label,support,tp,fp,fn,precision,recall,f1
+conditions,hypertension,35,35.0,0.0,0.0,1.0,1.0,1.0
+conditions,type_2_diabetes,9,9.0,6.0,0.0,0.6,1.0,0.7499999999999999
+conditions,prediabetes,67,67.0,0.0,0.0,1.0,1.0,1.0
+conditions,hyperlipidemia,19,19.0,1.0,0.0,0.95,1.0,0.9743589743589743
+conditions,chronic_kidney_disease,24,24.0,6.0,0.0,0.8,1.0,0.888888888888889
+conditions,obesity,88,88.0,0.0,0.0,1.0,1.0,1.0
+conditions,ischemic_heart_disease,21,21.0,0.0,0.0,1.0,1.0,1.0
+conditions,myocardial_infarction,37,37.0,0.0,0.0,1.0,1.0,1.0
+conditions,stroke,7,7.0,0.0,0.0,1.0,1.0,1.0
+conditions,heart_failure,5,5.0,1.0,0.0,0.8333333333333334,1.0,0.9090909090909091
+conditions,atrial_fibrillation,1,1.0,0.0,0.0,1.0,1.0,1.0
+conditions,MICRO,313,313.0,14.0,0.0,0.9571865443425076,1.0,0.978125
+conditions,MACRO (labels with support),313,,,,,,0.9565762520307974
+medication_classes,statin,47,44.0,17.0,3.0,0.7213114754098361,0.9361702127659575,0.8148148148148149
+medication_classes,antihypertensive,165,162.0,21.0,3.0,0.8852459016393442,0.9818181818181818,0.9310344827586207
+medication_classes,glucose_lowering,55,55.0,3.0,0.0,0.9482758620689655,1.0,0.9734513274336283
+medication_classes,antiplatelet,391,391.0,4.0,0.0,0.9898734177215189,1.0,0.9949109414758269
+medication_classes,anticoagulant,46,44.0,1.0,2.0,0.9777777777777777,0.9565217391304348,0.967032967032967
+medication_classes,MICRO,704,696.0,46.0,8.0,0.9380053908355795,0.9886363636363636,0.9626556016597511
+medication_classes,MACRO (labels with support),704,,,,,,0.9362489067031715

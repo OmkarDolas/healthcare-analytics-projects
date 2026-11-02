@@ -1,0 +1,2 @@
+extractor,notes,patients,age_accuracy,sex_accuracy,smoking_accuracy,conditions_micro_f1,medications_micro_f1,unsupported_claims,evidence_grounding_rate,median_seconds_per_note,problem_list_conditions_missing_from_note
+rules,577,154,0.9930675909878682,0.9930675909878682,0.9670710571923743,0.978125,0.9626556016597511,60,1.0,0.000318351999794686,0.7304582210242587

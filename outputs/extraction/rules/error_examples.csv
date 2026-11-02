@@ -1,0 +1,11 @@
+note_id,note_date,missed,unsupported,field
+602e1d72-e902-db61-1eab-1ee30edacab6_000,2026-10-17,[],['heart_failure'],conditions
+b3c8d04a-a271-e830-dc9b-ac0abc717bf6_644,2016-08-19,[],['chronic_kidney_disease'],conditions
+7d915349-b675-d1c7-6b29-390ec6b569a0_916,1987-02-18,[],['type_2_diabetes'],conditions
+b7be0a3a-ce4f-cbd1-271d-d39e98a96f67_036,2010-07-05,[],['type_2_diabetes'],conditions
+cc00b3f2-b5e9-c3b0-5fc7-bac87f33d4fa_386,2020-05-28,[],['chronic_kidney_disease'],conditions
+dca95e45-c130-9e0f-24af-a2b219408a55_066,2014-05-10,[],"['antihypertensive', 'statin']",medication_classes
+dc9af926-e22d-7f55-3eea-25fa9fe93bae_006,2023-08-13,[],['antihypertensive'],medication_classes
+8baefa9c-d0b0-66bd-a517-2ac956f01fc0_323,1971-02-13,[],['antihypertensive'],medication_classes
+4dd98024-b86b-223e-e5c5-a2865cbb938a_042,2018-02-07,[],['glucose_lowering'],medication_classes
+602e1d72-e902-db61-1eab-1ee30edacab6_199,2012-11-24,[],['statin'],medication_classes
